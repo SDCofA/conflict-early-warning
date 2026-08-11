@@ -1,10 +1,10 @@
 # Conflict Early Warning System
 
-[![Pages](https://github.com/MonarchCastleTech/conflict-early-warning/actions/workflows/pipeline.yml/badge.svg)](https://github.com/MonarchCastleTech/conflict-early-warning/actions/workflows/pipeline.yml)
+[![Pages](https://github.com/SDCofA/conflict-early-warning/actions/workflows/pipeline.yml/badge.svg)](https://github.com/SDCofA/conflict-early-warning/actions/workflows/pipeline.yml)
 
 Open-source indicators for monitoring changes in conflict risk.
 
-**Live dashboard:** https://monarchcastletech.github.io/conflict-early-warning/
+**Live dashboard:** https://sdcofa.github.io/conflict-early-warning/
 
 ## Run locally
 
@@ -26,4 +26,4 @@ Source availability varies. The dashboard identifies its generation time and ope
 
 ## Brand
 
-Part of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
+Published by SDCofA, the endorsed analytical unit of Monarch Castle Technologies. See [BRAND.md](BRAND.md) for approved asset use.
