@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-08-17T18:58:26.419262+00:00",
+    "generated": "2026-08-18T01:51:31.266012+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -43,15 +43,6 @@
         "language": "Hindi",
         "tone": 0,
         "seendate": "20260815T190000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "沖縄県知事選で自民県議が暴言 / デニー知事支援者を誹謗中傷 | しんぶん赤旗｜日本共産党",
-        "url": "https://www.jcp.or.jp/akahata/aik26/2026-08-11/2026081104_02_0.php",
-        "domain": "jcp.or.jp",
-        "language": "Japanese",
-        "tone": 0,
-        "seendate": "20260811T010000Z",
         "source": "GDELT"
       },
       {
@@ -163,21 +154,21 @@
         "source": "GDELT"
       },
       {
-        "title": "  U shit te Tom Doshi / Sherr brenda  Revolucionit Flamingo , përplasen organizatorët , akuza për administrimin e mbi 1 – 24 ore",
-        "url": "https://24-ore.com/u-shit-te-tom-doshi-sherr-brenda-revolucionit-flamingo-perplasen-organizatoret-akuza-per-administrimin-e-mbi-1/",
-        "domain": "24-ore.com",
-        "language": "Albanian",
-        "tone": 0,
-        "seendate": "20260817T101500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "提升公民行动力 湾区举办非暴力抵抗培训",
         "url": "https://www.epochtimes.com/gb/26/8/10/n14827107.htm",
         "domain": "epochtimes.com",
         "language": "Chinese",
         "tone": 0,
         "seendate": "20260814T023000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "  U shit te Tom Doshi / Sherr brenda  Revolucionit Flamingo , përplasen organizatorët , akuza për administrimin e mbi 1 – 24 ore",
+        "url": "https://24-ore.com/u-shit-te-tom-doshi-sherr-brenda-revolucionit-flamingo-perplasen-organizatoret-akuza-per-administrimin-e-mbi-1/",
+        "domain": "24-ore.com",
+        "language": "Albanian",
+        "tone": 0,
+        "seendate": "20260817T101500Z",
         "source": "GDELT"
       },
       {
@@ -235,12 +226,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Bihar tiger attack : Farmer killed near Valmiki reserve , mob assaults forest staff",
-        "url": "https://www.hindustantimes.com/india-news/bihar-tiger-attack-farmer-killed-near-valmiki-reserve-mob-assaults-forest-staff-101786942262628.html",
-        "domain": "hindustantimes.com",
-        "language": "English",
+        "title": "Буддийские монахи конфликтуют с Хабадом на Шри - Ланке",
+        "url": "https://www.9tv.co.il/item/262058",
+        "domain": "9tv.co.il",
+        "language": "Russian",
         "tone": 0,
-        "seendate": "20260817T064500Z",
+        "seendate": "20260817T190000Z",
         "source": "GDELT"
       },
       {
@@ -250,6 +241,15 @@
         "language": "Turkish",
         "tone": 0,
         "seendate": "20260814T131500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Bihar tiger attack : Farmer killed near Valmiki reserve , mob assaults forest staff",
+        "url": "https://www.hindustantimes.com/india-news/bihar-tiger-attack-farmer-killed-near-valmiki-reserve-mob-assaults-forest-staff-101786942262628.html",
+        "domain": "hindustantimes.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T064500Z",
         "source": "GDELT"
       },
       {
@@ -271,6 +271,15 @@
         "source": "GDELT"
       },
       {
+        "title": "Cuarto día de paro en Pucallpa : continúan bloqueos , grifos permanecen cerrados y hay largas colas por combustible | Sociedad",
+        "url": "https://larepublica.pe/sociedad/2026/08/13/cuarto-dia-de-paro-en-pucallpa-continuan-bloqueos-grifos-permanecen-cerrados-y-hay-largas-colas-por-combustible-241982",
+        "domain": "larepublica.pe",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260813T180000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Napätie v španielskej exkláve : Stovky migrantov žiadajú azyl namiesto vyhostenia",
         "url": "https://www.topky.sk/cl/11/9470965/Napatie-v-spanielskej-exklave--Stovky-migrantov-ziadaju-azyl-namiesto-vyhostenia",
         "domain": "topky.sk",
@@ -286,15 +295,6 @@
         "language": "Slovak",
         "tone": 0,
         "seendate": "20260816T210000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Cuarto día de paro en Pucallpa : continúan bloqueos , grifos permanecen cerrados y hay largas colas por combustible | Sociedad",
-        "url": "https://larepublica.pe/sociedad/2026/08/13/cuarto-dia-de-paro-en-pucallpa-continuan-bloqueos-grifos-permanecen-cerrados-y-hay-largas-colas-por-combustible-241982",
-        "domain": "larepublica.pe",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260813T180000Z",
         "source": "GDELT"
       },
       {
@@ -370,12 +370,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Rússia bane último partido contrário à guerra de eleio",
-        "url": "https://www1.folha.uol.com.br/mundo/2026/08/russia-bane-ultimo-partido-contrario-a-guerra-de-eleicao.shtml",
-        "domain": "folha.uol.com.br",
-        "language": "Portuguese",
+        "title": "  Francia resolvió un conflicto similar al de Ceuta y Melilla con Marruecos mediante un referéndum donde más del 80 % votó a favor de mantenerse bajo administración francesa , fue en la isla de Mayotte  ",
+        "url": "https://www.cope.es/programas/la-linterna/el-foco/audios/francia-resolvio-conflicto-similar-ceuta-melilla-marruecos-mediante-referendum-80-voto-favor-mantenerse-administracion-francesa-isla-mayotte-20260817_3421035.html",
+        "domain": "cope.es",
+        "language": "Spanish",
         "tone": 0,
-        "seendate": "20260810T203000Z",
+        "seendate": "20260817T231500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Grupo de extrema izquierda llama a rebelión en los liceos para dinamitar otro  estallido social  en Chile",
+        "url": "https://panampost.com/gabriela-moreno/2026/08/17/grupo-de-extrema-izquierda-llama-a-rebelion-en-los-liceos-para-dinamitar-otro-estallido-social-en-chile/",
+        "domain": "panampost.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260817T194500Z",
         "source": "GDELT"
       },
       {
@@ -514,6 +523,15 @@
         "source": "GDELT"
       },
       {
+        "title": "Kако до успеха на северу Косова | Wikileaks на НСПМ",
+        "url": "https://www.nspm.rs/wikileaks-na-nspm/kako-do-uspeha-na-severu-kosova.html",
+        "domain": "nspm.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260817T231500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Ireland among 30 nations to condemn Iran executions",
         "url": "https://www.rte.ie/news/middle-east/2026/0813/1587674-iran-executions-statement/",
         "domain": "rte.ie",
@@ -568,15 +586,6 @@
         "source": "GDELT"
       },
       {
-        "title": "In Spain Ceuta , hundreds of migrants stage protest and demand asylum",
-        "url": "https://www.yahoo.com/news/articles/spains-ceuta-hundreds-migrants-stage-164250662.html",
-        "domain": "yahoo.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T174500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Jharkhand Student Protest : छात्रों के समर्थन में अरविंद केजरीवाल , झारखंड सरकार से बोले - मांगें पूरी करें , हिंसा बर्दाश्त नहीं",
         "url": "https://www.khabarfast.com/arvind-kejriwal-in-support-of-jharkhand-protesting-students",
         "domain": "khabarfast.com",
@@ -610,6 +619,15 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260815T200000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "In Spain Ceuta , hundreds of migrants stage protest and demand asylum",
+        "url": "https://www.yahoo.com/news/articles/spains-ceuta-hundreds-migrants-stage-164250662.html",
+        "domain": "yahoo.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T174500Z",
         "source": "GDELT"
       },
       {
@@ -667,12 +685,30 @@
         "source": "GDELT"
       },
       {
+        "title": "Court backs Benoni homeless ; No bail for Peet Viljoen : Today top 7 stories",
+        "url": "https://www.news24.com/southafrica/news/court-backs-benoni-homeless-no-bail-for-peet-viljoen-todays-top-7-stories-20260817-1061",
+        "domain": "news24.com",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T210000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Hundreds of migrants in Spain Ceuta enclave protest for asylum , against deportation to Morocco",
         "url": "https://www.cbc.ca/news/world/protest-migrant-spain-ceuta-morocco-9.7309187",
         "domain": "cbc.ca",
         "language": "English",
         "tone": 0,
         "seendate": "20260816T203000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Riazor descubre que el silencio también juega",
+        "url": "https://www.mundiario.com/articulo/deportes/riazor-descubre-que-silencio-tambien-juega/20260817235915435906.html",
+        "domain": "mundiario.com",
+        "language": "Spanish",
+        "tone": 0,
+        "seendate": "20260818T003000Z",
         "source": "GDELT"
       },
       {
@@ -703,15 +739,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Sadc summit in Durban on alert ahead of anti - immigrant march",
-        "url": "https://www.businessday.co.za/news/2026-08-16-sadc-summit-in-durban-on-alert-ahead-of-anti-immigrant-march/",
-        "domain": "businessday.co.za",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260816T180000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Cadena de atrocidades en un mar de impunidad - El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
         "url": "https://suracapulco.mx/cadena-de-atrocidades-en-un-mar-de-impunidad/",
         "domain": "suracapulco.mx",
@@ -727,6 +754,15 @@
         "language": "Vietnamese",
         "tone": 0,
         "seendate": "20260812T233000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Sadc summit in Durban on alert ahead of anti - immigrant march",
+        "url": "https://www.businessday.co.za/news/2026-08-16-sadc-summit-in-durban-on-alert-ahead-of-anti-immigrant-march/",
+        "domain": "businessday.co.za",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260816T180000Z",
         "source": "GDELT"
       },
       {
@@ -748,21 +784,21 @@
         "source": "GDELT"
       },
       {
+        "title": "Kosovo : Succes in the north key to a successful",
+        "url": "https://www.nspm.rs/wikileaks-na-nspm/kosovo-succes-in-the-north-key-to-a-successful.html",
+        "domain": "nspm.rs",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260817T231500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "Exclusive Nigerian Lawyer Details Harrowing Christian Persecution :  A Daily Occurrence  ",
         "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
         "domain": "breitbart.com",
         "language": "English",
         "tone": 0,
         "seendate": "20260811T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Grecia . Manifestante :  Hamas no es una organización terrorista , y según la ONU , los palestinos tienen derecho a defenderse  ",
-        "url": "https://itongadol.com/internacionales/grecia-manifestante-hamas-no-es-una-organizacion-terrorista-y-segun-la-onu-los-palestinos-tienen-derecho-a-defenderse",
-        "domain": "itongadol.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260810T233000Z",
         "source": "GDELT"
       },
       {
@@ -781,15 +817,6 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260812T170000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "From Rumour to Research : MU intervention in Manipur crisis - The Sangai Express - Largest Circulated NewsPaper in Manipur",
-        "url": "https://www.thesangaiexpress.com/Encyc/2026/8/10/naorem-mohen-editor-signpost-news-the-release-of-south-asian-anthropologys-special-issue-on-unsettling-manipur.html",
-        "domain": "thesangaiexpress.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260810T204500Z",
         "source": "GDELT"
       },
       {
@@ -838,6 +865,15 @@
         "source": "GDELT"
       },
       {
+        "title": "معضلة الشرق الأوسط : تقاطعات فساد السلطة والنص والإنسان في ظل الرأسمالية المراوغة – كتابات",
+        "url": "https://kitabat.com/%D9%85%D8%B9%D8%B6%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7-%D8%AA%D9%82%D8%A7%D8%B7%D8%B9%D8%A7%D8%AA-%D9%81%D8%B3%D8%A7%D8%AF-%D8%A7%D9%84%D8%B3%D9%84%D8%B7/",
+        "domain": "kitabat.com",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260817T224500Z",
+        "source": "GDELT"
+      },
+      {
         "title": "人在莫斯科 ， 死刑  从天降  |俄罗斯|叙利亚|过渡政府",
         "url": "https://www.163.com/dy/article/L4F4VQ050514BE2Q.html",
         "domain": "163.com",
@@ -853,6 +889,15 @@
         "language": "Spanish",
         "tone": 0,
         "seendate": "20260814T181500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Po skambių pažadų – kraujo balos : štai ką kalba Trumpu patikėję Irano žmonės",
+        "url": "https://www.15min.lt/naujiena/aktualu/pasaulis/po-skambiu-pazadu-kraujo-balos-stai-ka-kalba-trumpu-patikeje-irano-zmones-57-2744872",
+        "domain": "15min.lt",
+        "language": "Lithuanian",
+        "tone": 0,
+        "seendate": "20260817T210000Z",
         "source": "GDELT"
       },
       {
@@ -874,15 +919,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Gigantes del gas y los pobres rebeldes : La ilusión económica de Irán en 2026 y la ceguera occidental",
-        "url": "https://www.periodistadigital.com/masalladelasnoticias/20260817/gigantes-del-gas-y-los-pobres-rebeldes-la-ilusion-economica-de-iran-en-2026-y-la-ceguera-occidental-689405237365/",
-        "domain": "periodistadigital.com",
-        "language": "Spanish",
-        "tone": 0,
-        "seendate": "20260817T063000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Cameroun : Fédéralisme camerounais - Lenterrement de 1972 et ses fantômes",
         "url": "https://fr.allafrica.com/stories/202608140307.html",
         "domain": "fr.allafrica.com",
@@ -892,320 +928,284 @@
         "source": "GDELT"
       },
       {
-        "title": "Una mujer trans murió tras recibir una puñalada en el pecho",
-        "url": "https://www.catamarcactual.com.ar/policiales/2026/8/14/una-mujer-trans-murio-tras-recibir-una-punalada-en-el-pecho-313940.html",
-        "domain": "catamarcactual.com.ar",
+        "title": "Gigantes del gas y los pobres rebeldes : La ilusión económica de Irán en 2026 y la ceguera occidental",
+        "url": "https://www.periodistadigital.com/masalladelasnoticias/20260817/gigantes-del-gas-y-los-pobres-rebeldes-la-ilusion-economica-de-iran-en-2026-y-la-ceguera-occidental-689405237365/",
+        "domain": "periodistadigital.com",
         "language": "Spanish",
         "tone": 0,
-        "seendate": "20260815T010000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Poruszenie na Bałkanach . Wołodymyr Zełenski rozwścieczył Kosowo",
-        "url": "https://wiadomosci.onet.pl/politico/poruszenie-na-balkanach-wolodymyr-zelenski-rozwscieczyl-kosowo/4zm2f7f",
-        "domain": "wiadomosci.onet.pl",
-        "language": "Polish",
-        "tone": 0,
-        "seendate": "20260812T090000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Strathfield heritage home dispute : Former Shark Tank contestant Christopher Ghaleb taken to court by council over unauthorised works",
-        "url": "https://www.smh.com.au/national/nsw/the-4-million-sydney-mansion-facing-partial-demolition-after-bitter-council-feud-20260805-p60lml.html",
-        "domain": "smh.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T101500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Strathfield heritage home dispute : Former Shark Tank contestant Christopher Ghaleb taken to court by council over unauthorised works",
-        "url": "https://www.theage.com.au/national/nsw/the-4-million-sydney-mansion-facing-partial-demolition-after-bitter-council-feud-20260805-p60lml.html",
-        "domain": "theage.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T100000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Strathfield heritage home dispute : Former Shark Tank contestant Christopher Ghaleb taken to court by council over unauthorised works",
-        "url": "https://www.brisbanetimes.com.au/national/nsw/the-4-million-sydney-mansion-facing-partial-demolition-after-bitter-council-feud-20260805-p60lml.html",
-        "domain": "brisbanetimes.com.au",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260812T100000Z",
+        "seendate": "20260817T063000Z",
         "source": "GDELT"
       }
     ],
     "earthquakes": [
       {
-        "place": "28 km SE of Bodie, CA",
-        "mag": 2.48,
-        "time": 1786992725180,
-        "lon": -118.798500061035,
-        "lat": 38.023998260498,
-        "depth": 10.6499996185303,
+        "place": "49 km W of Mentone, Texas",
+        "mag": 2.2,
+        "time": 1787017551207,
+        "lon": -104.124,
+        "lat": 31.737,
+        "depth": 4.2202,
         "source": "USGS"
       },
       {
-        "place": "2 km NNW of Diamond Ridge, Alaska",
-        "mag": 2.7,
-        "time": 1786991638989,
-        "lon": -151.585,
-        "lat": 59.699,
-        "depth": 63.4,
-        "source": "USGS"
-      },
-      {
-        "place": "20 km ESE of Little Lake, CA",
-        "mag": 1.13,
-        "time": 1786991246160,
-        "lon": -117.691,
-        "lat": 35.8993333333333,
-        "depth": 4.39,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km NNW of Warner Springs, CA",
-        "mag": 0.85,
-        "time": 1786990982570,
-        "lon": -116.694833333333,
-        "lat": 33.372,
-        "depth": 11.63,
-        "source": "USGS"
-      },
-      {
-        "place": "24 km SSW of Westbrook, Texas",
-        "mag": 1.9,
-        "time": 1786990649897,
-        "lon": -101.092,
-        "lat": 32.14,
-        "depth": 2.4738,
-        "source": "USGS"
-      },
-      {
-        "place": "45 km NE of Holtville, CA",
-        "mag": 1.18,
-        "time": 1786990477620,
-        "lon": -114.9965,
-        "lat": 33.055,
-        "depth": -0.2,
-        "source": "USGS"
-      },
-      {
-        "place": "155 km N of Pototano, Indonesia",
-        "mag": 4.6,
-        "time": 1786990205545,
-        "lon": 117.2457,
-        "lat": -7.0242,
-        "depth": 496.552,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WSW of Pinon Hills, CA",
-        "mag": 0.44,
-        "time": 1786990139570,
-        "lon": -117.749833333333,
-        "lat": 34.4085,
-        "depth": 8.42,
-        "source": "USGS"
-      },
-      {
-        "place": "4 km SW of Half Moon Bay, CA",
-        "mag": 1.3,
-        "time": 1786990018830,
-        "lon": -122.462997436523,
-        "lat": 37.4348335266113,
-        "depth": 7.01000022888184,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km WSW of Guánica, Puerto Rico",
-        "mag": 2.6,
-        "time": 1786989787160,
-        "lon": -66.9606666666667,
-        "lat": 17.9473333333333,
-        "depth": 12.82,
-        "source": "USGS"
-      },
-      {
-        "place": "5 km NE of Orlando, Oklahoma",
-        "mag": 1.43,
-        "time": 1786988506039,
-        "lon": -97.32866667,
-        "lat": 36.18516667,
-        "depth": 7.84,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km NW of The Geysers, CA",
-        "mag": 0.96,
-        "time": 1786988136140,
-        "lon": -122.810333251953,
-        "lat": 38.824333190918,
-        "depth": 2.26999998092651,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WSW of Anza, CA",
-        "mag": 0.58,
-        "time": 1786988065320,
-        "lon": -116.742666666667,
-        "lat": 33.5221666666667,
-        "depth": 4.31,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km NNW of Anza, CA",
-        "mag": 0.75,
-        "time": 1786987525300,
-        "lon": -116.712166666667,
-        "lat": 33.6441666666667,
-        "depth": 12.8,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km SSE of Anza, CA",
-        "mag": 0.64,
-        "time": 1786987009920,
-        "lon": -116.619,
-        "lat": 33.4581666666667,
-        "depth": 8.49,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km SW of Toms Place, CA",
-        "mag": 2.44,
-        "time": 1786986718210,
-        "lon": -118.832496643066,
-        "lat": 37.4478340148926,
-        "depth": 2.46000003814697,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSE of Idyllwild, CA",
-        "mag": 0.48,
-        "time": 1786985672530,
-        "lon": -116.692333333333,
-        "lat": 33.6826666666667,
-        "depth": 15.59,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km W of Forsan, Texas",
-        "mag": 1,
-        "time": 1786985193456,
-        "lon": -101.513,
-        "lat": 32.105,
-        "depth": 2.203,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSE of Idyllwild, CA",
-        "mag": 0.65,
-        "time": 1786985105780,
-        "lon": -116.680666666667,
-        "lat": 33.6903333333333,
-        "depth": 17.44,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km SSE of Idyllwild, CA",
-        "mag": 0.63,
-        "time": 1786984706990,
-        "lon": -116.694166666667,
-        "lat": 33.6825,
-        "depth": 16.23,
-        "source": "USGS"
-      },
-      {
-        "place": "3 km SW of Forsan, Texas",
-        "mag": 1.3,
-        "time": 1786984117714,
-        "lon": -101.395,
-        "lat": 32.09,
-        "depth": 9.7412,
-        "source": "USGS"
-      },
-      {
-        "place": "8 km W of Tecate, B.C., MX",
-        "mag": 1.03,
-        "time": 1786983953240,
-        "lon": -116.715333333333,
-        "lat": 32.5776666666667,
-        "depth": 4.72,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km NW of Pinnacles, CA",
-        "mag": 1.28,
-        "time": 1786983613650,
-        "lon": -121.23983001709,
-        "lat": 36.6238327026367,
-        "depth": 6.96000003814697,
-        "source": "USGS"
-      },
-      {
-        "place": "13 km NE of West Yellowstone, Montana",
-        "mag": 1.42,
-        "time": 1786983151060,
-        "lon": -110.9995,
-        "lat": 44.7605,
-        "depth": 9.94,
-        "source": "USGS"
-      },
-      {
-        "place": "6 km NE of Wardville, Oklahoma",
-        "mag": 1.26,
-        "time": 1786982926759,
-        "lon": -95.97416667,
-        "lat": 34.68966667,
-        "depth": 7.5,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km WNW of The Geysers, CA",
-        "mag": 0.76,
-        "time": 1786982740120,
-        "lon": -122.851333618164,
-        "lat": 38.8219985961914,
-        "depth": 2.5,
-        "source": "USGS"
-      },
-      {
-        "place": "53 km SSE of Whites City, New Mexico",
-        "mag": 1.9,
-        "time": 1786981566180,
-        "lon": -104.215,
-        "lat": 31.717,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "0 km WSW of Guánica, Puerto Rico",
-        "mag": 2.28,
-        "time": 1786981260740,
-        "lon": -66.9155,
-        "lat": 17.9688333333333,
-        "depth": 14.84,
-        "source": "USGS"
-      },
-      {
-        "place": "7 km WNW of Lindsay, Texas",
+        "place": "58 km S of Whites City, New Mexico",
         "mag": 1.5,
-        "time": 1786980167812,
-        "lon": -103.605,
-        "lat": 31.401,
-        "depth": 1.806,
+        "time": 1787016998682,
+        "lon": -104.442,
+        "lat": 31.653,
+        "depth": 4.4322,
         "source": "USGS"
       },
       {
-        "place": "6 km WNW of Wickett, Texas",
+        "place": "110 km N of Suárez, Puerto Rico",
+        "mag": 3.42,
+        "time": 1787016778570,
+        "lon": -65.7171666666667,
+        "lat": 19.417,
+        "depth": 45.06,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNE of Borrego Springs, CA",
+        "mag": 0.54,
+        "time": 1787016208610,
+        "lon": -116.3605,
+        "lat": 33.2991666666667,
+        "depth": 9.96,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km SE of San Pedro, CA",
+        "mag": 2.04,
+        "time": 1787015752140,
+        "lon": -118.2265,
+        "lat": 33.6835,
+        "depth": 5.56,
+        "source": "USGS"
+      },
+      {
+        "place": "south of the Fiji Islands",
+        "mag": 4.8,
+        "time": 1787015403872,
+        "lon": -179.0793,
+        "lat": -22.0411,
+        "depth": 576.355,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km S of Volcano, Hawaii",
+        "mag": 1.77,
+        "time": 1787013571360,
+        "lon": -155.243835449219,
+        "lat": 19.3600006103516,
+        "depth": 28.7099990844727,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km W of Cobb, CA",
+        "mag": 1.06,
+        "time": 1787013520420,
+        "lon": -122.799835205078,
+        "lat": 38.8283348083496,
+        "depth": 1.76999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "12 km N of Borrego Springs, CA",
+        "mag": 0.97,
+        "time": 1787013459150,
+        "lon": -116.383333333333,
+        "lat": 33.3641666666667,
+        "depth": 11.1,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km S of Volcano, Hawaii",
+        "mag": 1.59,
+        "time": 1787013452470,
+        "lon": -155.240833333333,
+        "lat": 19.3543333333333,
+        "depth": 29.16,
+        "source": "USGS"
+      },
+      {
+        "place": "38 km N of Chickaloon, Alaska",
+        "mag": 2.1,
+        "time": 1787013188697,
+        "lon": -148.586,
+        "lat": 62.139,
+        "depth": 27.1,
+        "source": "USGS"
+      },
+      {
+        "place": "57 km S of Whites City, New Mexico",
+        "mag": 1.6,
+        "time": 1787012587136,
+        "lon": -104.337,
+        "lat": 31.662,
+        "depth": 5.5132,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km SE of Loma Linda, CA",
+        "mag": 0.9,
+        "time": 1787012440170,
+        "lon": -117.216,
+        "lat": 34.0036666666667,
+        "depth": 5.22,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km SSW of Redlands, CA",
+        "mag": 1.51,
+        "time": 1787012139890,
+        "lon": -117.207,
+        "lat": 34.0048333333333,
+        "depth": 13.46,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km SSW of Redlands, CA",
+        "mag": 1.57,
+        "time": 1787011988430,
+        "lon": -117.202333333333,
+        "lat": 34.0083333333333,
+        "depth": 13.41,
+        "source": "USGS"
+      },
+      {
+        "place": "4 km SW of Volcano, Hawaii",
+        "mag": 1.75,
+        "time": 1787011745030,
+        "lon": -155.272506713867,
+        "lat": 19.4171657562256,
+        "depth": 0.589999973773956,
+        "source": "USGS"
+      },
+      {
+        "place": "1 km E of The Geysers, CA",
+        "mag": 1.29,
+        "time": 1787011225850,
+        "lon": -122.744834899902,
+        "lat": 38.7756652832031,
+        "depth": 2.02999997138977,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km WNW of Templeton, CA",
+        "mag": 1.08,
+        "time": 1787010733650,
+        "lon": -120.796669006348,
+        "lat": 35.5771675109863,
+        "depth": 4.40999984741211,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km WNW of Templeton, CA",
+        "mag": 1.57,
+        "time": 1787010432120,
+        "lon": -120.794830322266,
+        "lat": 35.5716667175293,
+        "depth": 4.69000005722046,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km SE of Chickasha, Oklahoma",
+        "mag": 1.82,
+        "time": 1787009589769,
+        "lon": -97.87766667,
+        "lat": 35.01916667,
+        "depth": 9.65,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Black Point-Green Point, CA",
+        "mag": 1.84,
+        "time": 1787009474680,
+        "lon": -122.539833068848,
+        "lat": 38.1561660766602,
+        "depth": 4.40999984741211,
+        "source": "USGS"
+      },
+      {
+        "place": "5 km NNW of Boron, CA",
+        "mag": 1.44,
+        "time": 1787009441550,
+        "lon": -117.671166666667,
+        "lat": 35.04,
+        "depth": -0.73,
+        "source": "USGS"
+      },
+      {
+        "place": "10 km S of Volcano, Hawaii",
+        "mag": 1.95,
+        "time": 1787009054910,
+        "lon": -155.242833333333,
+        "lat": 19.3505,
+        "depth": 28.68,
+        "source": "USGS"
+      },
+      {
+        "place": "6 km NNW of Lake Henshaw, CA",
+        "mag": 0.92,
+        "time": 1787008579610,
+        "lon": -116.783666666667,
+        "lat": 33.292,
+        "depth": 14.33,
+        "source": "USGS"
+      },
+      {
+        "place": "28 km SSE of Halibut Cove, Alaska",
         "mag": 2,
-        "time": 1786980042585,
-        "lon": -103.072,
-        "lat": 31.587,
-        "depth": 0,
+        "time": 1787007665773,
+        "lon": -150.949,
+        "lat": 59.381,
+        "depth": 34,
+        "source": "USGS"
+      },
+      {
+        "place": "59 km ENE of Colonia, Micronesia",
+        "mag": 5.3,
+        "time": 1787007191009,
+        "lon": 138.6056,
+        "lat": 9.7621,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "118 km SE of Akutan, Alaska",
+        "mag": 2.5,
+        "time": 1787006382493,
+        "lon": -164.443,
+        "lat": 53.423,
+        "depth": 10,
+        "source": "USGS"
+      },
+      {
+        "place": "7 km ESE of Palomar Observatory, CA",
+        "mag": 1.29,
+        "time": 1787006297800,
+        "lon": -116.7895,
+        "lat": 33.3313333333333,
+        "depth": 17.28,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km ESE of Palomar Observatory, CA",
+        "mag": 0.52,
+        "time": 1787006133210,
+        "lon": -116.7855,
+        "lat": 33.3321666666667,
+        "depth": 17.71,
+        "source": "USGS"
+      },
+      {
+        "place": "11 km WSW of Venetie, Alaska",
+        "mag": 3,
+        "time": 1787006116843,
+        "lon": -146.648,
+        "lat": 66.967,
+        "depth": 13,
         "source": "USGS"
       }
     ],
@@ -1220,15 +1220,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 65.3
+        "rate": 65.23
       },
       {
         "currency": "ALL",
-        "rate": 80.25
+        "rate": 80.16
       },
       {
         "currency": "AMD",
-        "rate": 365.77
+        "rate": 365.59
       },
       {
         "currency": "ANG",
@@ -1236,7 +1236,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 919.86
+        "rate": 927.79
       },
       {
         "currency": "ARS",
@@ -1264,7 +1264,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 122.72
+        "rate": 122.68
       },
       {
         "currency": "BGN",
@@ -1276,7 +1276,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2985.21
+        "rate": 2991.77
       },
       {
         "currency": "BMD",
@@ -1288,7 +1288,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 11.68
+        "rate": 11.63
       }
     ]
   },
