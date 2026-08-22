@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-08-22T13:01:48.164186+00:00",
+    "generated": "2026-08-22T15:03:21.483626+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -33,18 +33,116 @@
     }
   ],
   "live_data": {
-    "gdelt_articles": [
-      {
-        "title": " 【 一線看中國 】 廣西再有暴雨 河南災後河面漂浮大量死魚 | 廣西暴雨 | 新熱帶低壓 | 山東社區大爆炸",
-        "url": "https://www.ntdtv.com/b5/2026/08/22/a104126311.html",
-        "domain": "ntdtv.com",
-        "language": "Chinese",
-        "tone": 0,
-        "seendate": "20260822T064500Z",
-        "source": "GDELT"
-      }
-    ],
+    "gdelt_articles": [],
     "earthquakes": [
+      {
+        "place": "14 km SSW of Volcano, Hawaii",
+        "mag": 1.91,
+        "time": 1787410493400,
+        "lon": -155.264007568359,
+        "lat": 19.3150005340576,
+        "depth": 3.01999998092651,
+        "source": "USGS"
+      },
+      {
+        "place": "15 km SSW of Volcano, Hawaii",
+        "mag": 1.83,
+        "time": 1787410363690,
+        "lon": -155.26350402832,
+        "lat": 19.3098335266113,
+        "depth": 4.34000015258789,
+        "source": "USGS"
+      },
+      {
+        "place": "20 km WSW of Petrolia, CA",
+        "mag": 1.73,
+        "time": 1787409611140,
+        "lon": -124.515830993652,
+        "lat": 40.2748336791992,
+        "depth": 20.4200000762939,
+        "source": "USGS"
+      },
+      {
+        "place": "14 km S of Volcano, Hawaii",
+        "mag": 1.73,
+        "time": 1787409556610,
+        "lon": -155.256164550781,
+        "lat": 19.3108329772949,
+        "depth": 2.99000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "35 km NNW of Sutton-Alpine, Alaska",
+        "mag": 2,
+        "time": 1787409069405,
+        "lon": -148.972,
+        "lat": 62.081,
+        "depth": 12.6,
+        "source": "USGS"
+      },
+      {
+        "place": "44 km NW of Toyah, Texas",
+        "mag": 1.7,
+        "time": 1787408896519,
+        "lon": -104.104,
+        "lat": 31.61,
+        "depth": 5.3876,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km E of Ashford, Washington",
+        "mag": 1.70308011770248,
+        "time": 1787407954880,
+        "lon": -121.924003601074,
+        "lat": 46.7630004882812,
+        "depth": -0.910000026226044,
+        "source": "USGS"
+      },
+      {
+        "place": "21 km NW of Parkfield, CA",
+        "mag": 0.64,
+        "time": 1787407659550,
+        "lon": -120.601333618164,
+        "lat": 36.0315017700195,
+        "depth": 1.49000000953674,
+        "source": "USGS"
+      },
+      {
+        "place": "17 km ESE of Naalehu, Hawaii",
+        "mag": 1.77,
+        "time": 1787406191530,
+        "lon": -155.420837402344,
+        "lat": 19.0211658477783,
+        "depth": 29.8400001525879,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SSW of Willow, Alaska",
+        "mag": 1.7,
+        "time": 1787405834535,
+        "lon": -150.073,
+        "lat": 61.666,
+        "depth": 0.2,
+        "source": "USGS"
+      },
+      {
+        "place": "8 km W of Cobb, CA",
+        "mag": 1.04,
+        "time": 1787405134720,
+        "lon": -122.816497802734,
+        "lat": 38.836498260498,
+        "depth": 1.78999996185303,
+        "source": "USGS"
+      },
+      {
+        "place": "9 km SSE of San Juan Bautista, CA",
+        "mag": 1.7,
+        "time": 1787403652640,
+        "lon": -121.493667602539,
+        "lat": 36.7741661071777,
+        "depth": 4.46000003814697,
+        "source": "USGS"
+      },
       {
         "place": "63 km SE of Denali National Park, Alaska",
         "mag": 2,
@@ -136,6 +234,15 @@
         "source": "USGS"
       },
       {
+        "place": "7 km SSW of Canton, North Carolina",
+        "mag": 1.96,
+        "time": 1787397843910,
+        "lon": -82.8691666666667,
+        "lat": 35.4708333333333,
+        "depth": 6.2,
+        "source": "USGS"
+      },
+      {
         "place": "9 km NW of Imperial, CA",
         "mag": 1.14,
         "time": 1787397142530,
@@ -154,12 +261,12 @@
         "source": "USGS"
       },
       {
-        "place": "7 km E of Ashford, Washington",
-        "mag": 2.54715490341187,
-        "time": 1787396064200,
-        "lon": -121.93399810791,
-        "lat": 46.7639999389648,
-        "depth": -0.930000007152557,
+        "place": "8 km E of Ashford, Washington",
+        "mag": 2.42,
+        "time": 1787396064220,
+        "lon": -121.9255,
+        "lat": 46.7611666666667,
+        "depth": 3.64,
         "source": "USGS"
       },
       {
@@ -196,123 +303,6 @@
         "lon": -122.821502685547,
         "lat": 38.8404998779297,
         "depth": 1.95000004768372,
-        "source": "USGS"
-      },
-      {
-        "place": "32 km NNE of Mentone, Texas",
-        "mag": 2,
-        "time": 1787394029254,
-        "lon": -103.518,
-        "lat": 31.993,
-        "depth": 0,
-        "source": "USGS"
-      },
-      {
-        "place": "10 km ESE of San Mateo, New Mexico",
-        "mag": 4.1,
-        "time": 1787393953862,
-        "lon": -107.533,
-        "lat": 35.313,
-        "depth": 10,
-        "source": "USGS"
-      },
-      {
-        "place": "11 km SSW of Ridgemark, CA",
-        "mag": 2.3,
-        "time": 1787393221460,
-        "lon": -121.41967010498,
-        "lat": 36.7270011901855,
-        "depth": 7.07000017166138,
-        "source": "USGS"
-      },
-      {
-        "place": "36 km SSE of Midland, Texas",
-        "mag": 1,
-        "time": 1787392656805,
-        "lon": -101.995,
-        "lat": 31.674,
-        "depth": 3.6027,
-        "source": "USGS"
-      },
-      {
-        "place": "12 km W of Forsan, Texas",
-        "mag": 1.2,
-        "time": 1787392528976,
-        "lon": -101.494,
-        "lat": 32.116,
-        "depth": 2.4201,
-        "source": "USGS"
-      },
-      {
-        "place": "2 km N of Tallaboa, Puerto Rico",
-        "mag": 2.3,
-        "time": 1787391391280,
-        "lon": -66.717,
-        "lat": 18.021,
-        "depth": 40.2,
-        "source": "USGS"
-      },
-      {
-        "place": "15 km N of Warner Springs, CA",
-        "mag": 0.64,
-        "time": 1787391226070,
-        "lon": -116.643166666667,
-        "lat": 33.4131666666667,
-        "depth": 6.7,
-        "source": "USGS"
-      },
-      {
-        "place": "16 km SE of Anza, CA",
-        "mag": 0.01,
-        "time": 1787390721300,
-        "lon": -116.545166666667,
-        "lat": 33.4591666666667,
-        "depth": 10.87,
-        "source": "USGS"
-      },
-      {
-        "place": "61 km S of Whites City, New Mexico",
-        "mag": 1.6,
-        "time": 1787390238839,
-        "lon": -104.449,
-        "lat": 31.628,
-        "depth": 3.132,
-        "source": "USGS"
-      },
-      {
-        "place": "18 km WSW of Coyanosa, Texas",
-        "mag": 1.5,
-        "time": 1787389958770,
-        "lon": -103.256,
-        "lat": 31.208,
-        "depth": 5.5139,
-        "source": "USGS"
-      },
-      {
-        "place": "21 km E of Little Lake, CA",
-        "mag": 0.88,
-        "time": 1787389614390,
-        "lon": -117.672333333333,
-        "lat": 35.9488333333333,
-        "depth": 2.97,
-        "source": "USGS"
-      },
-      {
-        "place": "116 km N of Charlotte Amalie, U.S. Virgin Islands",
-        "mag": 3.41,
-        "time": 1787389610820,
-        "lon": -64.8276666666667,
-        "lat": 19.3886666666667,
-        "depth": 14.77,
-        "source": "USGS"
-      },
-      {
-        "place": "61 km W of Tyonek, Alaska",
-        "mag": 1.9,
-        "time": 1787388895237,
-        "lon": -152.272,
-        "lat": 61.019,
-        "depth": 116.7,
         "source": "USGS"
       }
     ],
@@ -399,27 +389,8 @@
       }
     ]
   },
-  "entities": [
-    {
-      "id": 1,
-      "name": " 【 一線看中國 】 廣西再有暴雨 河南災後河面漂浮大量死魚 | 廣西暴雨 | 新熱帶低壓 | 山東社區大爆炸",
-      "score": 5.0,
-      "category": "news",
-      "last_seen": "20260822T064500Z",
-      "source": "ntdtv.com"
-    }
-  ],
-  "events": [
-    {
-      "title": " 【 一線看中國 】 廣西再有暴雨 河南災後河面漂浮大量死魚 | 廣西暴雨 | 新熱帶低壓 | 山東社區大爆炸",
-      "url": "https://www.ntdtv.com/b5/2026/08/22/a104126311.html",
-      "domain": "ntdtv.com",
-      "language": "Chinese",
-      "tone": 0,
-      "seendate": "20260822T064500Z",
-      "source": "GDELT"
-    }
-  ],
+  "entities": [],
+  "events": [],
   "timeseries": [],
   "llm_summary": ""
 }
