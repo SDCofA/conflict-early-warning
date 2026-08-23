@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-08-22T18:51:37.068880+00:00",
+    "generated": "2026-08-23T02:02:45.697765+00:00",
     "mode": "live",
     "sources": [
       "gdelt_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "44",
+      "value": "42",
       "delta": "deduplicated"
     },
     {
@@ -50,15 +50,6 @@
         "language": "English",
         "tone": 0,
         "seendate": "20260822T114500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Balochistan Constitutional Peace : From Conflict to Settlem",
-        "url": "https://www.pakistantoday.com.pk/2026/08/22/from-conflict-to-constitutional-peace",
-        "domain": "pakistantoday.com.pk",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T203000Z",
         "source": "GDELT"
       },
       {
@@ -107,30 +98,12 @@
         "source": "GDELT"
       },
       {
-        "title": "Civis encurralados entre a guerra e o ebola - 21 / 08 / 2026 - Opinião",
-        "url": "https://www1.folha.uol.com.br/opiniao/2026/08/civis-encurralados-entre-a-guerra-e-o-ebola.shtml",
-        "domain": "folha.uol.com.br",
-        "language": "Portuguese",
+        "title": "伊朗陷戰爭僵局 「 雙重困境 」 利用伊拉克展現善意 - 國際",
+        "url": "https://www.chinatimes.com/realtimenews/20260823000044-260408",
+        "domain": "chinatimes.com",
+        "language": "Chinese",
         "tone": 0,
-        "seendate": "20260822T020000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "مليشيا الحوثي تعتقل أحد قيادييها الأمنيين بتهمة  الخيانة  ",
-        "url": "https://www.khabaragency.net/news251855.html",
-        "domain": "khabaragency.net",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260821T194500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "مصرع مشرف حوثي في ذمار يكشف صراع الجبايات داخل المليشيا .. خلاف مالي ينتهي باشتباك ومصرع ثلاثة",
-        "url": "https://www.almontasaf.net/news147345.html",
-        "domain": "almontasaf.net",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
+        "seendate": "20260822T213000Z",
         "source": "GDELT"
       },
       {
@@ -140,15 +113,6 @@
         "language": "French",
         "tone": 0,
         "seendate": "20260822T151500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Milica Vučković otkrila da je izgubila bebu : Sine moj , neka te anđeli čuvaju",
-        "url": "https://www.blic.rs/sudbine/milica-vuckovic-otkrila-da-je-izgubila-bebu-sine-moj-neka-te-andjeli-cuvaju/cm3nmjt",
-        "domain": "blic.rs",
-        "language": "Serbian",
-        "tone": 0,
-        "seendate": "20260821T213000Z",
         "source": "GDELT"
       },
       {
@@ -167,6 +131,15 @@
         "language": "Serbian",
         "tone": 0,
         "seendate": "20260822T173000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "مراقبون : توحيد القرار العسكري والسياسي الطريق الأقصر لاستعادة الدولة اليمنية",
+        "url": "https://www.khabaragency.net/news251906.html",
+        "domain": "khabaragency.net",
+        "language": "Arabic",
+        "tone": 0,
+        "seendate": "20260822T220000Z",
         "source": "GDELT"
       },
       {
@@ -224,6 +197,15 @@
         "source": "GDELT"
       },
       {
+        "title": "Lešinarko : Milica Nikolić žestoko odgovorila Mariniki Tepić zbog kritika vlasti o požaru u Delibla",
+        "url": "https://www.novosti.rs/vesti/politika/1640631/lesinarko-milica-nikolic-zestoko-odgovorila-mariniki-tepic-zbog-kritika-vlasti-pozaru-deliblatskoj-pescari",
+        "domain": "novosti.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T213000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "مساعد وزير الدفاع اليمني لـ « عكاظ »: الحوثي بدأ الحرب والشرعية من ستنهيها",
         "url": "https://www.okaz.com.sa/local/na/2262384",
         "domain": "okaz.com.sa",
@@ -269,21 +251,21 @@
         "source": "GDELT"
       },
       {
-        "title": "Flávio diz no Rio de Janeiro que pretende retomar territórios dominados pelo crime",
-        "url": "https://noticias.r7.com/prisma/blog-do-nolasco/flavio-diz-no-rio-de-janeiro-que-pretende-retomar-territorios-dominados-pelo-crime-21082026/",
-        "domain": "noticias.r7.com",
-        "language": "Portuguese",
+        "title": "استقطابات المذهب والقومية .. والجغرافيا ! ",
+        "url": "https://www.aletihad.ae/opinion/4686825/%D8%A7%D8%B3%D8%AA%D9%82%D8%B7%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B0%D9%87%D8%A8-%D9%88%D8%A7%D9%84%D9%82%D9%88%D9%85%D9%8A%D8%A9---%D9%88%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7",
+        "domain": "aletihad.ae",
+        "language": "Arabic",
         "tone": 0,
-        "seendate": "20260821T213000Z",
+        "seendate": "20260822T204500Z",
         "source": "GDELT"
       },
       {
-        "title": "Naša influenserka podelila bolnu ispovest o gubitku bebe : Ovo je rasplakalo sve  Hvala ti što si bio deo nas  ",
-        "url": "https://www.telegraf.rs/jetset/vesti-jetset/4382598-nasa-influenserka-podelila-bolnu-ispovest-o-gubitku-bebe-ovo-je-rasplakalo-sve-hvala-ti-sto-si-bio-deo-nas",
-        "domain": "telegraf.rs",
-        "language": "Serbian",
+        "title": "مؤسسة حقوقية يمنية : 4651 جريمة حوثية ضد المساجد والأئمة",
+        "url": "https://www.okaz.com.sa/politics/na/2262391",
+        "domain": "okaz.com.sa",
+        "language": "English",
         "tone": 0,
-        "seendate": "20260821T211500Z",
+        "seendate": "20260822T213000Z",
         "source": "GDELT"
       },
       {
@@ -296,12 +278,30 @@
         "source": "GDELT"
       },
       {
+        "title": "اليمن يحبط هجوماً بزورق مفخخ ويفكك لغماً حوثياً",
+        "url": "https://www.okaz.com.sa/politics/na/2262401",
+        "domain": "okaz.com.sa",
+        "language": "English",
+        "tone": 0,
+        "seendate": "20260822T213000Z",
+        "source": "GDELT"
+      },
+      {
         "title": "الدينار الليبي يدفع ثمن الانقسام وفوضى الميليشيات",
         "url": "https://www.libyaakhbar.com/libya-news/2860086.html",
         "domain": "libyaakhbar.com",
         "language": "Arabic",
         "tone": 0,
         "seendate": "20260822T143000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Николићева Тепићевој : Кад ћеш ти у очи да погледаш ватрогасце",
+        "url": "https://www.politika.rs/scc/clanak/780295/nikoliceva-tepicevoj-kad-ces-ti-u-oci-da-pogledas-vatrogasce",
+        "domain": "politika.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T220000Z",
         "source": "GDELT"
       },
       {
@@ -332,30 +332,12 @@
         "source": "GDELT"
       },
       {
-        "title": "ألغام الحوثيين تحصد المدنيين وتزرع الرعب في البيضاء",
-        "url": "https://www.almontasaf.net/news147344.html",
-        "domain": "almontasaf.net",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Ndume Seeks NEDC Annex Office , More Housing Projects In Borno South",
         "url": "https://leadership.ng/ndume-seeks-nedc-annex-office-more-housing-projects-in-borno-south/",
         "domain": "leadership.ng",
         "language": "English",
         "tone": 0,
         "seendate": "20260822T163000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "مسؤولون إسرائيليون يكشفون تفاصيل تحركات مجهولة المصدر لعرقلة رحلة وزيرة إسرائيلية إلى المغرب",
-        "url": "https://www.akhbarona.com/world/431191.html",
-        "domain": "akhbarona.com",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260821T210000Z",
         "source": "GDELT"
       },
       {
@@ -377,15 +359,6 @@
         "source": "GDELT"
       },
       {
-        "title": "Pakistan military says security forces killed 49 militants in raids in northwest and southwest",
-        "url": "https://www.nbcnews.com/world/pakistan/pakistans-military-says-security-forces-killed-49-militants-raids-nort-rcna593822",
-        "domain": "nbcnews.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260822T001500Z",
-        "source": "GDELT"
-      },
-      {
         "title": "Why Does the Iranian Regime Cling to War When Its Own Officials Warn of Social Explosion ? ",
         "url": "https://irannewsupdate.com/news/infightings/why-does-the-iranian-regime-cling-to-war-when-its-own-officials-warn-of-social-explosion/",
         "domain": "irannewsupdate.com",
@@ -401,15 +374,6 @@
         "language": "Swedish",
         "tone": 0,
         "seendate": "20260822T180000Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "القوات الحكومية تستهدف موقعاً استراتيجياً للحوثيين في الجوف",
-        "url": "https://www.almontasaf.net/news147348.html",
-        "domain": "almontasaf.net",
-        "language": "Arabic",
-        "tone": 0,
-        "seendate": "20260822T003000Z",
         "source": "GDELT"
       },
       {
@@ -431,12 +395,12 @@
         "source": "GDELT"
       },
       {
-        "title": "FN : Er snart tomme for penger i kampen mot ebola",
-        "url": "https://www.nrk.no/urix/fn_-er-snart-tomme-for-penger-i-kampen-mot-ebola-1.17997102",
-        "domain": "nrk.no",
-        "language": "Norwegian",
+        "title": "Lula e Flávio Bolsonaro realizam comícios simultâneos no Rio de Janeiro",
+        "url": "https://www.dnoticias.pt/2026/8/22/503179-lula-e-flavio-bolsonaro-realizam-comicios-simultaneos-no-rio-de-janeiro/",
+        "domain": "dnoticias.pt",
+        "language": "Portuguese",
         "tone": 0,
-        "seendate": "20260821T201500Z",
+        "seendate": "20260823T014500Z",
         "source": "GDELT"
       },
       {
@@ -446,15 +410,6 @@
         "language": "Catalan",
         "tone": 0,
         "seendate": "20260822T031500Z",
-        "source": "GDELT"
-      },
-      {
-        "title": "Pakistani military says security forces killed 49 militants in raids in northwest and southwest",
-        "url": "https://www.wboc.com/news/international/pakistanis-military-says-security-forces-killed-49-militants-in-raids-in-northwest-and-southwest/article_17191cf3-4f99-597f-9d5e-bade7a62658f.html",
-        "domain": "wboc.com",
-        "language": "English",
-        "tone": 0,
-        "seendate": "20260821T194500Z",
         "source": "GDELT"
       },
       {
@@ -483,6 +438,51 @@
         "tone": 0,
         "seendate": "20260822T143000Z",
         "source": "GDELT"
+      },
+      {
+        "title": "Mann dømt for å ha puttet amfetamin i drikken til eks - samboer",
+        "url": "https://www.tv2.no/nyheter/putta-amfetamin-i-drikka-til-sambuaren/19148908/",
+        "domain": "tv2.no",
+        "language": "NorwegianNynorsk",
+        "tone": 0,
+        "seendate": "20260822T150000Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Evo da li se Sanja Kužet vraća u  Zvezde Granda  nakon dve i po godine",
+        "url": "https://www.blic.rs/zabava/evo-da-li-se-sanja-kuzet-vraca-u-zvezde-granda-nakon-dve-i-po-godine/f9md7xb",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T074500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ivan Marinković saznao da njegova ćerka Lena menja prezime : Ovako je reagovao",
+        "url": "https://www.blic.rs/zabava/ivan-marinkovic-saznao-da-njegova-cerka-lena-menja-prezime-ovako-je-reagovao/26ztte2",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T064500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "Ova ishrana daje snegu Veljku Ražnatoviću : Na tanjiru samo tri namirnice",
+        "url": "https://www.blic.rs/zabava/ova-ishrana-daje-snegu-veljku-raznatovicu-na-tanjiru-samo-tri-namirnice/4dnqcsc",
+        "domain": "blic.rs",
+        "language": "Serbian",
+        "tone": 0,
+        "seendate": "20260822T134500Z",
+        "source": "GDELT"
+      },
+      {
+        "title": "泰南三府连环遇袭 爆炸纵火多人受困",
+        "url": "https://www.chinapress.com.my/20260822/%E6%B3%B0%E5%8D%97%E4%BB%8A%E5%A4%9C%E4%B8%8D%E5%B9%B3%E5%AE%89%EF%BC%81-%E5%A4%9A%E5%9C%B0%E9%81%87%E8%A2%AD-%E7%88%86%E7%82%B8%E5%A4%B1%E7%81%AB/",
+        "domain": "chinapress.com.my",
+        "language": "Chinese",
+        "tone": 0,
+        "seendate": "20260822T160000Z",
+        "source": "GDELT"
       }
     ],
     "exchange_rates": [
@@ -496,15 +496,15 @@
       },
       {
         "currency": "AFN",
-        "rate": 74.77
+        "rate": 64.54
       },
       {
         "currency": "ALL",
-        "rate": 87.5
+        "rate": 79.12
       },
       {
         "currency": "AMD",
-        "rate": 356.51
+        "rate": 361.76
       },
       {
         "currency": "ANG",
@@ -512,7 +512,7 @@
       },
       {
         "currency": "AOA",
-        "rate": 934.92
+        "rate": 916.63
       },
       {
         "currency": "ARS",
@@ -528,7 +528,7 @@
       },
       {
         "currency": "AZN",
-        "rate": 1.59
+        "rate": 1.69
       },
       {
         "currency": "BAM",
@@ -540,7 +540,7 @@
       },
       {
         "currency": "BDT",
-        "rate": 121.86
+        "rate": 121.6
       },
       {
         "currency": "BGN",
@@ -552,7 +552,7 @@
       },
       {
         "currency": "BIF",
-        "rate": 2665.4
+        "rate": 2966.62
       },
       {
         "currency": "BMD",
@@ -564,7 +564,7 @@
       },
       {
         "currency": "BOB",
-        "rate": 7.01
+        "rate": 11.44
       }
     ]
   },
@@ -586,15 +586,6 @@
       "language": "English",
       "tone": 0,
       "seendate": "20260822T114500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Balochistan Constitutional Peace : From Conflict to Settlem",
-      "url": "https://www.pakistantoday.com.pk/2026/08/22/from-conflict-to-constitutional-peace",
-      "domain": "pakistantoday.com.pk",
-      "language": "English",
-      "tone": 0,
-      "seendate": "20260821T203000Z",
       "source": "GDELT"
     },
     {
@@ -643,30 +634,12 @@
       "source": "GDELT"
     },
     {
-      "title": "Civis encurralados entre a guerra e o ebola - 21 / 08 / 2026 - Opinião",
-      "url": "https://www1.folha.uol.com.br/opiniao/2026/08/civis-encurralados-entre-a-guerra-e-o-ebola.shtml",
-      "domain": "folha.uol.com.br",
-      "language": "Portuguese",
+      "title": "伊朗陷戰爭僵局 「 雙重困境 」 利用伊拉克展現善意 - 國際",
+      "url": "https://www.chinatimes.com/realtimenews/20260823000044-260408",
+      "domain": "chinatimes.com",
+      "language": "Chinese",
       "tone": 0,
-      "seendate": "20260822T020000Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "مليشيا الحوثي تعتقل أحد قيادييها الأمنيين بتهمة  الخيانة  ",
-      "url": "https://www.khabaragency.net/news251855.html",
-      "domain": "khabaragency.net",
-      "language": "Arabic",
-      "tone": 0,
-      "seendate": "20260821T194500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "مصرع مشرف حوثي في ذمار يكشف صراع الجبايات داخل المليشيا .. خلاف مالي ينتهي باشتباك ومصرع ثلاثة",
-      "url": "https://www.almontasaf.net/news147345.html",
-      "domain": "almontasaf.net",
-      "language": "Arabic",
-      "tone": 0,
-      "seendate": "20260822T003000Z",
+      "seendate": "20260822T213000Z",
       "source": "GDELT"
     },
     {
@@ -676,15 +649,6 @@
       "language": "French",
       "tone": 0,
       "seendate": "20260822T151500Z",
-      "source": "GDELT"
-    },
-    {
-      "title": "Milica Vučković otkrila da je izgubila bebu : Sine moj , neka te anđeli čuvaju",
-      "url": "https://www.blic.rs/sudbine/milica-vuckovic-otkrila-da-je-izgubila-bebu-sine-moj-neka-te-andjeli-cuvaju/cm3nmjt",
-      "domain": "blic.rs",
-      "language": "Serbian",
-      "tone": 0,
-      "seendate": "20260821T213000Z",
       "source": "GDELT"
     },
     {
@@ -703,6 +667,42 @@
       "language": "Serbian",
       "tone": 0,
       "seendate": "20260822T173000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "مراقبون : توحيد القرار العسكري والسياسي الطريق الأقصر لاستعادة الدولة اليمنية",
+      "url": "https://www.khabaragency.net/news251906.html",
+      "domain": "khabaragency.net",
+      "language": "Arabic",
+      "tone": 0,
+      "seendate": "20260822T220000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "أسعار النفط تتجاوز 94 دولار والأسواق تتجه للتأقلم مع اضطرابات حركة الملاحة",
+      "url": "https://www.elwatannews.com/news/details/8344061",
+      "domain": "elwatannews.com",
+      "language": "Arabic",
+      "tone": 0,
+      "seendate": "20260822T113000Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "العراق ..  حوار السلاح  يدخل الحسم ومواجهات ضد الميليشيات الرافضة",
+      "url": "https://www.eremnews.com/news/arab-world/on42anr",
+      "domain": "eremnews.com",
+      "language": "Arabic",
+      "tone": 0,
+      "seendate": "20260822T064500Z",
+      "source": "GDELT"
+    },
+    {
+      "title": "Ndume To Military : Rescue 78 School Children Abducted By Bandits in Two Borno Communities – THISDAYLIVE",
+      "url": "https://www.thisdaylive.com/2026/08/22/ndume-to-military-rescue-78-school-children-abducted-by-bandits-in-two-borno-communities/",
+      "domain": "thisdaylive.com",
+      "language": "English",
+      "tone": 0,
+      "seendate": "20260822T114500Z",
       "source": "GDELT"
     }
   ],
