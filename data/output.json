@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-08-24T01:20:11.206873+00:00",
+    "generated": "2026-08-24T01:32:22.253608+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "40",
+      "value": "39",
       "delta": "deduplicated"
     },
     {
@@ -98,21 +98,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RnUycllHOVZoSURXQUdKWm9SUVJ1ZnA4eVFhZDg2VXdTSzEzQm12eHhPVnkzbGtFU3I5UEVRb05YV0NiQ2w1X2pRd29yVjFYZkhIZ2FPVHdhZw?oc=5",
-        "domain": "bbc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T125208Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "President authorization of selling advanced AI chips to UAE raises concerns about conflict of interest & national security",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmxVNUlVd2FtNkZQVjM5OFliaTZjZFExU2VrMzJPYUd2SVpjeFlaN2gyYXRmMmZRUW5ud2R3TWlybHZpYW9yQzRWMl9QbjQ0aUZOdVFPWlRlMmhKa3M5Q3dxVVRuZUlkZXdNdV9DQy1oV29jelhmS0FRWGhkZXBiQjNBWUp5OGZBVUJpdjhUR0VVUmtxNWdzT3ZaOUVIYTZkVWswSHJSWnJkMHJ0QW1EcEh6ZUNCLUJFbmdFMUg3RkxIb2QxSzVUZlM5bUhkUEw3OUpyNUVuMmNyZ3pubEZxMHlnc2NFT2pDY2hXNUtvaXdmTFUzX3dvR2E3Zk9zQdIBgwJBVV95cUxPVlgzOFVXT1NHdE9HbmQ0Z2QzVUM0cE5DNllxcFU4bjkycy16S1NEYzZ0TFNoVlYtYjY0MXBnU2hKZnlvNUlsUkwtc3dRN2VnZEJoQlhXdFJlcXRoNHc3ZjFXRnVKM1pNMi04cHUyeXBIcEpubkxzQmdaMUptM3lhLS16LWlXYmlBQ2dRdTlLSXZ1N01VN3FwM2Y5eVZBZGlwa0ctbTh1UGFiV3VOc25XdThGR1loNXZuNUpMWkVVZDVTTkFSWTNabXp2Slk2bVpobDNrN2FhREh5UGJXM1FQaGxfUmZFbkIwSUdCSDJpbWYzRnlEaFV4cFp2S3lMUVRLaVFR?oc=5",
         "domain": "ourquadcities",
         "language": "",
         "tone": 0,
         "seendate": "20260823T151700Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RnUycllHOVZoSURXQUdKWm9SUVJ1ZnA4eVFhZDg2VXdTSzEzQm12eHhPVnkzbGtFU3I5UEVRb05YV0NiQ2w1X2pRd29yVjFYZkhIZ2FPVHdhZw?oc=5",
+        "domain": "bbc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T125208Z",
         "source": "GoogleNews"
       },
       {
@@ -233,21 +233,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Israeli newspaper slams Netanyahu over Syria strikes, warns of ‘pointless conflict’ with Türkiye",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWko5alRFaUhNUEdKNnB3MVpVRzBZLVVYQ0pVQ1hoUlV4LVVpcEVQc2FZR3hVNExFUmNoZUJyNUd5ZWpPY3A4T3dPX294aEpXSC1TekdyT1l1by1YdVp3YTV0QThuWVNtTUs1NU1GaE5qTjNOUFJNSXQ0blZHcGFEd29DUC13U0RpeEhkdzlqRTMxRVdJdEVnWjEwNmRVelFCWDcxd2cyN1EtLVpNZnNkeVY0R0lMbXNxT1lfUlBHOU9WWlpxVWhoNDdLSnRVcnJFMkc40gHYAUFVX3lxTFB3ekNhZHNCNFViTHdYQ0ZTNWtxVFpkeUNnTUc3MnVIVGoyeW9IS0pINkhXU0dPSURzNzg1bVhDdXpDQUpsTV9PXzdNdjZsZGU4eDBFTlMwS1VwbThLX29DVGtFdWZYWXpRdEw5SGk2dGNRbWZ2WXR4aDItc0p2bUxRMkhQRFY2QzBJd3lwWGRrNXBqWTFWMUE3QmtfRlBHdFFnSVJLVkNqWGhTT0RkNnhkMjFrRkxVLW1PMmlkdkFFd2d1aXlPYm9LZUtnazl2MzhkQjZxNDNHRw?oc=5",
-        "domain": "middleeastmonitor",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T124300Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Insurgency And The Security Of China’s Mining Investments In Pakistan – Analysis",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa0RvMDZlXzBHOXBMM2xQRkxhRHRTdHRkWXJMa2pMZ25PQWZZZ1o3YkItOU1IMjdKbW5YS2JucGh6RTBjZV9zWGdGVE1OOGV3WjNLOHJUVlNtMDlic19UNVU4ZXVfc1o0cU5RNXE5am4tMUF2UXZDaW13V2lPYnBfQWxlS0U5ZDhXeHpiUTlGbE5tbUFwaGJuaXhvUnkzUGE1MlQ4d2JuMVRBb3I0R19aeHA0UzItTjZw?oc=5",
         "domain": "eurasiareview",
         "language": "",
         "tone": 0,
         "seendate": "20260824T002226Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Israeli newspaper slams Netanyahu over Syria strikes, warns of ‘pointless conflict’ with Türkiye",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWko5alRFaUhNUEdKNnB3MVpVRzBZLVVYQ0pVQ1hoUlV4LVVpcEVQc2FZR3hVNExFUmNoZUJyNUd5ZWpPY3A4T3dPX294aEpXSC1TekdyT1l1by1YdVp3YTV0QThuWVNtTUs1NU1GaE5qTjNOUFJNSXQ0blZHcGFEd29DUC13U0RpeEhkdzlqRTMxRVdJdEVnWjEwNmRVelFCWDcxd2cyN1EtLVpNZnNkeVY0R0lMbXNxT1lfUlBHOU9WWlpxVWhoNDdLSnRVcnJFMkc40gHYAUFVX3lxTFB3ekNhZHNCNFViTHdYQ0ZTNWtxVFpkeUNnTUc3MnVIVGoyeW9IS0pINkhXU0dPSURzNzg1bVhDdXpDQUpsTV9PXzdNdjZsZGU4eDBFTlMwS1VwbThLX29DVGtFdWZYWXpRdEw5SGk2dGNRbWZ2WXR4aDItc0p2bUxRMkhQRFY2QzBJd3lwWGRrNXBqWTFWMUE3QmtfRlBHdFFnSVJLVkNqWGhTT0RkNnhkMjFrRkxVLW1PMmlkdkFFd2d1aXlPYm9LZUtnazl2MzhkQjZxNDNHRw?oc=5",
+        "domain": "middleeastmonitor",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T124300Z",
         "source": "GoogleNews"
       },
       {
@@ -323,6 +323,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Video: An Expert on Conflict Says Your Relationships Are Doomed Without It",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXBFam9zTEpwUWNfUWRBYXFTWGg0aWNJM3pCNXRDTVUtdTc2Y191RF80VVdJYUlwY0JGUkc0UHBiMWpjbE04TGNUX3NLYXFyWnBQeFJvbXdtSFp4VnRKZk1IeFNnMWVfQzVPRkppck1PbHFOTHpFRWJrOGVZdmpabm83UU9DQ01lN0lDMGtqajNTSVlJN1BWcW41cHdpaTBTNFlPTjA0TnM0bmxrN2ZZekROYTVWcGVoWXZaSzd5ckQ0N0RWV2c?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260822T085019Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "The Athletic, NFL may deepen their relationship (conflict of interest be damned)",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ19OazcxbFF4VGRpTFc1dWZfWXFBTHhzckNZemFJdnFlUWRaV1RXRDhFNVoxU1F0VkZ5S2tEUDRtY2gtMXlaclJOdTVRaVFxa2JrTDgzRGRqdmtRU1FJaWNPam9PdFBodDExeEQxbTRQU2xKZjg0WWx3THV0bEo5NmNxeXRsM0FyS0VkM0RiRkJVdEJiVUd3ZUMxZTZWVFYtOTYwX0JmVDh0NlZZMnpVcUhDZGY0SGZIR01LdmxpdzFyX1g2SzJhM0xKYnFuMWpaNHNQZFBR?oc=5",
         "domain": "nbcsports",
@@ -377,15 +386,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Deep South unrest totals 1,271 incidents since 2017",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ObUlMRGMyX1RkOUt5MFZDLTNyVnZxVFN0Z3EyV2RIZGQ4dV8wQWdFWW16dF9CMHVRNjNONm5EOXRoYXE2Qzg5R1hCa3YtdUdBNEt6bV82OXlWcldkdmJvN2x3?oc=5",
-        "domain": "nationthailand",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T081400Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Libya’s brain drain, 15 years after Tripoli fell",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2VabkhwcXd0RUx0Y0hENXlkbXZlYkZ1MHJ2eUNtWHhXV3NpU1FyQmJ0aUlZYWdrNHQ4NTBJcUNwaThTYjJqY1p4QV9wOEhSZkJ0RDh1Y2J6eEVxQTlHNmswT3RVVnNzaDV4RlFiSkpJWk5nTDRfTUx4bm9hOG9aUTJMcGZZdmktaTBQME9GM3JQa1ozVlFUcTBDcFlDUlZ0UDhQVTlPSEVSdkXSAbABQVVfeXFMUEktd2x0NjJPM3ZRT0IzaDJRUWlZemZnX1VJbzlZVkVGeXZGdEV5TlZSRjhMR21ERkFGOWtuV2xKM2pXVER3cDBJeFNUTWVWQVFzeDM4eEdLbVpDTDdsOFJ0MVRheDdDSllrZkN6M29mYVhYQ21PZ3dCOUN1VW5paS0ybVlpWndheTU2bWlRQ2l3M1hMWUpHMFd2eTRxSm5VV0tyd1p2Ukp3ZDhHVjh2bFY?oc=5",
         "domain": "aljazeera",
@@ -395,12 +395,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "'NO MORE WAR BIBI!': IDF 'Rebels' Against Israeli PM Over New Conflict; Top Officers 'BACK OUT'",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOZTJlZVpveGpkSllYX2J1ZEtQd3dXVDdyc3VFcXI3M2ZRdWl2U2ZfTnFXSlE1T1Bfd1dmTHJKVXBvdWo0OUlGSHVUSWxUbUFWYVRPaUJjZWhDaWhSMmFETGtEUFlWSHRacjZGLXJnbWdaQmx1UERZeEJBMU51UlEwZXVaS1ZyczBBVWtoZnNjX0MzTkhUT0hvUXFaMmtCOFhuQlp0Tkd3UzFFQ0FxdEdMRGlXRFpyNzJvRFlTOC1jZlZBMU1fejh0azhUaTVRTWtydTZmS0lZYzRtLWczMDNpQ3U5VTd4Y0dDaEpOWjM3LWxUcTVGRk1SWnB4MNIBgAJBVV95cUxPZGc1U1owbTgxS0JwV1B0eTUxcG5US3JJdjV0QXBrZ0hIa3Q2NUE5MUxUdk16N0tLVm5xVXdsajZyVDZoNjVySmJBMlp4NnN6Zi1acGxzQXEySy05eDNmajFoeXNHTVd0Mk93R0tQenpfLWlET2picEduRS1lM3hqTWx6a201WGN6MFEtd2p6TTBBaVYxWkVYQWRQNkp2ZXhHWWtoX1padHRWWE55bWFDc21abzN1YTZNZF9uNlpxbUZmdVVDalVZT2VmVjV2OE9qbm9QX0d4ZWNuVk1ES2ltdVVaMkJuMGpnVjZlSUdiRW9nT3JWenVEejM2RjhsUzd6?oc=5",
-        "domain": "thetimesofindia",
+        "title": "Deep South unrest totals 1,271 incidents since 2017",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ObUlMRGMyX1RkOUt5MFZDLTNyVnZxVFN0Z3EyV2RIZGQ4dV8wQWdFWW16dF9CMHVRNjNONm5EOXRoYXE2Qzg5R1hCa3YtdUdBNEt6bV82OXlWcldkdmJvN2x3?oc=5",
+        "domain": "nationthailand",
         "language": "",
         "tone": 0,
-        "seendate": "20260823T234352Z",
+        "seendate": "20260823T081400Z",
         "source": "GoogleNews"
       },
       {
@@ -422,21 +422,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Over 50 arson attacks reported across Thailand’s insurgency-hit south. What's happening",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JwYWxGTUVkS25lcVQ1U1lOUi1heU9wZlRmRTU3eEpHZWxjaVJnaU51dVlSOWkxWnNwRzJBc2Rzck1QT1QtWEx4aV9lM2YweWZ1R1o5S2gtcU5iTFNLb3BUeHBmT2F1cmZxcFBqUDNLREx1ZE5OYzY1Vm5ubk5rZ3BiQXhKWjJiSEtzTkJHUWxZTGY0X2ExWEtCU3M4dEFrVFRmSE9RYWhGYjhmTFA3VXE0R2Z6UkpabjFGWGdQQWtPNDhkNVpVblFn0gHPAUFVX3lxTE1YRW9TWmVucl8wRlFuYTd3eU5aVVJLX19vRjRrNnM4bVRSTTYyb0pZNHdaR19SX0VJcFBfcTEzSjFGY0cyMElkclU3dHczenZNWUJULVRWN0p1NHZRSENNNURFaGlJVG9uX2M5djJRUkxqeWVMbnZnQkRKRjVxbEtCbGdHZ2pLd0hzRzFLcXVLVUk5UnhSV3hKc05jdGN4SFUyZl9DZGVFUzRDLVhwd3U2djZFWUhhRGdWaU5KUDIxSkZCN3N1QU5pZWR6cXo3TQ?oc=5",
-        "domain": "wion",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260823T122500Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "DW News. . The Sahel has quietly become the deadliest hotspot of terrorism in the world. How did this region turn into the frontline of jihadist insurgency? #dwgeopolitics #mappedout",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOX3loWXFva1ptb0JDTlhVS1dYVlh4MmFRZkxBMFRSenlGazktWGFCbkZtMHVPWkM5SzR4a1J3aEI1SlNCdzVvajlhYm8tM2dDWk5oYUt3amhpejVGRW81ai1ZTFk4OS1ELTl5blk2c3dtWFJKR0pVeUZuRU9QLWxhQUxlRG9ORXdYaElMU3VtM1IyVEM3U0NSUm9VWXVwMDdqaHExclFsR0RBbkxLNWNiR181Q2oxRGpmMjhKM3J3VXY2X3hsdWZRb1hUT0tzRm9EaVZyX1ZJZ2gxNDVGb01DbVV3?oc=5",
         "domain": "facebook.com",
         "language": "",
         "tone": 0,
         "seendate": "20260822T131505Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Over 50 arson attacks reported across Thailand’s insurgency-hit south. What's happening",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY2JwYWxGTUVkS25lcVQ1U1lOUi1heU9wZlRmRTU3eEpHZWxjaVJnaU51dVlSOWkxWnNwRzJBc2Rzck1QT1QtWEx4aV9lM2YweWZ1R1o5S2gtcU5iTFNLb3BUeHBmT2F1cmZxcFBqUDNLREx1ZE5OYzY1Vm5ubk5rZ3BiQXhKWjJiSEtzTkJHUWxZTGY0X2ExWEtCU3M4dEFrVFRmSE9RYWhGYjhmTFA3VXE0R2Z6UkpabjFGWGdQQWtPNDhkNVpVblFn0gHPAUFVX3lxTE1YRW9TWmVucl8wRlFuYTd3eU5aVVJLX19vRjRrNnM4bVRSTTYyb0pZNHdaR19SX0VJcFBfcTEzSjFGY0cyMElkclU3dHczenZNWUJULVRWN0p1NHZRSENNNURFaGlJVG9uX2M5djJRUkxqeWVMbnZnQkRKRjVxbEtCbGdHZ2pLd0hzRzFLcXVLVUk5UnhSV3hKc05jdGN4SFUyZl9DZGVFUzRDLVhwd3U2djZFWUhhRGdWaU5KUDIxSkZCN3N1QU5pZWR6cXo3TQ?oc=5",
+        "domain": "wion",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260823T122500Z",
         "source": "GoogleNews"
       },
       {
@@ -634,21 +634,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RnUycllHOVZoSURXQUdKWm9SUVJ1ZnA4eVFhZDg2VXdTSzEzQm12eHhPVnkzbGtFU3I5UEVRb05YV0NiQ2w1X2pRd29yVjFYZkhIZ2FPVHdhZw?oc=5",
-      "domain": "bbc",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260823T125208Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "President authorization of selling advanced AI chips to UAE raises concerns about conflict of interest & national security",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQTmxVNUlVd2FtNkZQVjM5OFliaTZjZFExU2VrMzJPYUd2SVpjeFlaN2gyYXRmMmZRUW5ud2R3TWlybHZpYW9yQzRWMl9QbjQ0aUZOdVFPWlRlMmhKa3M5Q3dxVVRuZUlkZXdNdV9DQy1oV29jelhmS0FRWGhkZXBiQjNBWUp5OGZBVUJpdjhUR0VVUmtxNWdzT3ZaOUVIYTZkVWswSHJSWnJkMHJ0QW1EcEh6ZUNCLUJFbmdFMUg3RkxIb2QxSzVUZlM5bUhkUEw3OUpyNUVuMmNyZ3pubEZxMHlnc2NFT2pDY2hXNUtvaXdmTFUzX3dvR2E3Zk9zQdIBgwJBVV95cUxPVlgzOFVXT1NHdE9HbmQ0Z2QzVUM0cE5DNllxcFU4bjkycy16S1NEYzZ0TFNoVlYtYjY0MXBnU2hKZnlvNUlsUkwtc3dRN2VnZEJoQlhXdFJlcXRoNHc3ZjFXRnVKM1pNMi04cHUyeXBIcEpubkxzQmdaMUptM3lhLS16LWlXYmlBQ2dRdTlLSXZ1N01VN3FwM2Y5eVZBZGlwa0ctbTh1UGFiV3VOc25XdThGR1loNXZuNUpMWkVVZDVTTkFSWTNabXp2Slk2bVpobDNrN2FhREh5UGJXM1FQaGxfUmZFbkIwSUdCSDJpbWYzRnlEaFV4cFp2S3lMUVRLaVFR?oc=5",
       "domain": "ourquadcities",
       "language": "",
       "tone": 0,
       "seendate": "20260823T151700Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RnUycllHOVZoSURXQUdKWm9SUVJ1ZnA4eVFhZDg2VXdTSzEzQm12eHhPVnkzbGtFU3I5UEVRb05YV0NiQ2w1X2pRd29yVjFYZkhIZ2FPVHdhZw?oc=5",
+      "domain": "bbc",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260823T125208Z",
       "source": "GoogleNews"
     },
     {
