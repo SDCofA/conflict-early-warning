@@ -1,13 +1,15 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-09-01T11:41:25.375641+00:00",
-    "mode": "live",
+    "generated": "2026-09-01T16:42:07.951974+00:00",
+    "mode": "partial",
     "sources": [
-      "news_articles",
-      "exchange_rates"
+      "exchange_rates",
+      "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News feed unavailable; retained last validated snapshot."
+    ],
     "version": "1.2.0"
   },
   "stats": [
@@ -33,6 +35,88 @@
     }
   ],
   "live_data": {
+    "exchange_rates": [
+      {
+        "currency": "USD",
+        "rate": 1
+      },
+      {
+        "currency": "AED",
+        "rate": 3.67
+      },
+      {
+        "currency": "AFN",
+        "rate": 64.9
+      },
+      {
+        "currency": "ALL",
+        "rate": 79.64
+      },
+      {
+        "currency": "AMD",
+        "rate": 364.4
+      },
+      {
+        "currency": "ANG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AOA",
+        "rate": 927.95
+      },
+      {
+        "currency": "ARS",
+        "rate": 1509.47
+      },
+      {
+        "currency": "AUD",
+        "rate": 1.4
+      },
+      {
+        "currency": "AWG",
+        "rate": 1.79
+      },
+      {
+        "currency": "AZN",
+        "rate": 1.71
+      },
+      {
+        "currency": "BAM",
+        "rate": 1.68
+      },
+      {
+        "currency": "BBD",
+        "rate": 2
+      },
+      {
+        "currency": "BDT",
+        "rate": 123.13
+      },
+      {
+        "currency": "BGN",
+        "rate": 1.68
+      },
+      {
+        "currency": "BHD",
+        "rate": 0.376
+      },
+      {
+        "currency": "BIF",
+        "rate": 3007.39
+      },
+      {
+        "currency": "BMD",
+        "rate": 1
+      },
+      {
+        "currency": "BND",
+        "rate": 1.27
+      },
+      {
+        "currency": "BOB",
+        "rate": 11.81
+      }
+    ],
     "news_articles": [
       {
         "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
@@ -483,88 +567,6 @@
         "tone": 0,
         "seendate": "20260901T054412Z",
         "source": "GoogleNews"
-      }
-    ],
-    "exchange_rates": [
-      {
-        "currency": "USD",
-        "rate": 1
-      },
-      {
-        "currency": "AED",
-        "rate": 3.67
-      },
-      {
-        "currency": "AFN",
-        "rate": 64.9
-      },
-      {
-        "currency": "ALL",
-        "rate": 79.64
-      },
-      {
-        "currency": "AMD",
-        "rate": 364.4
-      },
-      {
-        "currency": "ANG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AOA",
-        "rate": 927.95
-      },
-      {
-        "currency": "ARS",
-        "rate": 1509.47
-      },
-      {
-        "currency": "AUD",
-        "rate": 1.4
-      },
-      {
-        "currency": "AWG",
-        "rate": 1.79
-      },
-      {
-        "currency": "AZN",
-        "rate": 1.71
-      },
-      {
-        "currency": "BAM",
-        "rate": 1.68
-      },
-      {
-        "currency": "BBD",
-        "rate": 2
-      },
-      {
-        "currency": "BDT",
-        "rate": 123.13
-      },
-      {
-        "currency": "BGN",
-        "rate": 1.68
-      },
-      {
-        "currency": "BHD",
-        "rate": 0.376
-      },
-      {
-        "currency": "BIF",
-        "rate": 3007.39
-      },
-      {
-        "currency": "BMD",
-        "rate": 1
-      },
-      {
-        "currency": "BND",
-        "rate": 1.27
-      },
-      {
-        "currency": "BOB",
-        "rate": 11.81
       }
     ]
   },
