@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-09-06T04:41:07.679494+00:00",
+    "generated": "2026-09-06T10:59:04.339135+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -46,100 +46,19 @@
       {
         "title": "Fedorchak weighs in on Iran conflict",
         "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jb2VPcl9zWHYyel9VYXE5RHpuSmVtRWVoSnRtX2lvMjR0VFJyWkhwQVI5aGlkdXgzV1R0NVhMV3RrcXFwclBOc2RBRGNKNFhZMjh5MjZJNF9uSktPa19leVo3alNpelFSRkE0NzEzeDFfRE3SAYcBQVVfeXFMTlFUVTJ0U3Vld1N0SXAyLTlhM09jdW5XMDdkZ0JIX0NrXzRLTlZEZ0thRG9OdWgtVjlxR2R5QzB0a3UwV1dxZkw2SmlORjlNcVhIRmJXZHJVUW9jWUcxRXcycGNtX0VXcHBoN1p0em1iV0p4X3JHWGp6N01UZnYzRUl3WEpJLUg0?oc=5",
-        "domain": "kfyr-tv",
+        "domain": "kfyrtv.com",
         "language": "",
         "tone": 0,
         "seendate": "20260906T002400Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Residents concerned Calhoun city attorney has conflict of interest on data centers",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVNhbUVLaVlPREF0eXpSNmRQQzAxYXc5Y0JhQlh5YUpJcXJocU80U0FDUjl2N0I3OFd0ZnpvNHhSN2VwblJNMjJYS0syeklLekNxWFVfRndQOUJ3ZEpIcDk5UWh2dUdzbW1nOVl5a2RmTG01b1JhMU5rRUc5ZGZVY19ocE1BbUZrNW5oVzNWSGxVcWhJY2NkeWtB?oc=5",
-        "domain": "chattanoogatimesfreepress",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T210300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Why US Military Aid Cannot End Northern Nigeria’s Insurgency",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallMQ09EeVkzT3NpMUF3bmQ3NEVmTGRfTFQ1WlVYb1RnZ3AySVFVZzFWVDJnazVtRzhXc1VNaU15a1M4ZVU3MEg5MUhGWmVKMGFuNHdEbTFnLTdsa0lWUlZyeUpTYmdlY2U3cGd0dDJ5aEdHYk5OSFpEQmYwb1h3RW1oZk5sWFQ1T25Fd2VwWlhBVzNoeHltSmgzZmR2b3dJSGVQRlZB?oc=5",
-        "domain": "fairobserver",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T094900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after West Bank unrest",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0F3TE1KemIxZFRYWmlrMkkyN3JpaEFEcDY0MEVTQXdOQnJyYmxkX1RyUVU5ZzVYa3pGYWZCTDZibUQ2QU4xUEV3MjV0elpGVUd0eDZld3FWcTBWR2twRmZ4aE91TzBtLTMyaGhSakd6SGl1XzhhWERwcllzdElzV2JfUEg2MXBuZDE5M2xQMnpDUHN5dy15U2ZCMzNqeS1jY0k3SC1yN01XcE4zQWJDZmxPa1NaZHVPcWJYUEItSXZuOEVsR3k5aG84UFI4bTRBNkZaRUlvYlh5a0NO0gHcAUFVX3lxTE1XZ1BQS2RHTjIwWm5jUG5fbVlsZ2JZU0Q1d3Z1UGxhRmw5TkgxMjNONHBMMzd4QnVFNnQ2UWI5ZnlleUg4c1pjbUtKclhrM2Z4YlVjS2F4bGw2TE90THZicG8wNDQxdENjRFlaZnVKYkJrTHREempwX2JYX29BdTgwdXNWZXNId2RGMVY2dy1zbFlrdjllM3EtUDN1REp1UWxuUnUzMzB1Rk01M19XbjlPLVFwcmVqZTZmSDVUbzd1Y2x3ckpGdFlFZmhRa2xORS1YMzVOdUdQSjVraTQ?oc=5",
-        "domain": "southchinamorningpost",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T165054Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T221023Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Howe council censures mayor during City Hall conflict",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVUg0WlNfTFNXdDM4c0FjSExGX1dCakdocVFnRk9YVW5kTGZNNFE2d0RzS0NJVFdjTXhSb0sxU3g0UUIxZVkyY1VMeVpYdzVLQTJSd25qbGpIUVNIWGZJZFl2elpVN09wRDJjaDdUdngyNFFtcWY5cnV3dGdSRzBFbEtSZlIyNHZ1bTBjdV9tNUxFenhhenRGakhuWnV4czRZYTRLMk5DRWxLV0g5T0ZJamU3YndCM2lJS2NLVzdCSENqTUEwb2FyQXRvUDlfS1loT3d1OVR3?oc=5",
-        "domain": "kten.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260906T002000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump calls conflict with Iran 'small potatoes' despite strikes on 3 US vessels",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQenp2UUFrTW5Pcmpnc3I0VkMzMmZXV2dpNWRfNkJ2SVhLandNMXdMcUJpbzlKb3owb2JuMmxHRnVxY1NiQ1padldoVUVzZFg5ZnJINzhoamxLR1pwSHVDenZobDVaZEZTdzlLaHFWYzJMTXA3dzhwTHRsUjZpaU94U2l4RlpUOHAxcmJUY2hoSUhsdEZxbHI3QXZhV1dnenZsSGtUWjZxVzdpNkotUUZhVDVXOHZEYVVoMENhVDJLSWl6M2JNcXczX2Y1VW04cVpVdlhtckZWYWc1bU90dlZCVFE1VzIzZFphZXRBMlhNVDJmT3BoNUZDMkxjckN5RE10VzJEUWxxRDVEUQ?oc=5",
-        "domain": "wusa9",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T232400Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump shies away from calling Iran conflict a 'war'",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lTUF0cEoya0dnbnBlLUxaMmprZThJVWpyaURwd3FYaWdsbjllbTBqZ243SVpicVhvQkNYUUVFWS0zY1hYcS1ZRDBxMUFKd25EVEp2bGhva01NaUxxeWc2R2QwQdIBaEFVX3lxTE1tT1VvSTlWX1RnaWpkRkRfem43NmM0QjJzU1E2bnVBdEFBRFlJMFN4Rlcydk5kTzQwT21jMTlpRU42bTFudTZBdktsdTVnQmpKelRLd2hsMUxIaGpBLUZXSUhKQ1laMFNM?oc=5",
-        "domain": "livenowfromfox",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T233453Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump downplays Iran ‘military conflict’ as war shows no signs of ending before midterms",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc?oc=5",
-        "domain": "nbcnews",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260904T215451Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Colombian government reports three killed in rebel attack on military post",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDlrWk9kRTRoZXJOS2lZTy1YdGtSWG15MW1HTndMVXpZZ1VNYVZjNTZINTdJQW5kWWlPRzlvV2Z3NHZqUEtvWjhyS18yeFNZQUZXVU5Ob2syc2h0VVlwV0h2eTlCMUNJVG9kRldyeUs1enpid2lRN2p3RzBOOEMzWUVySEF4T3pNaTNxM3A1Zmx1Skp1eW5aRjhfamNhTC1oNmdxTHc5LUhtVUtGNW9lRW16RmbSAboBQVVfeXFMTTZOQjlabHdvLTZ3Z3lKSFNhX1ZnQmo4Qm9zd0JmaGc3Ul8zNG0ycE9QOEY5UkJobmdTWXpmRmZZRVpyMzV1S0F6bXJqTVh2YnBsS3VBTFJxajZoZGhzNDcyNGJOek1mZURza2hzOTd5TU9XN0tCUVF0WFNVTU1Ec3ROVkdlaDdxMEE0dVBtc2NDYVZzSnNnV1hJZHgyOFhGeEIyamZNSS1nLXJvSFBDcUdUTU1qdTY1YXdn?oc=5",
+        "title": "Israeli air attacks on Lebanon kill at least four",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT01walp6Y3ZvMS1vSWY5MmgzVUxOeWNEWFc5eWcxRnpydE9aa2UyUEtnTmtiVU1IckFRME1Ob2JCVGNzVWU5N2dTYUdMdUFIT0dZQlVpU3FGYVVGV3BEUWpzZmxDeHVRWEdmTDNHcE5OUjRUc1YyTVpCS3dPdXBVOXlKd1VXZWpMbGF3WWQ1S2dhUTDSAZgBQVVfeXFMT0JYS1RoQUc3ZWVUVVNFb3lnTVlaaHY2NjZMc0RqLWV5NXdLdXhyTjJFbG5CaEYxU2EtWHhiYkRvb3N2aHFWSEgtdU1seElfMVZjVUR6MkZmb1JjWlZ1XzJxclBwSGJLY0N4TWVkcjlETE5LdG1WNHN6ZTNOd3lYcl9jTEpvZDZjTEN0LVIwd3FKMUdqNW1aajg?oc=5",
         "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T200709Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260903T215149Z",
+        "seendate": "20260906T092113Z",
         "source": "GoogleNews"
       },
       {
@@ -152,21 +71,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US strikes Iranian oil tankers, Trump calls conflict 'small potatoes'",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV2NOZ0J0RllNZm9Pc2JYUF83RkdDOFROR0czOXlNdlJBZ1pucFY4dHdZQldoWVdSWmlWTFFER1R6S3NUTzJGR1djMzB5V3VncVJweUxBcExTSWZxbEUwR0duVkJSV1RqTmdyb1pPQWwtV2hIUEJDSExoejRnUE9keEM1a2tnTW15eGY1RHMyOXNTYzhObTdEM0ZOSkdxTWZLcVhwMjlma0g0ckdFNzJaS3p6NHVXbENnNTRUX3BqZkNaT0FvcGJ0d3J2eHpVOFpQUzhnTmViTFpoWDZRc1NDdktONkFtUzNfdlVpbFFaU0NtUXMtWnZHQjk1MERkMENiQkE?oc=5",
-        "domain": "weareiowa.com",
+        "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260906T003300Z",
+        "seendate": "20260903T221023Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+        "title": "Trump downplays Iran ‘military conflict’ as war shows no signs of ending before midterms",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc?oc=5",
+        "domain": "nbcnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260904T215451Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T215149Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
         "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260904T225200Z",
+        "seendate": "20260905T190600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Residents concerned Calhoun city attorney has conflict of interest on data centers",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVNhbUVLaVlPREF0eXpSNmRQQzAxYXc5Y0JhQlh5YUpJcXJocU80U0FDUjl2N0I3OFd0ZnpvNHhSN2VwblJNMjJYS0syeklLekNxWFVfRndQOUJ3ZEpIcDk5UWh2dUdzbW1nOVl5a2RmTG01b1JhMU5rRUc5ZGZVY19ocE1BbUZrNW5oVzNWSGxVcWhJY2NkeWtB?oc=5",
+        "domain": "chattanoogatimesfreepress",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T210300Z",
         "source": "GoogleNews"
       },
       {
@@ -179,6 +125,15 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Iran establishes ‘economic war headquarters’ amid US conflict, sanctions",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTBibEdoWms1TGxDWTE1amZWUE5CWkV0Rm0xd1JwaDB6MDhfX3M5ZVc1a0J5VEtIZjdvcnVPalU4dzJabWtYSE1ocGc4NVVqcVJCZXBpNW1nRXF3Xy02NHF0ZzRDQXp0N2taeFhMMzRocldza0w5MkNzQkFWa0Znam5YNVF1VWVPeHpHNnlIZ2hXTjFlVUdHMEVqRkRXbVZPX0lZM09wOWNwXzRFeXhpYnFLX24?oc=5",
+        "domain": "aa.com.tr",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260906T090811Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
         "domain": "britannica",
@@ -188,39 +143,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Pope: Amid conflict, Church must bear witness to service and hope",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2I3bTVSQzgwdzhQLXIwcUY0SDFlWTBycFliWlA3bFBGWDdIbGg4TGRVOWlibE50OElMRHIyLTJtNlFHbXczcWFGY1BVN2VtREliNkdYNVNfN1ZPbXZLZm1XazFOM196LU9QblpYVzJtT2dxZnFxbUxfekpSTTZmaTVmMUVqT0x3MGpTckU0MjF3Wlp2X0pRWTh6S3NvVjBZdGtDZmdn?oc=5",
-        "domain": "vaticannews",
+        "title": "Trump calls Iran conflict ‘small potatoes’ and says he agrees with Vance that it’s not a ‘war’",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczlmbFRaOU5zRGllc2U0QmNnMmhWVEE5NUlBR1ozNWVFRXBpZE44MzRjWmtJZUc5SDd5WEhmNEN4czdWR0xqRWJBMER6b2hyVm1QUnRMRUtCY1FRcFBlRjVJR1FCRFlYd1paWGd2UkJmY3R0YjJtdDgwY1p2ZFU5YU5FeDl3WGd2UEsyNmdtQllmYmpSRHA3VnpiY0RSNE42YjdxMVhYeEY0bjdjaVRGWXNMTG9Ea3VyRV96NA?oc=5",
+        "domain": "fox8live.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T110514Z",
+        "seendate": "20260904T205200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Howe council censures mayor during City Hall conflict",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVUg0WlNfTFNXdDM4c0FjSExGX1dCakdocVFnRk9YVW5kTGZNNFE2d0RzS0NJVFdjTXhSb0sxU3g0UUIxZVkyY1VMeVpYdzVLQTJSd25qbGpIUVNIWGZJZFl2elpVN09wRDJjaDdUdngyNFFtcWY5cnV3dGdSRzBFbEtSZlIyNHZ1bTBjdV9tNUxFenhhenRGakhuWnV4czRZYTRLMk5DRWxLV0g5T0ZJamU3YndCM2lJS2NLVzdCSENqTUEwb2FyQXRvUDlfS1loT3d1OVR3?oc=5",
+        "domain": "kten.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260906T002000Z",
         "source": "GoogleNews"
       },
       {
         "title": "Fedorchak weighs in on Iran conflict",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVFViU0FEWm5WMFhpaDhyWWNLd21lOWZqVDJVOE5IY05GWnRWM1JDNDBxaFFKRE9DMk5wSW9QMjdSY3ZxUUNoQTVKQ1BPQVVqNXhhUy1qQnhpcDBXUm1zOHFFYWk4dGl6dUlyR25Rb01FeXQ0eS1raG4wZw?oc=5",
-        "domain": "kfyr-tv",
+        "domain": "kfyrtv.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260906T003532Z",
+        "seendate": "20260906T001421Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDhITzU0TDIyV0VyQTBvT0FPZmZBZHJaTGFKc3dQaFl6VHpmbmM1TVUtTXRtY2Z1d2dONVdDcXhpUHB4Z2xVcjF4NnBac2ZRUXVBcXpOU0VOZlJfejNfWHZVNEVxeGk3TzZ6MWVIYWljN194YjEtbExGeWJtYk52UTdabG0yWTNQQnlFTy0wd2E2amE1QnBqSDZTaldIb1M4MzFR?oc=5",
+        "title": "Yemeni forces claim strategic district amid intensified Houthi clashes",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQU1Ba1RwTmlVbGJLMnlkbnB1RXFON01IeEZuN1JzLXlPQndiVE9oekNyZUlZNTBBTXM2NGkzYjl6WTR5aVdRTFAzLWNGaDlUMy1VakVFRC1SbTNyVWlrdkNXU2gzQzkwQUNmQ3pWVVFIX05BaDJkX1BQYmdKZUJBV3ZIX2FzNTJwZTVGbXZ2VzZkbEtERXkwVVE0RkNyZ29kanRjaVlHb3VaWDJsZFpZ0gG0AUFVX3lxTE1LbFljOTl0Y3NNNzJfYVNsUE5BRHZ0T2hUb1RWdENMRU54SlFnQ281bTlCdWxkenhKYy12WHVQSnNWQ2tQaEJycF9NUmJfRk9sS1dsb25qMm94TXgyNGtwTkJTc19mTW9RR3F4NVVTdGgzeGRiaTEyTVl6VTJZQ2dqUXYtQW9DYWprSkQ5REcxWnM1d2FXTmY2YkVKVEx3V3BkWVM4OFUxaWk5SFkzZllucHFuSQ?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260906T052441Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
         "domain": "apnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260904T065300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump, Vance Say U.S.-Iran Conflict Is Not a ‘War’",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGR3dVJOYmMtdVZXS0FPbjhhd3lUclNORFJXZ2c4LXpXY2c2aFF2RG96a3JXd05RbTJOTE15bjBHU1VqaFVvYTBLbWk1dmdsVjNia3l6RHBUN1lxRWRjTkJzUG1RbHlTZWZfM3B2cUhnVkFWMTFqd0wyRU9NNXdUTDdxRGREamlUNzdkb0ducERrYTUzMm5MTzhaakg4RllrNmh5d1BOZ2s4Z3lublJ5UEF1b3phTHha?oc=5",
-        "domain": "wkyc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T155900Z",
+        "seendate": "20260904T225200Z",
         "source": "GoogleNews"
       },
       {
@@ -233,30 +197,93 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Vance says Iran fight isn't a 'war' as Trump tries to navigate unpopular conflict as election nears",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDhITzU0TDIyV0VyQTBvT0FPZmZBZHJaTGFKc3dQaFl6VHpmbmM1TVUtTXRtY2Z1d2dONVdDcXhpUHB4Z2xVcjF4NnBac2ZRUXVBcXpOU0VOZlJfejNfWHZVNEVxeGk3TzZ6MWVIYWljN194YjEtbExGeWJtYk52UTdabG0yWTNQQnlFTy0wd2E2amE1QnBqSDZTaldIb1M4MzFR?oc=5",
+        "domain": "apnews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260904T065300Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump calls conflict with Iran 'small potatoes' despite strikes on 3 US vessels",
+        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQenp2UUFrTW5Pcmpnc3I0VkMzMmZXV2dpNWRfNkJ2SVhLandNMXdMcUJpbzlKb3owb2JuMmxHRnVxY1NiQ1padldoVUVzZFg5ZnJINzhoamxLR1pwSHVDenZobDVaZEZTdzlLaHFWYzJMTXA3dzhwTHRsUjZpaU94U2l4RlpUOHAxcmJUY2hoSUhsdEZxbHI3QXZhV1dnenZsSGtUWjZxVzdpNkotUUZhVDVXOHZEYVVoMENhVDJLSWl6M2JNcXczX2Y1VW04cVpVdlhtckZWYWc1bU90dlZCVFE1VzIzZFphZXRBMlhNVDJmT3BoNUZDMkxjckN5RE10VzJEUWxxRDVEUQ?oc=5",
+        "domain": "wusa9",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T232400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Colombian government reports three killed in rebel attack on military post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDlrWk9kRTRoZXJOS2lZTy1YdGtSWG15MW1HTndMVXpZZ1VNYVZjNTZINTdJQW5kWWlPRzlvV2Z3NHZqUEtvWjhyS18yeFNZQUZXVU5Ob2syc2h0VVlwV0h2eTlCMUNJVG9kRldyeUs1enpid2lRN2p3RzBOOEMzWUVySEF4T3pNaTNxM3A1Zmx1Skp1eW5aRjhfamNhTC1oNmdxTHc5LUhtVUtGNW9lRW16RmbSAboBQVVfeXFMTTZOQjlabHdvLTZ3Z3lKSFNhX1ZnQmo4Qm9zd0JmaGc3Ul8zNG0ycE9QOEY5UkJobmdTWXpmRmZZRVpyMzV1S0F6bXJqTVh2YnBsS3VBTFJxajZoZGhzNDcyNGJOek1mZURza2hzOTd5TU9XN0tCUVF0WFNVTU1Ec3ROVkdlaDdxMEE0dVBtc2NDYVZzSnNnV1hJZHgyOFhGeEIyamZNSS1nLXJvSFBDcUdUTU1qdTY1YXdn?oc=5",
+        "domain": "aljazeera",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T200709Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump shies away from calling Iran conflict a 'war'",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lTUF0cEoya0dnbnBlLUxaMmprZThJVWpyaURwd3FYaWdsbjllbTBqZ243SVpicVhvQkNYUUVFWS0zY1hYcS1ZRDBxMUFKd25EVEp2bGhva01NaUxxeWc2R2QwQdIBaEFVX3lxTE1tT1VvSTlWX1RnaWpkRkRfem43NmM0QjJzU1E2bnVBdEFBRFlJMFN4Rlcydk5kTzQwT21jMTlpRU42bTFudTZBdktsdTVnQmpKelRLd2hsMUxIaGpBLUZXSUhKQ1laMFNM?oc=5",
+        "domain": "livenowfromfox",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T233453Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Pope: Amid conflict, Church must bear witness to service and hope",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2I3bTVSQzgwdzhQLXIwcUY0SDFlWTBycFliWlA3bFBGWDdIbGg4TGRVOWlibE50OElMRHIyLTJtNlFHbXczcWFGY1BVN2VtREliNkdYNVNfN1ZPbXZLZm1XazFOM196LU9QblpYVzJtT2dxZnFxbUxfekpSTTZmaTVmMUVqT0x3MGpTckU0MjF3Wlp2X0pRWTh6S3NvVjBZdGtDZmdn?oc=5",
+        "domain": "vaticannews.va",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260903T110514Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US strikes Iranian oil tankers, Trump calls conflict 'small potatoes'",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV2NOZ0J0RllNZm9Pc2JYUF83RkdDOFROR0czOXlNdlJBZ1pucFY4dHdZQldoWVdSWmlWTFFER1R6S3NUTzJGR1djMzB5V3VncVJweUxBcExTSWZxbEUwR0duVkJSV1RqTmdyb1pPQWwtV2hIUEJDSExoejRnUE9keEM1a2tnTW15eGY1RHMyOXNTYzhObTdEM0ZOSkdxTWZLcVhwMjlma0g0ckdFNzJaS3p6NHVXbENnNTRUX3BqZkNaT0FvcGJ0d3J2eHpVOFpQUzhnTmViTFpoWDZRc1NDdktONkFtUzNfdlVpbFFaU0NtUXMtWnZHQjk1MERkMENiQkE?oc=5",
+        "domain": "weareiowa.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260906T003300Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Military personnel told last month to stop calling Iran conflict \"Operation Epic Fury\"",
         "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aVGhGV3NKamhmZ0FxeUhHNkNTV3FNSWxDWEFsQ3VkbG0zaExFSWhLRzNZNDZfS3Z5Ti1xeTl0XzVRR2o3VDVXOHcwNDlfUXVVNWFVZ0hwdlRaYUExajRLamRFUkxRM25ZLXF1dFFQQnlhZw?oc=5",
-        "domain": "cbsnews",
+        "domain": "cbsnews.com",
         "language": "",
         "tone": 0,
         "seendate": "20260903T032600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "‘College GameDay’ crew loved ‘Bayou Militia’ flyover at LSU",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmwwTGxUdkpKcWYwUlgtYVd2QnVOeUNLQW4xdDJiVVNiQWJBTzRBN0JJQVdDVGpzWTZfWTdHR2VFODJEV3ZCTFIyYkRtRGY2dU1XWFJzUUlGV1pGaDBsaVA2V1JQLWZ1WEVfM3dsVHJ1amRKY2NRYjROdS0xeVBSblJoRk53enJK?oc=5",
-        "domain": "yahoosports",
+        "title": "Vice President Vance on Iran: 'I WOULDN'T CALL IT A WAR'",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMWwzUEl1N1VGeFpCaVhHNlhMNW5mSHhUNndQNlVveE4yMGJwQjFKQ0ZyVnJtVFFmaXVNVm12LWhPV19QYVcwUVludlBxZmdQNVRReGVFUXF5a1dtY1p3RmVQMXBTb241OUtzdzVVVGdVdHlBSzNodGRnSlRuZmFoYkdqOUg5UnFrbEFhQXF1NA?oc=5",
+        "domain": "wsaw",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T134032Z",
+        "seendate": "20260906T072900Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Jerusalem Daily: raids, settlers & sieges",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnhMdHAxUE1TUk1OUnYyU0w2aHdkQWw5Q1NtQk4zZEJVcllmVnFkZ0IzaW40NllKZlVQdmQxRVBIR1gtTlZvUWlGYjZkTVozbWVtWWVKZnFyVUNMbGZRTF9lYVdobW9paHY1d2lLa3NGTzhyamUxVVJqT29UM0RqMDM5T1FBbUg2ZlNzcVAxV1U?oc=5",
-        "domain": "aljazeera",
+        "title": "Why US Military Aid Cannot End Northern Nigeria’s Insurgency",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallMQ09EeVkzT3NpMUF3bmQ3NEVmTGRfTFQ1WlVYb1RnZ3AySVFVZzFWVDJnazVtRzhXc1VNaU15a1M4ZVU3MEg5MUhGWmVKMGFuNHdEbTFnLTdsa0lWUlZyeUpTYmdlY2U3cGd0dDJ5aEdHYk5OSFpEQmYwb1h3RW1oZk5sWFQ1T25Fd2VwWlhBVzNoeHltSmgzZmR2b3dJSGVQRlZB?oc=5",
+        "domain": "fairobserver",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T200057Z",
+        "seendate": "20260905T094900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump downplays conflict, calls Iran war ‘small potatoes’",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMlRZSmtlYmJsWjRTdkprTmNJTTZNMUFOSU1xYzVDVHM2RVhNXzY1TVcwUEVzcUhGdGszSmhYeGlKTEtKUVlRamkwTzJZMnZFMklrYjYxeHV5WVlEQ2hTM0xzQ29oandIYXNYSENLdmJHYndBbU82eV9oeEN6UERBN3Y2XzFtRTh6SDNZZTBUbFlqcXJoV3lKaA?oc=5",
+        "domain": "gephardtdaily",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T161512Z",
         "source": "GoogleNews"
       },
       {
@@ -269,18 +296,9 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTNpTGlObHVxaVJaQmFSclRsSE8xLUliZ0VaS3V1bE5MZ3YyaUJTdUFvcG5fcU5BSlpKMDVJUm8zZExsTkR2SE9reDA2Y25URDhkZEZ1S1dzYmF3bEVjQjdxYlFud2daVTVZX3FhREt5czl3WFgtdkUxNi1IRS1FTUdrNVFXVERya2pES2NPbnBlclo1aVlGZnBmU0hYbFc0a0tNeE9INERTZ2w3LWRmTkt1Z29seVQ2R2fSAb8BQVVfeXFMTXFNaWswR0pYWF91MG1qOGZwMlFRNEFiR000bjdIVzA5VUY1YXI1VGhWN015bTdTWV8yNWU1eXlzZVpuOWhNS1QweVM2T0M4dHpPcy1RRzJ4MjZqbnVoenU4SnFqbnVIRWhGcjFJLXVMN0d6RkQyYklmeHZIdkI4dFk2cERXa3kzS3RYRXpRZ2hWanBaeDh2UnFWWGtzVFVBaV9pc3FhMG5wNzNhLUYwYmFsTV95TjhzSDJnMVBNaTQ?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T201053Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Middle East Conflict",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQalFCVVd5azh1WElQYW5wYXlRUHUtUkpwWFJVWnNheU5mQVl6TE1IdERWM3pYUURnaU1KR21Ha0xmbW8tbUMtRnhfWEx6MXJDR2xsY0dmdmh3MENaMmFXOS1PS0xWSDQwYlNHQkhHRGFHTWpDdFFjcVFSWTdMWDJKRVlnMTRMS2JKdEg3ZzhiQlVFSmN1NkpXZ2lhLUh3RnpnV0dvakVIYnhGYjF3UEI2cnhlamhLcVRTa1N5NQ?oc=5",
-        "domain": "spglobal",
+        "domain": "spglobal.com",
         "language": "",
         "tone": 0,
         "seendate": "20260905T002201Z",
@@ -296,12 +314,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "ANALYSIS China defense mobilization law signals preparations for full-scale conflict: Analysts",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9veTFqakFBdnFxd0JkWTRrZ19MZF9TNWxCUm52VGZ3OUNkX0JZQ1M5dXM3UnV5ZDhESkVoYWdhOWw2T3paTV9ZODdMdFZrVzJ5NlgxM3E4Yw?oc=5",
-        "domain": "focustaiwan",
+        "title": "Trump, Vance Say U.S.-Iran Conflict Is Not a ‘War’",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGR3dVJOYmMtdVZXS0FPbjhhd3lUclNORFJXZ2c4LXpXY2c2aFF2RG96a3JXd05RbTJOTE15bjBHU1VqaFVvYTBLbWk1dmdsVjNia3l6RHBUN1lxRWRjTkJzUG1RbHlTZWZfM3B2cUhnVkFWMTFqd0wyRU9NNXdUTDdxRGREamlUNzdkb0ducERrYTUzMm5MTzhaakg4RllrNmh5d1BOZ2s4Z3lublJ5UEF1b3phTHha?oc=5",
+        "domain": "wkyc",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T112400Z",
+        "seendate": "20260905T155900Z",
         "source": "GoogleNews"
       },
       {
@@ -314,30 +332,12 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump dismisses Iran conflict as ‘small potatoes’ as US intelligence warns of prolonged escalation",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2hhRlhleVRCMWs4MU1wdU1xQ2N4MExpajFHdmlWX3FVUFYzZm1PVUNnTzh5YnJnVHBIckxHcHNMQXQ3eS1fNno2dEFNTXA2ZFVXSTQyN2FpMzc0aWRWSDljMnROXzFvU1ZsVWNFem4zRHF4U3p0Q0Z0cno1ZlF3YjdEbE5uR0xOMnNseTN4Q1NfU3VGU1NKX0VsazRrQnhsNUpIWldRbk5oT0xIbEN0NXp5RTBTQnRuTWYwNDBxSzE2VE4wTnktRnVCVEZBMmwwRkMzSFVB?oc=5",
-        "domain": "dailynewsegypt",
+        "title": "Putin turns to US envoys for renewed talks to end Ukraine conflict | NewsNation Prime",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORVJmZVhDaVJ1a2NWXzRfMWpHUjF2eVkxdnZIQTBrcjFHRUgwODRVck5PM3V3T3F6NVNkbHFTWDRnTVBYOHBPWi1jcWxoS1BmMmhaR1Rya2hZZGhuVy1VLTRHWUZqYnVmU2swc3ZzRGI0Wm40bHphb0EtckY5RVYyQkhobW1YdzQwZXhneUsxaGNnQzV1aWVMQlhRNFFwNm1oYVgtdjNWQmdrMS1WeTNtN3lrVkk0VGZXZVFZMFphWkowRVRqY3FnNw?oc=5",
+        "domain": "newsnationnow.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T165816Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVRpWEZVUmU2V2UzLVFHb1djWlhUM2ZQZ1Z6OVZHRjB3VTBYQUJVZ0RkY0pySjdLOGF6MzE0cDlYb0NBUTVITExJRUJEVHVJQnV5Sld3VkFUQk43T2s0cUFWbDVnMVIxZHMzMWhqUUQ0ZVlDXzd0WF82cDlNSkRKUmFtQ0xOdmxQVzZLSExrUk1PNzQ4Yk9mOTJQVmR3TFFhYmo3S3lNOWRoWUdvZHJHNGFyandiZ2530gG-AUFVX3lxTFBLdDZieDZtYmJxT1Y5T29sb2prRUtnNGRULUs3OFNVNEllem4yTnJfc3hwWDU2SnhEaDVjbjBUSFM3Y05MUm13dXBoemRUZHVXVVJZcVlGZnp4Q19ELUt0WnBfRlhadWpLMDROQWx6TU9ueDNleDlpNEhGRFJZd1BfSm4wSXZKczNSYjhVTENmU2hwZmRwQXRxSU1HalNVYXhqTGVMdm1scXphNkhod1ZSLVA4WHVCdHpkbjMyYnc?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T131243Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k?oc=5",
-        "domain": "cnn",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260904T190751Z",
+        "seendate": "20260906T001638Z",
         "source": "GoogleNews"
       },
       {
@@ -347,6 +347,15 @@
         "language": "",
         "tone": 0,
         "seendate": "20260905T011900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Arizona GOP candidate faces new scrutiny over Jan. 6 and militia ties",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUhmR3diMllacU9HTzhOQXJjSGdobjNpaHJDUk00c3czdHdiRHQtMWx4Y2xnMFRUZXlKMFdLNXZnYkR0bU9tQU9RdXNSaW8xYUpWRGpER3JpUXRTc19nb21zajJaTWU1NWx2c2FBcFBxT0J0RVdEM3pMS2JSa3ZyX3hZWGNFRG1ob2p3SUY4cGlnQW1BTWFTWnhXR1FHd0dTamYw0gG3AUFVX3lxTFBTZjdsTTY5LW43dWtra3ZmdnZIVUZYWHg2c2VfOEpBc1pBeGtzaEh5Q2ZScGZIYi13dVdGNEtoQTVvMko0TnkySDJ3MjhZRUVSTlpRUXBfLVk5WGRMT3FOaFhCaGFJSXA0T01WME1CdmJwcXJLQzJhZnVZcE5MdEtNdTFIdWRXZm9ma3hIN0RheEZtQnVnZl9XazR4U0lRYm9sTEJsbjBDamxnY2U0TThZV0hydkhJTQ?oc=5",
+        "domain": "azfamily.com",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260904T013000Z",
         "source": "GoogleNews"
       },
       {
@@ -368,39 +377,30 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Arizona GOP candidate faces new scrutiny over Jan. 6 and militia ties",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNUhmR3diMllacU9HTzhOQXJjSGdobjNpaHJDUk00c3czdHdiRHQtMWx4Y2xnMFRUZXlKMFdLNXZnYkR0bU9tQU9RdXNSaW8xYUpWRGpER3JpUXRTc19nb21zajJaTWU1NWx2c2FBcFBxT0J0RVdEM3pMS2JSa3ZyX3hZWGNFRG1ob2p3SUY4cGlnQW1BTWFTWnhXR1FHd0dTamYw0gG3AUFVX3lxTFBTZjdsTTY5LW43dWtra3ZmdnZIVUZYWHg2c2VfOEpBc1pBeGtzaEh5Q2ZScGZIYi13dVdGNEtoQTVvMko0TnkySDJ3MjhZRUVSTlpRUXBfLVk5WGRMT3FOaFhCaGFJSXA0T01WME1CdmJwcXJLQzJhZnVZcE5MdEtNdTFIdWRXZm9ma3hIN0RheEZtQnVnZl9XazR4U0lRYm9sTEJsbjBDamxnY2U0TThZV0hydkhJTQ?oc=5",
-        "domain": "azfamily.com",
+        "title": "Jerusalem Daily: raids, settlers & sieges",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdnhMdHAxUE1TUk1OUnYyU0w2aHdkQWw5Q1NtQk4zZEJVcllmVnFkZ0IzaW40NllKZlVQdmQxRVBIR1gtTlZvUWlGYjZkTVozbWVtWWVKZnFyVUNMbGZRTF9lYVdobW9paHY1d2lLa3NGTzhyamUxVVJqT29UM0RqMDM5T1FBbUg2ZlNzcVAxV1U?oc=5",
+        "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260904T013000Z",
+        "seendate": "20260905T200057Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump calls Iran conflict ‘small potatoes,’ Vance won’t call it ‘war’ | Morning in America",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPamFMaG55VGJyVTFPdFZXODE4OVVKV0tENmdqUy1OQjVHRmZ0Tl94WnhqMWFLYnJSUWExVWFJVEY0bGFUMUI3SEU2YlN3RUJ0SktUV2F6OTBaM0ZtVVFiVjNRTlptSVI2MDFFdVp1RVJKY0JOS0RFamVGVE55YXlxTjlHSjM4S0tncTdNU2lIVXNMYXNrSUJGMTJzTHFqRkhhSHZUT0ExWmlZN0ZCSHdmT1dMT0p3UDRRSXJwWlh5S0dIT0NNWUZn?oc=5",
-        "domain": "newsnation",
+        "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTTNpTGlObHVxaVJaQmFSclRsSE8xLUliZ0VaS3V1bE5MZ3YyaUJTdUFvcG5fcU5BSlpKMDVJUm8zZExsTkR2SE9reDA2Y25URDhkZEZ1S1dzYmF3bEVjQjdxYlFud2daVTVZX3FhREt5czl3WFgtdkUxNi1IRS1FTUdrNVFXVERya2pES2NPbnBlclo1aVlGZnBmU0hYbFc0a0tNeE9INERTZ2w3LWRmTkt1Z29seVQ2R2fSAb8BQVVfeXFMTXFNaWswR0pYWF91MG1qOGZwMlFRNEFiR000bjdIVzA5VUY1YXI1VGhWN015bTdTWV8yNWU1eXlzZVpuOWhNS1QweVM2T0M4dHpPcy1RRzJ4MjZqbnVoenU4SnFqbnVIRWhGcjFJLXVMN0d6RkQyYklmeHZIdkI4dFk2cERXa3kzS3RYRXpRZ2hWanBaeDh2UnFWWGtzVFVBaV9pc3FhMG5wNzNhLUYwYmFsTV95TjhzSDJnMVBNaTQ?oc=5",
+        "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T123255Z",
+        "seendate": "20260905T201053Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Trump downplays conflict, calls Iran war 'small potatoes'",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ25XRXVkQ0ZDQ1FySElYcnhVRGM1YkY3ZnlURVpMVmxQRGpsWjRRQmFzbWt5elFWeWs5S1FIeXZSUFN6UnBFeDVhV0R6anJ2TUIwLUx5SUxKYnBxZktyOEVnc3Y2aU9Zd2c4eV9OVHBYLWlpMlIzQXVPTHpXUnpFbXVTSU7SAYoBQVVfeXFMTVdiWUNuS2VuOFU4RlN5ZnpiZHZLR2s5cE5sZjQ0U1ZIU0MzNi02YUdXVVRYZ1hOSUVTeGxkOUlVVjJ0UHdQLVdIS0NzTUZUYV9YQVBZLWRYd29KcTg0Q1hoYWJKRDZhUVRPNGF3UG5CcDJYMU9jUUNjZXI5dkNXOFRKODFHMFJIanFR?oc=5",
-        "domain": "upi.com",
+        "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k?oc=5",
+        "domain": "cnn",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T024048Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Watch Trump Calls Iran Conflict 'Small Potatoes'",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNXNTR25rSTRsaDlLeUozbGtnTlduWHNJVXhmUW9sS3ZkYmpNODBOTFVoYlUycENMNTV5WXg5Vmk4TkNFTmI2aXZBTlloQ1AtSG1SYjRDVGdJT3A3WkRnYy1mZVBoY0JycjFoLTAzNkVhZFN2Nl9RUUxNSXdWbnNGYmpET0tUcWYwN2F1UnN2d2JVTG9lYkxaSUp0WQ?oc=5",
-        "domain": "bloomberg.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260904T000000Z",
+        "seendate": "20260904T190751Z",
         "source": "GoogleNews"
       },
       {
@@ -431,15 +431,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As U.S. Conflict wIth Iran Enters 7th Month, Vance Declares, “I Wouldn’t Call This a War”",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1RQS1lUNVV2MTk4bXBDbTBLZ0RpWEFHdjZid0VUVlBaRkxNakVIT3cwTUpPY216NGhKdEp3enU3SFBrUTktU0N6ajhZb1lXSXY1c2F4S3d0WnhsZmJiZ29xXzlXcVhBUkIxYURoTm9SWUtiLWN2NzUwZFVMeEc1M1Y2NldsM2FaTjlrU3BOdndRaW1lTVNHUWVaVWtNTmMybFJxYmxsUjcyWlBURmdSMGVvNG1tODN2VFBNR0wyajVicXU4bXI2TS1B?oc=5",
-        "domain": "democracynow",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260904T141031Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "An Expert on Conflict Says Your Relationships Are Doomed Without It",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9LTTRYaGkyc25GSERsdEtzMmdneGlIeUJOVnA4MFpaV2NqSlhrWnJUWWQ3M0dfbFc3dUo1U3RYZTU0VkNoLUxoNnZ3cF8wWE1BdzYycENCUGhRSVBhYldWYmRWLXo3ZEEtdnJ1dHh2NnFsYUFJVExHTUwxdw?oc=5",
         "domain": "thenewyorktimes",
@@ -449,39 +440,48 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Woman attacked by bear near Whistler, says Conservation Officers Service",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY0FaMURfSVEzUGotcThZblZJMDVRN083X19hUnlTVGNaTjNjMXFLeFBSbmhZOTdtZEd6RnlxM09HcnpEWlRLVktUWlFEN2lTSGk2dDRiRkhhRmZtR1R2dTg0RDZveWRjTG1RM2plTnVuTzZMTV9tNl9oYUtDZS1KRW1aQ3kwdW5LUy0tRHozeHRWTXZQS1F5OU5WZkFHSmF0OXQwWXM3NE9haTQ?oc=5",
-        "domain": "squamishchief",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260905T181500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "‘Small potatoes’: US President Trump downplays war on Iran",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVjdic3NWOEx4bDdlWTRfcXp3bUhUUDlMWkc4RGFfazVDSmVoWHh1dmRKZktTNllZM1RhRjJoRGkxMGR2S1lHbE9Cd0NndEptdnFTZEZMaW93bTRRRTJ1ZThGc1V0c1o1VDc0Q2VjZ0NIaTVMZ1otdzBEbnhFMTZ4WE1sZ1c5Y2Z3MHJaRUt6ZF82NkFLcWlzcEJfc9IBoAFBVV95cUxPRS14Y20xajR0enBJQzRGN1dTNlhSSU1sNmRTSVNOeUptcEtpeG9tRzdJalZQNTFEYkJteUptc3ktSXhtZDJPdHB5b2tGUnNMclE0OHVRQ0FYak1xSnFMZFg3S0x1OG50bzRSQ3Z1LTc0NFExejBxU21TOWRpVUotWndtWGdYelhvOWZwc1FtdU5VYUJsU3BXTXpORTVZODhl?oc=5",
+        "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVRpWEZVUmU2V2UzLVFHb1djWlhUM2ZQZ1Z6OVZHRjB3VTBYQUJVZ0RkY0pySjdLOGF6MzE0cDlYb0NBUTVITExJRUJEVHVJQnV5Sld3VkFUQk43T2s0cUFWbDVnMVIxZHMzMWhqUUQ0ZVlDXzd0WF82cDlNSkRKUmFtQ0xOdmxQVzZLSExrUk1PNzQ4Yk9mOTJQVmR3TFFhYmo3S3lNOWRoWUdvZHJHNGFyandiZ2530gG-AUFVX3lxTFBLdDZieDZtYmJxT1Y5T29sb2prRUtnNGRULUs3OFNVNEllem4yTnJfc3hwWDU2SnhEaDVjbjBUSFM3Y05MUm13dXBoemRUZHVXVVJZcVlGZnp4Q19ELUt0WnBfRlhadWpLMDROQWx6TU9ueDNleDlpNEhGRFJZd1BfSm4wSXZKczNSYjhVTENmU2hwZmRwQXRxSU1HalNVYXhqTGVMdm1scXphNkhod1ZSLVA4WHVCdHpkbjMyYnc?oc=5",
         "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260904T235839Z",
+        "seendate": "20260905T131243Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Vance says conflict with Iran is not a ‘war’",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2dvTXZyTnlVcEhSWGxUYTh3SmFFSmxvSUk1ODU2TzZZMzdfQUJLSk5iZl9OakhtWlZpeVdHVHJJbVpiXzhsUm5iZHhJbXdFLVN5M1U2X1BSM1Q3QzRrc3ZSZFNabXNJcEFQV1BQZXEyVjB4OUE4TDJyejk5STlrQXRUamtIVUtnaHhHM2Jvd0Q0SmZxd0tVSVc3b3FLUFk?oc=5",
-        "domain": "nbcnews",
+        "title": "As U.S. Conflict wIth Iran Enters 7th Month, Vance Declares, “I Wouldn’t Call This a War”",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR1RQS1lUNVV2MTk4bXBDbTBLZ0RpWEFHdjZid0VUVlBaRkxNakVIT3cwTUpPY216NGhKdEp3enU3SFBrUTktU0N6ajhZb1lXSXY1c2F4S3d0WnhsZmJiZ29xXzlXcVhBUkIxYURoTm9SWUtiLWN2NzUwZFVMeEc1M1Y2NldsM2FaTjlrU3BOdndRaW1lTVNHUWVaVWtNTmMybFJxYmxsUjcyWlBURmdSMGVvNG1tODN2VFBNR0wyajVicXU4bXI2TS1B?oc=5",
+        "domain": "democracynow",
         "language": "",
         "tone": 0,
-        "seendate": "20260903T224749Z",
+        "seendate": "20260904T141031Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. ambassador calls violent Israeli settlers ‘terrorists’ amid West Bank unrest",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0tmclRJUERrLTFOaW9nT3FkUGFuTDRMVHNDQklWclRTdFdQQzI3dFgzdGtRcEZ6YXgwTkJ0S2ZXQXFtU09nWHZ3dDBzcUEwUWdOTWh6TGRPeU9yNnF6T0pJUUowNGhNX3FaOHBSdVpma2ctc0dVX2pFSWx6VmJwODk3UktZZk1ILVJkYTdmWUh6UjlwTXowQWs0VHM0cE9jdHg1Zzg2UmVuYlladU9xbVRZZW1iTlFFN2JBM19GNFlJcm05NXVaYWFB?oc=5",
-        "domain": "theseattletimes",
+        "title": "The Conflict the West Refuses to Read: Two Scriptures, two Civilizations",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZkphMF9LdGNhc2JGb3pNTjAxNGVyN011bDc1dnRQYVVJU19JS1l1ZVRhMXMtTHB0Vlo4d3o5R3FvUGZtOTdDaW1zUk4tQlpmSUV0UDF1MXd6VDBRYl9ob3dFQi1ZdVhIVGhNbDBCUmUySzZsb2M1V3BMZTZOYlN5UzYtYzhiYzFsWFdCdXpmVHlfUXp5b1h6bEk5Z2pjeHNjQmZ6NA?oc=5",
+        "domain": "mycharisma.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260905T160120Z",
+        "seendate": "20260906T100129Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "‘College GameDay’ crew loved ‘Bayou Militia’ flyover at LSU",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmwwTGxUdkpKcWYwUlgtYVd2QnVOeUNLQW4xdDJiVVNiQWJBTzRBN0JJQVdDVGpzWTZfWTdHR2VFODJEV3ZCTFIyYkRtRGY2dU1XWFJzUUlGV1pGaDBsaVA2V1JQLWZ1WEVfM3dsVHJ1amRKY2NRYjROdS0xeVBSblJoRk53enJK?oc=5",
+        "domain": "yahoosports",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260905T134032Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Putin aide: Russia shared ‘specific proposals’ on Ukraine conflict",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xeEZJZERxaWdpb2xNTVJlWEN2dUVXV2Y4ZE10bUhPcFBXeVhSRzIzcHF3UlduTXM0OGdQY2lGM3N6RzdaTkV5allUQTlPSkw4ZzhnVg?oc=5",
+        "domain": "azernews",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260906T055236Z",
         "source": "GoogleNews"
       }
     ],
@@ -582,100 +582,19 @@
     {
       "title": "Fedorchak weighs in on Iran conflict",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Jb2VPcl9zWHYyel9VYXE5RHpuSmVtRWVoSnRtX2lvMjR0VFJyWkhwQVI5aGlkdXgzV1R0NVhMV3RrcXFwclBOc2RBRGNKNFhZMjh5MjZJNF9uSktPa19leVo3alNpelFSRkE0NzEzeDFfRE3SAYcBQVVfeXFMTlFUVTJ0U3Vld1N0SXAyLTlhM09jdW5XMDdkZ0JIX0NrXzRLTlZEZ0thRG9OdWgtVjlxR2R5QzB0a3UwV1dxZkw2SmlORjlNcVhIRmJXZHJVUW9jWUcxRXcycGNtX0VXcHBoN1p0em1iV0p4X3JHWGp6N01UZnYzRUl3WEpJLUg0?oc=5",
-      "domain": "kfyr-tv",
+      "domain": "kfyrtv.com",
       "language": "",
       "tone": 0,
       "seendate": "20260906T002400Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Residents concerned Calhoun city attorney has conflict of interest on data centers",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVNhbUVLaVlPREF0eXpSNmRQQzAxYXc5Y0JhQlh5YUpJcXJocU80U0FDUjl2N0I3OFd0ZnpvNHhSN2VwblJNMjJYS0syeklLekNxWFVfRndQOUJ3ZEpIcDk5UWh2dUdzbW1nOVl5a2RmTG01b1JhMU5rRUc5ZGZVY19ocE1BbUZrNW5oVzNWSGxVcWhJY2NkeWtB?oc=5",
-      "domain": "chattanoogatimesfreepress",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260905T210300Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Why US Military Aid Cannot End Northern Nigeria’s Insurgency",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNallMQ09EeVkzT3NpMUF3bmQ3NEVmTGRfTFQ1WlVYb1RnZ3AySVFVZzFWVDJnazVtRzhXc1VNaU15a1M4ZVU3MEg5MUhGWmVKMGFuNHdEbTFnLTdsa0lWUlZyeUpTYmdlY2U3cGd0dDJ5aEdHYk5OSFpEQmYwb1h3RW1oZk5sWFQ1T25Fd2VwWlhBVzNoeHltSmgzZmR2b3dJSGVQRlZB?oc=5",
-      "domain": "fairobserver",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260905T094900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after West Bank unrest",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0F3TE1KemIxZFRYWmlrMkkyN3JpaEFEcDY0MEVTQXdOQnJyYmxkX1RyUVU5ZzVYa3pGYWZCTDZibUQ2QU4xUEV3MjV0elpGVUd0eDZld3FWcTBWR2twRmZ4aE91TzBtLTMyaGhSakd6SGl1XzhhWERwcllzdElzV2JfUEg2MXBuZDE5M2xQMnpDUHN5dy15U2ZCMzNqeS1jY0k3SC1yN01XcE4zQWJDZmxPa1NaZHVPcWJYUEItSXZuOEVsR3k5aG84UFI4bTRBNkZaRUlvYlh5a0NO0gHcAUFVX3lxTE1XZ1BQS2RHTjIwWm5jUG5fbVlsZ2JZU0Q1d3Z1UGxhRmw5TkgxMjNONHBMMzd4QnVFNnQ2UWI5ZnlleUg4c1pjbUtKclhrM2Z4YlVjS2F4bGw2TE90THZicG8wNDQxdENjRFlaZnVKYkJrTHREempwX2JYX29BdTgwdXNWZXNId2RGMVY2dy1zbFlrdjllM3EtUDN1REp1UWxuUnUzMzB1Rk01M19XbjlPLVFwcmVqZTZmSDVUbzd1Y2x3ckpGdFlFZmhRa2xORS1YMzVOdUdQSjVraTQ?oc=5",
-      "domain": "southchinamorningpost",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260905T165054Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
-      "domain": "reuters",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260903T221023Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Howe council censures mayor during City Hall conflict",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVUg0WlNfTFNXdDM4c0FjSExGX1dCakdocVFnRk9YVW5kTGZNNFE2d0RzS0NJVFdjTXhSb0sxU3g0UUIxZVkyY1VMeVpYdzVLQTJSd25qbGpIUVNIWGZJZFl2elpVN09wRDJjaDdUdngyNFFtcWY5cnV3dGdSRzBFbEtSZlIyNHZ1bTBjdV9tNUxFenhhenRGakhuWnV4czRZYTRLMk5DRWxLV0g5T0ZJamU3YndCM2lJS2NLVzdCSENqTUEwb2FyQXRvUDlfS1loT3d1OVR3?oc=5",
-      "domain": "kten.com",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260906T002000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump calls conflict with Iran 'small potatoes' despite strikes on 3 US vessels",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQenp2UUFrTW5Pcmpnc3I0VkMzMmZXV2dpNWRfNkJ2SVhLandNMXdMcUJpbzlKb3owb2JuMmxHRnVxY1NiQ1padldoVUVzZFg5ZnJINzhoamxLR1pwSHVDenZobDVaZEZTdzlLaHFWYzJMTXA3dzhwTHRsUjZpaU94U2l4RlpUOHAxcmJUY2hoSUhsdEZxbHI3QXZhV1dnenZsSGtUWjZxVzdpNkotUUZhVDVXOHZEYVVoMENhVDJLSWl6M2JNcXczX2Y1VW04cVpVdlhtckZWYWc1bU90dlZCVFE1VzIzZFphZXRBMlhNVDJmT3BoNUZDMkxjckN5RE10VzJEUWxxRDVEUQ?oc=5",
-      "domain": "wusa9",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260905T232400Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump shies away from calling Iran conflict a 'war'",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1lTUF0cEoya0dnbnBlLUxaMmprZThJVWpyaURwd3FYaWdsbjllbTBqZ243SVpicVhvQkNYUUVFWS0zY1hYcS1ZRDBxMUFKd25EVEp2bGhva01NaUxxeWc2R2QwQdIBaEFVX3lxTE1tT1VvSTlWX1RnaWpkRkRfem43NmM0QjJzU1E2bnVBdEFBRFlJMFN4Rlcydk5kTzQwT21jMTlpRU42bTFudTZBdktsdTVnQmpKelRLd2hsMUxIaGpBLUZXSUhKQ1laMFNM?oc=5",
-      "domain": "livenowfromfox",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260905T233453Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Trump downplays Iran ‘military conflict’ as war shows no signs of ending before midterms",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc?oc=5",
-      "domain": "nbcnews",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260904T215451Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Colombian government reports three killed in rebel attack on military post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMDlrWk9kRTRoZXJOS2lZTy1YdGtSWG15MW1HTndMVXpZZ1VNYVZjNTZINTdJQW5kWWlPRzlvV2Z3NHZqUEtvWjhyS18yeFNZQUZXVU5Ob2syc2h0VVlwV0h2eTlCMUNJVG9kRldyeUs1enpid2lRN2p3RzBOOEMzWUVySEF4T3pNaTNxM3A1Zmx1Skp1eW5aRjhfamNhTC1oNmdxTHc5LUhtVUtGNW9lRW16RmbSAboBQVVfeXFMTTZOQjlabHdvLTZ3Z3lKSFNhX1ZnQmo4Qm9zd0JmaGc3Ul8zNG0ycE9QOEY5UkJobmdTWXpmRmZZRVpyMzV1S0F6bXJqTVh2YnBsS3VBTFJxajZoZGhzNDcyNGJOek1mZURza2hzOTd5TU9XN0tCUVF0WFNVTU1Ec3ROVkdlaDdxMEE0dVBtc2NDYVZzSnNnV1hJZHgyOFhGeEIyamZNSS1nLXJvSFBDcUdUTU1qdTY1YXdn?oc=5",
+      "title": "Israeli air attacks on Lebanon kill at least four",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT01walp6Y3ZvMS1vSWY5MmgzVUxOeWNEWFc5eWcxRnpydE9aa2UyUEtnTmtiVU1IckFRME1Ob2JCVGNzVWU5N2dTYUdMdUFIT0dZQlVpU3FGYVVGV3BEUWpzZmxDeHVRWEdmTDNHcE5OUjRUc1YyTVpCS3dPdXBVOXlKd1VXZWpMbGF3WWQ1S2dhUTDSAZgBQVVfeXFMT0JYS1RoQUc3ZWVUVVNFb3lnTVlaaHY2NjZMc0RqLWV5NXdLdXhyTjJFbG5CaEYxU2EtWHhiYkRvb3N2aHFWSEgtdU1seElfMVZjVUR6MkZmb1JjWlZ1XzJxclBwSGJLY0N4TWVkcjlETE5LdG1WNHN6ZTNOd3lYcl9jTEpvZDZjTEN0LVIwd3FKMUdqNW1aajg?oc=5",
       "domain": "aljazeera",
       "language": "",
       "tone": 0,
-      "seendate": "20260905T200709Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw?oc=5",
-      "domain": "thenewyorktimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260903T215149Z",
+      "seendate": "20260906T092113Z",
       "source": "GoogleNews"
     },
     {
@@ -688,21 +607,102 @@
       "source": "GoogleNews"
     },
     {
-      "title": "US strikes Iranian oil tankers, Trump calls conflict 'small potatoes'",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV2NOZ0J0RllNZm9Pc2JYUF83RkdDOFROR0czOXlNdlJBZ1pucFY4dHdZQldoWVdSWmlWTFFER1R6S3NUTzJGR1djMzB5V3VncVJweUxBcExTSWZxbEUwR0duVkJSV1RqTmdyb1pPQWwtV2hIUEJDSExoejRnUE9keEM1a2tnTW15eGY1RHMyOXNTYzhObTdEM0ZOSkdxTWZLcVhwMjlma0g0ckdFNzJaS3p6NHVXbENnNTRUX3BqZkNaT0FvcGJ0d3J2eHpVOFpQUzhnTmViTFpoWDZRc1NDdktONkFtUzNfdlVpbFFaU0NtUXMtWnZHQjk1MERkMENiQkE?oc=5",
-      "domain": "weareiowa.com",
+      "title": "Vance says Iran conflict is not a war, declines to offer timeline for end",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWVqMkRjNklKdUhYTF9BTE5GN1ctUG5zaGI0cVdEcW9ReEhYMmxJREpHX1o5RE5mS1VZMHAwTlBTTmZhWURSV3dMUkY1YjhBMjZEN2hvZWhYc1hiaTk1MFRacnpEVDVYWnRuTEVrVW8yZnRnTVUxcTV0UEd5NXRRVDlzTmM0NFA5b3o3Q3JPMFhHMGFJb3JVN05DTVZSbUZlNHlNVFdMTmhmajRfR25zZ05LblhOZjg?oc=5",
+      "domain": "reuters",
       "language": "",
       "tone": 0,
-      "seendate": "20260906T003300Z",
+      "seendate": "20260903T221023Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Trump calls Iran conflict ‘small potatoes’ and defends Vance’s position that it’s not a ‘war’",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTzBGbGQ2ZnhaeGhiZ3E0cEpWYnRpU0FtYTFQYlJUOWdkd0F5Y2lvczg0X0h0NTBRUkFXUkU1bWlwSnhtQng1dmtYY0JsVmFFYnpaNDVuMEJLMTROSXEtcUtPQndCdk0zRmNtQWFGdllDN2V5WGRmR0NWZHlQaWtBeFZMdmdGUVk?oc=5",
+      "title": "Trump downplays Iran ‘military conflict’ as war shows no signs of ending before midterms",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc?oc=5",
+      "domain": "nbcnews",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260904T215451Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "‘I Wouldn’t Call It a War’: Vance Plays Down Recent Iran Strikes",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTlIZFN4VEdtQk5IY0VpQnh0Y1BOSjFzVHU3Tm9ocVdyb1VKeEVHcFNyNGxzeVhSUldYVFpWaS0zUHpNY1JhaUNyTUpVUzVCU1RoN0V3bzNkQXZDRjdsY2lzc1lJdWVnRGRXYlU3OWJxNWx4N2c2bTJZT0J4d0p3bEljbw?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260903T215149Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "US ambassador calls violent Israeli settlers ‘terrorists’ after weeks of West Bank unrest",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdEtQeGdOOG0tWlByeVhITXFPWm02dzVPbG9Za1huS05sN0xJTldVT2h0d284R3JKMEUwMnd1ZUE5VkFTV2hQbTdlNlIzRzVIRDBNaDJ1QU9Ya1o3OW1hRWdsTUVEVlVCSzhKZDZOaDZHZUhvVnFoaTIwYWdFZURRQ1VsVG1lMUV4amFwSVdUQkpDMHZJSHZxb1NkcDQxWTR4UzlmOXY0U1hNaEtiUFE?oc=5",
       "domain": "apnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260904T225200Z",
+      "seendate": "20260905T190600Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Residents concerned Calhoun city attorney has conflict of interest on data centers",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUVNhbUVLaVlPREF0eXpSNmRQQzAxYXc5Y0JhQlh5YUpJcXJocU80U0FDUjl2N0I3OFd0ZnpvNHhSN2VwblJNMjJYS0syeklLekNxWFVfRndQOUJ3ZEpIcDk5UWh2dUdzbW1nOVl5a2RmTG01b1JhMU5rRUc5ZGZVY19ocE1BbUZrNW5oVzNWSGxVcWhJY2NkeWtB?oc=5",
+      "domain": "chattanoogatimesfreepress",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260905T210300Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Netherlands Moves Gold From New York to London, Citing Geopolitical Unrest",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbzliZDRrSVNCT25JQnBBRVVxYmRzZ3BTREY4WUhTVlJQMXVFTUthcHNIVFB6bXpHVHBYOXNzTUxRakpZRlZ3eFBESDFaSFZJWUhYaEpybXJEOFh4UWZtRkU5bXFUeUVKN2ozSHlkaHZsV2k4WjVnYzVXOTdVSDViR2xUWHBLNzRJZHZmcV95T0o2RlN5M1diWE1nTmw5WmVnWVZaN3hBenhkTVVyOUpraDZQcUlfbm5xM2wyamthS19pQ0hZ?oc=5",
+      "domain": "wsj",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260903T145000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Iran establishes ‘economic war headquarters’ amid US conflict, sanctions",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTBibEdoWms1TGxDWTE1amZWUE5CWkV0Rm0xd1JwaDB6MDhfX3M5ZVc1a0J5VEtIZjdvcnVPalU4dzJabWtYSE1ocGc4NVVqcVJCZXBpNW1nRXF3Xy02NHF0ZzRDQXp0N2taeFhMMzRocldza0w5MkNzQkFWa0Znam5YNVF1VWVPeHpHNnlIZ2hXTjFlVUdHMEVqRkRXbVZPX0lZM09wOWNwXzRFeXhpYnFLX24?oc=5",
+      "domain": "aa.com.tr",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260906T090811Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "2026 Iran war | Deal, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "domain": "britannica",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260904T050000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Trump calls Iran conflict ‘small potatoes’ and says he agrees with Vance that it’s not a ‘war’",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNczlmbFRaOU5zRGllc2U0QmNnMmhWVEE5NUlBR1ozNWVFRXBpZE44MzRjWmtJZUc5SDd5WEhmNEN4czdWR0xqRWJBMER6b2hyVm1QUnRMRUtCY1FRcFBlRjVJR1FCRFlYd1paWGd2UkJmY3R0YjJtdDgwY1p2ZFU5YU5FeDl3WGd2UEsyNmdtQllmYmpSRHA3VnpiY0RSNE42YjdxMVhYeEY0bjdjaVRGWXNMTG9Ea3VyRV96NA?oc=5",
+      "domain": "fox8live.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260904T205200Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Howe council censures mayor during City Hall conflict",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVUg0WlNfTFNXdDM4c0FjSExGX1dCakdocVFnRk9YVW5kTGZNNFE2d0RzS0NJVFdjTXhSb0sxU3g0UUIxZVkyY1VMeVpYdzVLQTJSd25qbGpIUVNIWGZJZFl2elpVN09wRDJjaDdUdngyNFFtcWY5cnV3dGdSRzBFbEtSZlIyNHZ1bTBjdV9tNUxFenhhenRGakhuWnV4czRZYTRLMk5DRWxLV0g5T0ZJamU3YndCM2lJS2NLVzdCSENqTUEwb2FyQXRvUDlfS1loT3d1OVR3?oc=5",
+      "domain": "kten.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260906T002000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Fedorchak weighs in on Iran conflict",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxVFViU0FEWm5WMFhpaDhyWWNLd21lOWZqVDJVOE5IY05GWnRWM1JDNDBxaFFKRE9DMk5wSW9QMjdSY3ZxUUNoQTVKQ1BPQVVqNXhhUy1qQnhpcDBXUm1zOHFFYWk4dGl6dUlyR25Rb01FeXQ0eS1raG4wZw?oc=5",
+      "domain": "kfyrtv.com",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260906T001421Z",
       "source": "GoogleNews"
     }
   ],
