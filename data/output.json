@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-09-18T11:16:55.322629+00:00",
+    "generated": "2026-09-18T16:25:58.210569+00:00",
     "mode": "live",
     "sources": [
       "news_articles",
@@ -18,7 +18,7 @@
     },
     {
       "label": "News Domains",
-      "value": "44",
+      "value": "41",
       "delta": "deduplicated"
     },
     {
@@ -35,6 +35,15 @@
   "live_data": {
     "news_articles": [
       {
+        "title": "Distributed production wargame tests Arsenal of Freedom sustainment in future conflict scenarios",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VsWG5NSk84blM2V1ZBRzJaOHUyTnc5ZERhVlYtWm95V2RMLUp3Y0V5M0NCRlI0NmRHZzRTMVgzTVpoZHd0WnV6TkVYRFBIS0xoM3Z4TFcxTmE2SkdyLXNUU0RKRTNsc1hfVDJiOV9YUmltTUVwc3Uwakp0Vlc2X2tVLXQ0bDczSktCTUJ2ajgxcmtSN0RxX3FJdVRuX0I2QTNhYlJ0LW1ieGRMcmR5N2xwYURZOU8yUlRLcTNpR3dHN1UtRFNZaHNiQ3QxTnpyOUYzNHltYXZ3cF9rZEpRYWJtVQ?oc=5",
+        "domain": "dla.mil",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T123947Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
         "domain": "reuters",
@@ -44,30 +53,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Future Conflict Minor prepares cadets to navigate uncertainty",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0xxYzJWTGgwT1NSM2xnbk96NDRRZEd2TjV2MFpJOFNhaGZ0Tko1ZnlUSEdXVGNWMko2MEJqb2FpMUZiSGVkamlqU2NUVEhjYXFXVVRRallVMWNITEpXQktzVjY5X0NmR0pNZ2NxUFRURXJkVjBPdFIyYXZzYldhclI2X2FNMHNCQVZSZA?oc=5",
-        "domain": "usafa.edu",
+        "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "domain": "britannica.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T172409Z",
+        "seendate": "20260918T050000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Investing in Better Ways to Resolve Conflict",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXY1SF9vNHB2VHVacVY3NDJwME1GMTQwRVAyNWxreUJ4SmxBTWJsODBCRGtpZlhScVN0VzJBZmtkXzRLVG5jbWFWTFdoWGpVbmxYbzk2ZTdvNmpGekRmcVRScTJDN1dMQzc1aE1VcUloR2VyMEVuNkJhREJOSDQzeU1oZXoyWW16V2c?oc=5",
-        "domain": "thecartercenter",
+        "title": "San Diego gas surges past $6.18 as Middle East conflict drives up pump prices",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODlBY2oxZ2R5UFdTZHNFOUNNeGs2cC1NeUxXOXZzcm11NC1FZWJJanhEZVREdkhTY2x1azZwVHlYSFFhcjdBZGpNZTVkN29hMHlXVlREcHBCWGx2aWMwTW1fTmg0RU9oTmhjM09QRGNOLXRMc3FmLUNlbHRTYVZWdmtIN3BwQUIwODZhREU1TXlpaTVQS1BrbFN6VkkzWFpJMk0wQmVwVHlza2RwWE1VZG5ENlo0M0pyZE9Ba1Nn?oc=5",
+        "domain": "kpbs.org",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T210047Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzRvQ2k0bHUzYi1pbVZ3LTBJMmxDbWZ0aVV6NWJhU2VyaEgtUGNycTEyYXVWWWVEbkxLZW5YY09oT3l2UEFfU2d6MmxtaWJoRUlWSDhSTnBnYUYzcHhMUlVyUnZvWGd1QlNQdHBPdVhLTnRiOUkzcUJqeEtYcUktTlZn?oc=5",
-        "domain": "thenewyorktimes",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T193246Z",
+        "seendate": "20260918T145400Z",
         "source": "GoogleNews"
       },
       {
@@ -80,12 +80,57 @@
         "source": "GoogleNews"
       },
       {
+        "title": "France’s 2035 national security plan warns of increased conflict in sea, outer space",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjBkeVFKZkgwcUtrY2Y0bUdlZFQwYldkam5aYmJWME5lalZXa1FlSnFRU25UM2FqN2NBT0M4M1A0ZEFWWk9jRjQ0QU1RT2JTSnEyWU9MTmRPaGJ6VlNlbmlPR0JBRVlTMHptU0dqaE9OUjFzVzhRcVBCWDBlUUxwNkd3SEwzcEZ4WWVoZUR1a3VjRkdFM0F5bkZNbTJGUFh5U1g4VTdzYUR5VmZWN3BsUWQta2trZDAwWTlJ?oc=5",
+        "domain": "breakingdefense",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T153304Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Investing in Better Ways to Resolve Conflict",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXY1SF9vNHB2VHVacVY3NDJwME1GMTQwRVAyNWxreUJ4SmxBTWJsODBCRGtpZlhScVN0VzJBZmtkXzRLVG5jbWFWTFdoWGpVbmxYbzk2ZTdvNmpGekRmcVRScTJDN1dMQzc1aE1VcUloR2VyMEVuNkJhREJOSDQzeU1oZXoyWW16V2c?oc=5",
+        "domain": "thecartercenter",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T210047Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Future Conflict Minor prepares cadets to navigate uncertainty",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0xxYzJWTGgwT1NSM2xnbk96NDRRZEd2TjV2MFpJOFNhaGZ0Tko1ZnlUSEdXVGNWMko2MEJqb2FpMUZiSGVkamlqU2NUVEhjYXFXVVRRallVMWNITEpXQktzVjY5X0NmR0pNZ2NxUFRURXJkVjBPdFIyYXZzYldhclI2X2FNMHNCQVZSZA?oc=5",
+        "domain": "usafa.edu",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T172409Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Saudi Arabia, Houthis exchange blows as conflict escalates",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3lIano4UGhNZUFGS0V0ZHphSjJPXzY2bF9jSjNxZVlNRGJrN01kQUM4czdiVEw0VEJqeWNZWWFfOXhoSmgyUVFpN2JHVFlEZG1UOUw3U09SamlPRjdOWjBXY1VOUjIwS3pWVVZVY2pxZUhkN0RIaE1JTS1NRUlFbWJsTE9jLXdLcU4yQzNjVHdQTnZr0gGUAUFVX3lxTE1ZNXVzT1lJazR4NUVyb1ZaQVhLekNLSnpDdjVyNldrRWd5Zk84dVM0cWM1Wl9uRFVmN0NxUzJQajIxUjlBVVg5aWFuMXZPZktsTHMxNWlaQm4xbGNTdkhCWTFJS2RNMHFrMGtFazdUS1B1c2Y0MF9EeVkza19pcVV5aVB1WnhkOUZfemU5bjdLamxWMDM?oc=5",
         "domain": "dw.com",
         "language": "",
         "tone": 0,
         "seendate": "20260918T024252Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzRvQ2k0bHUzYi1pbVZ3LTBJMmxDbWZ0aVV6NWJhU2VyaEgtUGNycTEyYXVWWWVEbkxLZW5YY09oT3l2UEFfU2d6MmxtaWJoRUlWSDhSTnBnYUYzcHhMUlVyUnZvWGd1QlNQdHBPdVhLTnRiOUkzcUJqeEtYcUktTlZn?oc=5",
+        "domain": "thenewyorktimes",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T193246Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Yemen Conflict Intensifies, Reverberating Beyond the Region",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTHdtM0VncDJzMW5fSzRmNDFyTXpKd2J3YUNWNVcwYzJ0LTVKQVA3aGZVZjdyZFllY3k5S0pxN05veGtJU05RdUEzbXE0NVhxUEpzdE9WcTZVRENEcmJTVVJGU3BUOERzUEszbzFUa2ZjQ2tHX2hHYkVJTFUyQdIBgAFBVV95cUxOWklvOG9Mc1c3aFhPYXBTQ2FkamJGWnprNWtFa1MyQk1GdUpmTU5sdnk0SThaU01OVDFuNjA3djdnSkJMT3JDcWVYSUJZaENuaV9LMzNQS2l0M3hiTmhiU3B0ZExFRHZTd0N0TjNTNWRhRG1PUWk4RlJMTmZOekN5ZA?oc=5",
+        "domain": "radiofreeeuroperadioliberty",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T145507Z",
         "source": "GoogleNews"
       },
       {
@@ -98,84 +143,21 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NYm5nUTFRTml4dDc0NjFTNUYtZU9qNXJjUk9Nai1nV1I3dHhReG9PTGlWeDlNZU1MSW5ZQS04eFpYVWZiaDJISGpWRGJLbzh4OGs3cjV4Tl9WMlJ0OF9zZTZEX01pN0Ixa2ZVeWhiUzY0R3ZWNlJHb3VWMjRsQQ?oc=5",
-        "domain": "miamiherald",
+        "title": "String of daring Russian plots is testing Washington’s restraint",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZlTUctTVE1aGJsUGlzX3dwUFJNRUdXWlpsNDRiTTlvMVdNNl9DWWladmpxTWg4MEpUMlc1enFGcEl5QmhRMFR2dmlUbTl2V1VvTGNvbGxDa3l0aVlIM09ENWpJbmtCZWx6QkpqWjJGcmRkeGVXRlkwLUpJbHRtc2Zlc2FpUXR5TXl6bkVWZmdCakdSZGtWUG45UUJYVXQ0N3k4ck5XanBIbXM?oc=5",
+        "domain": "thewashingtonpost",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T101605Z",
+        "seendate": "20260918T153422Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi-Yemen conflict: The notion of an 'American saviour' is dead",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFdlaFpPSE92N1Y0TS1BcHkxQ0JBYW1KU3RwUmF0YTJJVWtEZTl2VGwwQS1nUnpvYTludmgxNGtuUFU3bkMwWHg5LVJfX1dndkptSWxFbFp4ci03d3N6cmY1dkY5RzVyVlEzUGZ4NGduSURKX01SQlpvUno0bDFoVVRTb0EtMmtSVW5sbjFOaGc?oc=5",
-        "domain": "middleeasteye",
+        "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRy16WGVpZW1tckVwZ3VFZnZ2dGxHT1BEM0VxdVhfRWQ4QUtPeURzR3JCTWlZeFRxWWFZTFJTbWJvTGdsZ2RyblhocjdIS3YyOF8waEFmQjRXNEs2N2k4dDAwV3pNZVdIYTZNVXEzVXFZZ0QtdFlrenVuLW5XLVhTXy0yX0RTZXUxaUJF?oc=5",
+        "domain": "npr",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T094100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Opening Remarks by Mr. Issaka Garba Abdou, Head, Governance and Human Rights Division, Department of Political Affairs, Peace and Security, at the Technical Consultation on the AU Conflict Prevention Framework and Continental Prevention Architecture",
-        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPOXQxLUVCUGppckFKc2hld1NkaW1PYWtlUnhpR0JkN09ObG10NkV6VFRMa2xwUW9sNk5FdXY4SWtzSVlneXNzSE4xWlhxVzdQckd1TjFaMmlNYkQ1X2dGSnIyZjUwLVJLa0pIWGlyNzllTTFWbVpjd3dUSjFDRmdDZWw4YkVTN2I4c1ZTUWpSRmVWS3pHV2VFak9MOVMyZ25NZnRMeEdzNHk0QUxtc3JjWlM3dG5TbGZKVUhxellLdzBrNjlJTmp0d0dEZTdkQ2xGdHViY2MzZ3Z6ekE3NE5FYTItSGVYcHAxWHZuNUktaWhjT21MOTlRMXdPeDJOaDNhZmIzNS05QTdtUjJsYU11ZV9MWTlBbm1LVzBPdXFlVEVTaWYweGh2TjVoUF9EX2ZBVVVGSVF6b19rVF91NXBNNXo4SlJZcVFfTU1XOFhWLXNzR2hubS1zSGJiRUw2V2Z3ZGlRLVNxR3FiMXVyNllLRTdoNEQ3cTR2SVNKZE40bHRoOVhNOFNmMUJ1Ukt1OHF2Smp5QnI2d0l6eVZP?oc=5",
-        "domain": "africanunionpeaceandsecuritydepartment",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T080921Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran conflict 'hopefully' nearing end, Trump says",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1NpbGFTVEVmaWRuNW8zM0c5VkozQVRxbDdUclZiWGFpSzRPMTBZaGItOWFpTkpOeW0zR1VtbmxNanNOcXpPWG1vblc4NDBfNUdCenJ1T3dhYTR0Z01vR3RSdVV6Q1RJajRmYlpLRVo3OFJRNXA4V2tXTVAyR21jZG5n?oc=5",
-        "domain": "chinadailyglobaledition",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T015157Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Lee rules out involvement in US-Iran conflict, says Seoul weighing possible moves",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNDhBaTBpblhreXdlMUVlc0M4NllQSEVtYmdrZ0xjRXozU3NDbnE4ak5oVG9za1Noa0IzM1M5MkNULVFRUmVPTHdkcF9oZkdxNU9CTG9Xbw?oc=5",
-        "domain": "thekoreaherald",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T024653Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUExZWpSNWc5WFNGWkZ0Wkt1V3FHN0ZSWmc2eTlnVTJkMjkwTGpKT2ZON3AtNFppRm9EUWtaVGY1MHNOaTJPd2dQSFk5STdTN0pMUU5kWF94ZE1PdWRmOXJ2Z1dfZmF2N3VxekRoTXJkVjMtVXd3N3AzTlNZVkdwdzFvOFRyMldtZkVDRGgyb1ZiWk5LVXNlMUlncXZIT1J5djBEd3VpcG1URlVnaWQxaW40VTRabktxQVhiQmUzRDdFcUNmT1c3RTJtZFVnYkU?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T100721Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJwdkIxZGozcDBWSVFjMnZoLXVtVHVBa3BTekp4TndpUHhRd1RlcU1od2YwX0tnbkFhN0J5LU5mRlpzSzd5WFN3aWJqcGZEbGJOMmUtMm9EX2gyVGxQeFpOamd4WnJDSzVWa0FybW5FYjFYR3BTemJBeTN2eUp5bG1ndmZ0djFDLTN2c2RYNEgzTGZSNEs5QWhfYVkxWWRFVHQ0VW1SOHJ4czZNNVBR0gG0AUFVX3lxTE9kbUhNWDJiaGhrVThCcTBWREd5d1EtQkNnSlZzc3RsRzlRQ3E3ZG5zTkIyNnZLZlN0OFdDWDU4NHlJM0FmRU1ZVG9EVE5ZRUl2M0t0Y0tYZ1UyeHBBT0dPLUhDWnZ5NFhRQmZ0bmJVREs5QjlkWVBIdktVNkg5cnJFa0JRN1BQY0RiMzhjbTlzaUNzUm5zN0E1ZjNSei16SXRqVHl4MDdZMExyWm1MM3dfYUZVbw?oc=5",
-        "domain": "aljazeera",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T024948Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T023609Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yemen's Houthis: from ragtag militia to geopolitical heavyweight",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kVTJYNjJuQmllMGFaWjNqUm9oNHFlOE9kRGZuUnU4SlJZZEhERS1SSE8ydFQxNW1pazFqQ1dqOFFuRWFlX0dOZVFYMGFlYklLZTNSLWtIX1hCNkNP?oc=5",
-        "domain": "reuters",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T063540Z",
+        "seendate": "20260918T080241Z",
         "source": "GoogleNews"
       },
       {
@@ -188,111 +170,93 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Yemen: Escalating conflict drives new displacement and refugee arrivals in Djibouti",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTJ4Mkg1aGd0cnl4NkJjVmVrY0ljR1NoeXRJTWdTZ3V6bEVtaUZUbGVERVdtVFhlaDhXcGgxeGdpSkN0Tkdla0pCcTB2NWROUjNfelk1cVpSUTdLWUFJWkstU3VZUFBLM2czNUkwQUJlRjdneTRyQkp5SjdXQ3ZHallnUmlBNUhYaFdWVG9FWmw1a1pnU3RkdVo5V3ZEcDVwOWNWWlhXajhRd0R3WFBPWkl3M1M1Uk84SmQyYmh3?oc=5",
-        "domain": "unhcr-theunrefugeeagency",
+        "title": "Diesel prices skyrocket to an all-time high as conflict in the Middle East continues",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOGZhLW40SE5feVFMa0tSblFGOUhWTGdyWFA1cUNGVURsQkJUVVAzelBDdE50N1ZqWUotWk5LMzRwREwtQ1BMLTZCTHM2UGEybmRSVDVuQV9GMXBQNzFseU1BaERaRWhYSFdkRU1IcFBaNktWclc3OFJNWnhkMG1GSTJVRVRMOEllQ1lENU1SeW5XaDZCTTcyQ244MFFaOEx4RlQwYk9OLWs1LS15QnZJSXlUU3VIUFZTekdLWnMxYWF1VTFlRXc?oc=5",
+        "domain": "nbcnews",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T090800Z",
+        "seendate": "20260918T153706Z",
         "source": "GoogleNews"
       },
       {
-        "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
+        "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
         "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T193200Z",
+        "seendate": "20260918T022600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Gas, diesel costs peak from Iran conflict; Capito hopeful Trump can ‘wrap it up’ soon",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFZ1dDJmcGxvR1JGYVd6Q0RlVm9lWEJEZ0ctTFp1aE9pNVFSLWpmaDhYVHdwcmVuNWVTY1c4MV91dFhXRVhkQUY5NXB0cWlRanh6a2RWVk5ZNV9CN1VyWHZ5THpTTjZQMmpvdVM4bktmbmJUN3NCeklpbW5WOC1GSE0xMy1fZmZhcUFMb1FnNzl0RmtIX1NPYy1QMWpqdXFseklhU1Z2ZjFpbmlwd3NpN3VSNl9KZGlP0gG-AUFVX3lxTE0wUzdacGpDa1hiRXlSc0hfNlBUaVFTWGJVb1Fkd1hScEdjSkhUb3JDQlRDd3BmRGdkWDJLLWdtRE0xNnRxdXJPMmFoSS1jVW5tRURrdDljU1pMUTJJcERwem9XWFFHbGtLR29Ca0pFMzVGSGlBZ09ESDU5RjdyLTh6VjRQbDB2ZHBHNHBVMGo4Ri1BdnQzMHhTbFRRdGFRNW9kNnZWS1BfMDFWWS05aEdaWWVuUEswbVQ5bXdNN1E?oc=5",
-        "domain": "wowk13news",
+        "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUExZWpSNWc5WFNGWkZ0Wkt1V3FHN0ZSWmc2eTlnVTJkMjkwTGpKT2ZON3AtNFppRm9EUWtaVGY1MHNOaTJPd2dQSFk5STdTN0pMUU5kWF94ZE1PdWRmOXJ2Z1dfZmF2N3VxekRoTXJkVjMtVXd3N3AzTlNZVkdwdzFvOFRyMldtZkVDRGgyb1ZiWk5LVXNlMUlncXZIT1J5djBEd3VpcG1URlVnaWQxaW40VTRabktxQVhiQmUzRDdFcUNmT1c3RTJtZFVnYkU?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T011655Z",
+        "seendate": "20260918T100721Z",
         "source": "GoogleNews"
       },
       {
-        "title": "String of daring Russian plots is testing Washington’s restraint",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZlTUctTVE1aGJsUGlzX3dwUFJNRUdXWlpsNDRiTTlvMVdNNl9DWWladmpxTWg4MEpUMlc1enFGcEl5QmhRMFR2dmlUbTl2V1VvTGNvbGxDa3l0aVlIM09ENWpJbmtCZWx6QkpqWjJGcmRkeGVXRlkwLUpJbHRtc2Zlc2FpUXR5TXl6bkVWZmdCakdSZGtWUG45UUJYVXQ0N3k4ck5XanBIbXM?oc=5",
-        "domain": "thewashingtonpost",
+        "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NYm5nUTFRTml4dDc0NjFTNUYtZU9qNXJjUk9Nai1nV1I3dHhReG9PTGlWeDlNZU1MSW5ZQS04eFpYVWZiaDJISGpWRGJLbzh4OGs3cjV4Tl9WMlJ0OF9zZTZEX01pN0Ixa2ZVeWhiUzY0R3ZWNlJHb3VWMjRsQQ?oc=5",
+        "domain": "miamiherald",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T103406Z",
+        "seendate": "20260918T101605Z",
         "source": "GoogleNews"
       },
       {
-        "title": "“Aid must be sustainable”: communities affected by conflict share what they want from humanitarians",
-        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXJRR09NR3VOZlItWFdMbGFaVW9SclMyZVQ1SDcxdDdwMkhuTGlweXNzaHJQYk5aUU9sUENYY1dINmQwTEVmZ2Nwdy1MdGRWd20wVVA5bjUxa1ZGSks1VjVWMU1RUHBDbmNmRy0wVGFUaDJNcktDS2ViZUQ3R0xPOGJZMlNjVUQ5a2loYnhEbFFKTmw0bXR1amFKUVdOaTVTYXFDYWdWVWVSM2tQT0NQOTJHY1daaW5DR2hHNHFuYXVjYmlvZW1KQ0FkRDlzODlJUmM5dmxBR0M0X1VDTGwyZVFJMXVIbXVCYzM4ZXg5d3E1amVWUFE?oc=5",
-        "domain": "icrc",
+        "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJwdkIxZGozcDBWSVFjMnZoLXVtVHVBa3BTekp4TndpUHhRd1RlcU1od2YwX0tnbkFhN0J5LU5mRlpzSzd5WFN3aWJqcGZEbGJOMmUtMm9EX2gyVGxQeFpOamd4WnJDSzVWa0FybW5FYjFYR3BTemJBeTN2eUp5bG1ndmZ0djFDLTN2c2RYNEgzTGZSNEs5QWhfYVkxWWRFVHQ0VW1SOHJ4czZNNVBR0gG0AUFVX3lxTE9kbUhNWDJiaGhrVThCcTBWREd5d1EtQkNnSlZzc3RsRzlRQ3E3ZG5zTkIyNnZLZlN0OFdDWDU4NHlJM0FmRU1ZVG9EVE5ZRUl2M0t0Y0tYZ1UyeHBBT0dPLUhDWnZ5NFhRQmZ0bmJVREs5QjlkWVBIdktVNkg5cnJFa0JRN1BQY0RiMzhjbTlzaUNzUm5zN0E1ZjNSei16SXRqVHl4MDdZMExyWm1MM3dfYUZVbw?oc=5",
+        "domain": "aljazeera",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T013623Z",
+        "seendate": "20260918T024948Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Give sustainable recovery a chance",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haHRJdXQyZjFBcUVDUVVtS1oyQ3loWU9oR3hmbXItZjNNeWRZMUtfUWxDWTY3bElDall5ZjlsTi0xRXhSMXJiNmZPbTJnejJqSHVqbmFvRmlhTU11d0UxbDYwaw?oc=5",
-        "domain": "theconflictandenvironmentobservatory",
+        "title": "Amid conflict, students study abroad in Israel",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSDE1aVhFRFRXOThzdlYwRFk4Yzd3a0xUZWEwN2ppNmxVcU1odjVYMmhiUEJZMTJnYlJQNHQzUlpDUFBLYkRxSW5ENkxuLTRmNVlBd3RaanF5TnN2N2tBdU9wU3lQQ0pienpaelhSMm45OWVQbXhjdFEwTm91TUR6ejFWN0NKbHhVUHlkaE96WHlCTVY0eWhKRTB1ZjRYOWU4TlpCWGR4dE9QRTcxLW5qZkU5YWY2dms?oc=5",
+        "domain": "thesoutherneronline.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T071525Z",
+        "seendate": "20260918T120421Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Analysis • IDF insists it's not Israel's war, but a Houthi front may serve Netanyahu",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR2Q5TDFnVU01UUNtV1YzbzE0RWxqQlRYOV9MVmdrajBXdVNvczJ6MUVrVm93cUxqOEduT1BFal9SSEhIRXZobVYtRlotTVlweUtnYlFBZlJILS15SHpsQl8zamtfdEZIQVdpZ01fUjhwUmJNY3g0d1NFWDZlR0haVlRRN0c5T1hHRW8zMUdxRHl5cXhWUUFaUnB4X1Yya2JTRkNndEwxUzlqSGNKVUNpcXlKTjNDTGRhTGZOWGpwZVZhVEZ6NVp6WnEyOUg1Qkt3MU1mUDNFSEVQYlR0NnNaZThSSUUyUGxOUmhzX3dTLW91NWtqcWR1MFEtWWMwcV96eVdLejFMb2RfdkNMZ2VKYjlqTTFJdV9STk03eVZJUDdHZw?oc=5",
-        "domain": "haaretz",
+        "title": "Iran conflict 'hopefully' nearing end, Trump says",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1NpbGFTVEVmaWRuNW8zM0c5VkozQVRxbDdUclZiWGFpSzRPMTBZaGItOWFpTkpOeW0zR1VtbmxNanNOcXpPWG1vblc4NDBfNUdCenJ1T3dhYTR0Z01vR3RSdVV6Q1RJajRmYlpLRVo3OFJRNXA4V2tXTVAyR21jZG5n?oc=5",
+        "domain": "chinadailyglobaledition",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T030000Z",
+        "seendate": "20260918T015157Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Retired Brigadier General Leela Gray",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWFWU0VBTWJCNmFyVU5tWU10VkU4Q0JwRnNfMVBQMDA2TGtfS0N5LWthRnFsUlVBYXR2TXZEZERFYVFBN0dvcVUyTnlIaENjNDNfRTQ1OHQyYlJLaTRFTzRqY0pHdUFVbUQ3SmtLWWFQdFcwWmd4LXJVMmY3SjNiOVJxSl9MSlR0U245dDIwUWNRMHBqMUl0aTh1ck1sUWZJVGfSAacBQVVfeXFMT1p0eW9fQzZjcUhyU0NBREVjVjk5Zy01anE0Z2dadVd3d3FVd0ItNlJBdEFkeEhJTWdxbW1vdFBpdHhDeVNaOWZ5NGY5cmREdlNaVksyTUJ1Yk1rOUZ0YlJVbjlacE5EeVZCSUU5WmVFY2ZWNWVDQlZyVUp2YkJ5RHdkdHJDY1lDYnFwUXEwcjZNRE9qTDZnT0pTaWFvRzUzVXhiNDJhQWM?oc=5",
-        "domain": "fox13tampabay",
+        "title": "Saudi-Yemen conflict: The notion of an 'American saviour' is dead",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFdlaFpPSE92N1Y0TS1BcHkxQ0JBYW1KU3RwUmF0YTJJVWtEZTl2VGwwQS1nUnpvYTludmgxNGtuUFU3bkMwWHg5LVJfX1dndkptSWxFbFp4ci03d3N6cmY1dkY5RzVyVlEzUGZ4NGduSURKX01SQlpvUno0bDFoVVRTb0EtMmtSVW5sbjFOaGc?oc=5",
+        "domain": "middleeasteye",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T231801Z",
+        "seendate": "20260918T094100Z",
         "source": "GoogleNews"
       },
       {
         "title": "Why Yemen has returned to conflict",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCdlZBdGFoS0NKeTRnOUVRVkt6WFV3clB6Q3ozbnVJVVV2VzRLa2VGM2lDOHZXTmNIak5SUDI0alhyelNUUVFvMjVQNUp5NHJRSW9mOHJlenAwSmFQYWUwQW8zZFBpY25VaEtBZDVVOVQ3MmR4YTBsUA?oc=5",
-        "domain": "theconversation.com",
+        "domain": "theconversation",
         "language": "",
         "tone": 0,
         "seendate": "20260916T141422Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Estimating the Cost of Combat Operations Against Iran",
-        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBZFZoQVZoZHZRdG9qM2ZjWFBaUUdMdkswTEM3MlpVbTdDcFdrZlJpZTFzQlllT1BRT29LRlQ0UzN3SEEwUGp5UEtkM0hhUQ?oc=5",
-        "domain": "cbo.gov",
+        "title": "Olmsted, Dodge counties top national average for gas prices amid Iran conflict",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWV3aEhNSjdoY3Byclg4cll3R1FtX0hUTm4zWFBCT0RYTDFIN3lrbTdHNFdHb3ZQQTgzNi1HVm5raHoyRU5xNTc3SFJLQnlOVWV5MmVfcHVUaERtQWFXbWh0a01rUVhNSGk5S2VhVHJ0ajI0QVVYZDZSSHdLSW8zUkxuaTV4cWs4bVNHa1c1VXpXdVlma3dXUExWTkticW4yNmNhdzNEM0piZw?oc=5",
+        "domain": "kaaltv.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260915T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Barclays backs November BoE hike, warns Middle East conflict could spur more",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWlI0ZEpSTzNxM2ZmQmhlRnh3cnh0V3JJLXhMSnFaM0hmSUdRYVpVRXlZRUltd2FqN3lhOWFvT0s3STI5WW40RzBZWjVyRXU2U2hqUTJZNU1qd0wtcmRIRGU0MU16Q01Md19SU0lwak1CdzN0N1pxUTRSRERDc1MwUXZZa1JYOEFLaDVxTjFaaU9TSUp4eFhqUFh0STJWdlNYSi1XbktLNA?oc=5",
-        "domain": "wkzo",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T054525Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Peer power: How the Mediation Center is teaching Savannah students to navigate conflict",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMTVFUkRQcHFfZm1TTXpnQXRqY0pZaFRFbmVRbXV6VDBKWjR4RW5ueFJKbjBfNDJCQUU3QlkyaDFFZHdUVHBLVW92c1VqSDNOQTRnc1RZbFZHRkNBYW1tdm5ZT3BncTJHbnFjMGctTGI5X3RNbXlIdmlKOEhJdmN4dTRncFhRS1JvRkxsSHpOQ2l5Z05rMUxIeHNvSTRsSVNPOVJySGRubGdRX2ZnVWpWTkt3?oc=5",
-        "domain": "wtoc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T203000Z",
+        "seendate": "20260918T120017Z",
         "source": "GoogleNews"
       },
       {
@@ -305,21 +269,129 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Pakistan announces austerity measures to conserve fuel as Gulf conflict spirals",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
-        "domain": "reuters",
+        "title": "Opening Remarks by Mr. Issaka Garba Abdou, Head, Governance and Human Rights Division, Department of Political Affairs, Peace and Security, at the Technical Consultation on the AU Conflict Prevention Framework and Continental Prevention Architecture",
+        "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPOXQxLUVCUGppckFKc2hld1NkaW1PYWtlUnhpR0JkN09ObG10NkV6VFRMa2xwUW9sNk5FdXY4SWtzSVlneXNzSE4xWlhxVzdQckd1TjFaMmlNYkQ1X2dGSnIyZjUwLVJLa0pIWGlyNzllTTFWbVpjd3dUSjFDRmdDZWw4YkVTN2I4c1ZTUWpSRmVWS3pHV2VFak9MOVMyZ25NZnRMeEdzNHk0QUxtc3JjWlM3dG5TbGZKVUhxellLdzBrNjlJTmp0d0dEZTdkQ2xGdHViY2MzZ3Z6ekE3NE5FYTItSGVYcHAxWHZuNUktaWhjT21MOTlRMXdPeDJOaDNhZmIzNS05QTdtUjJsYU11ZV9MWTlBbm1LVzBPdXFlVEVTaWYweGh2TjVoUF9EX2ZBVVVGSVF6b19rVF91NXBNNXo4SlJZcVFfTU1XOFhWLXNzR2hubS1zSGJiRUw2V2Z3ZGlRLVNxR3FiMXVyNllLRTdoNEQ3cTR2SVNKZE40bHRoOVhNOFNmMUJ1Ukt1OHF2Smp5QnI2d0l6eVZP?oc=5",
+        "domain": "peaceau.org",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T180329Z",
+        "seendate": "20260918T080921Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Behavioral scientist Julia Minson unpacks disagreement in Viewpoint Exchange talk",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbjhOZXVuY1FLQWVhLTJkMnQ1V2c0d0poeHdCd2tubVdQaENWUS1YUDY5b3J1eERKbzI2N3laZzFsbm8xSm14TlFqb2tUalBsalZDSnZMekYyRHR4bXRGTW1GeVBfMmpfWUdxRzd0ZU95c0Y5eEhmZHVhS0otQTVoekYxUjNTaHVzRFEtcEs3bEdvMEFqbmF0QVpUVno5T3M?oc=5",
-        "domain": "thebowdoinorient",
+        "title": "Yemen's Houthis: from ragtag militia to geopolitical heavyweight",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kVTJYNjJuQmllMGFaWjNqUm9oNHFlOE9kRGZuUnU4SlJZZEhERS1SSE8ydFQxNW1pazFqQ1dqOFFuRWFlX0dOZVFYMGFlYklLZTNSLWtIX1hCNkNP?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T070040Z",
+        "seendate": "20260918T063540Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Gas, diesel costs peak from Iran conflict; Capito hopeful Trump can ‘wrap it up’ soon",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZFZ1dDJmcGxvR1JGYVd6Q0RlVm9lWEJEZ0ctTFp1aE9pNVFSLWpmaDhYVHdwcmVuNWVTY1c4MV91dFhXRVhkQUY5NXB0cWlRanh6a2RWVk5ZNV9CN1VyWHZ5THpTTjZQMmpvdVM4bktmbmJUN3NCeklpbW5WOC1GSE0xMy1fZmZhcUFMb1FnNzl0RmtIX1NPYy1QMWpqdXFseklhU1Z2ZjFpbmlwd3NpN3VSNl9KZGlP0gG-AUFVX3lxTE0wUzdacGpDa1hiRXlSc0hfNlBUaVFTWGJVb1Fkd1hScEdjSkhUb3JDQlRDd3BmRGdkWDJLLWdtRE0xNnRxdXJPMmFoSS1jVW5tRURrdDljU1pMUTJJcERwem9XWFFHbGtLR29Ca0pFMzVGSGlBZ09ESDU5RjdyLTh6VjRQbDB2ZHBHNHBVMGo4Ri1BdnQzMHhTbFRRdGFRNW9kNnZWS1BfMDFWWS05aEdaWWVuUEswbVQ5bXdNN1E?oc=5",
+        "domain": "wowk13news",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T011655Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "JP Morgan says it has no clear oil market endgame as Iran conflict drags on",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSzYzNHdWWVhKTktiSDh6Vi0yOTdmYWZpUlBtUlAwWFNNZjNCdnNkdkxmUWFsUEFuZUl3LWRmTzd4UEdBRVFlODRqenMwUlVya1dNMjY0VkozQVo5VTJNMF9uc1lWRnZlU0pTczdHejBmX2pzWEZiWDhXaWpMZ3FvMm1YS09vVVJKdWo0bWJ1eFZwem5seElGMEFqbjhVQk5zZ1NtblRiT0NFS0dGYUVvQVlhLWtack9OdzROdGxn?oc=5",
+        "domain": "reuters",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T193200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Analysis • IDF insists it's not Israel's war, but a Houthi front may serve Netanyahu",
+        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNR2Q5TDFnVU01UUNtV1YzbzE0RWxqQlRYOV9MVmdrajBXdVNvczJ6MUVrVm93cUxqOEduT1BFal9SSEhIRXZobVYtRlotTVlweUtnYlFBZlJILS15SHpsQl8zamtfdEZIQVdpZ01fUjhwUmJNY3g0d1NFWDZlR0haVlRRN0c5T1hHRW8zMUdxRHl5cXhWUUFaUnB4X1Yya2JTRkNndEwxUzlqSGNKVUNpcXlKTjNDTGRhTGZOWGpwZVZhVEZ6NVp6WnEyOUg1Qkt3MU1mUDNFSEVQYlR0NnNaZThSSUUyUGxOUmhzX3dTLW91NWtqcWR1MFEtWWMwcV96eVdLejFMb2RfdkNMZ2VKYjlqTTFJdV9STk03eVZJUDdHZw?oc=5",
+        "domain": "haaretz",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T030000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Yemen conflict displaces 112,000 people in two weeks, UN says",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZC0xTUk2VGdpYjJFOEd1VmVNNUJkV0lLQUVqOHdYcXhyR3pSeXJtSnRSeXlIcTRQVzFQVmpncEZfVEcyRHlILXdJeXc0WUxULTNsUmNvNDdpb0t1bEZiWVlodjdtejBmYmhwRFlYNjRrOTY5clFIc093Q29PY0cwaVFMaU1sdkpSN2FLU2xxTFdPYW5GaFJSZlo2TVFYYWZ6S1FPNVlXeHgzclB6bzcybXliQQ?oc=5",
+        "domain": "middleeasteye",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T122400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Retired Brigadier General Leela Gray",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQWFWU0VBTWJCNmFyVU5tWU10VkU4Q0JwRnNfMVBQMDA2TGtfS0N5LWthRnFsUlVBYXR2TXZEZERFYVFBN0dvcVUyTnlIaENjNDNfRTQ1OHQyYlJLaTRFTzRqY0pHdUFVbUQ3SmtLWWFQdFcwWmd4LXJVMmY3SjNiOVJxSl9MSlR0U245dDIwUWNRMHBqMUl0aTh1ck1sUWZJVGfSAacBQVVfeXFMT1p0eW9fQzZjcUhyU0NBREVjVjk5Zy01anE0Z2dadVd3d3FVd0ItNlJBdEFkeEhJTWdxbW1vdFBpdHhDeVNaOWZ5NGY5cmREdlNaVksyTUJ1Yk1rOUZ0YlJVbjlacE5EeVZCSUU5WmVFY2ZWNWVDQlZyVUp2YkJ5RHdkdHJDY1lDYnFwUXEwcjZNRE9qTDZnT0pTaWFvRzUzVXhiNDJhQWM?oc=5",
+        "domain": "fox13tampabay",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260917T231801Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "“Aid must be sustainable”: communities affected by conflict share what they want from humanitarians",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVXJRR09NR3VOZlItWFdMbGFaVW9SclMyZVQ1SDcxdDdwMkhuTGlweXNzaHJQYk5aUU9sUENYY1dINmQwTEVmZ2Nwdy1MdGRWd20wVVA5bjUxa1ZGSks1VjVWMU1RUHBDbmNmRy0wVGFUaDJNcktDS2ViZUQ3R0xPOGJZMlNjVUQ5a2loYnhEbFFKTmw0bXR1amFKUVdOaTVTYXFDYWdWVWVSM2tQT0NQOTJHY1daaW5DR2hHNHFuYXVjYmlvZW1KQ0FkRDlzODlJUmM5dmxBR0M0X1VDTGwyZVFJMXVIbXVCYzM4ZXg5d3E1amVWUFE?oc=5",
+        "domain": "icrc",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T013623Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Connecting for Kids holding the free program ‘From Conflict to Connection’",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0ZfVjVZeHNMU0RUUkRzMldja1lIUzJJM2Q5dUJFVmtsNG1XQUF0dmEyMC1sQlFwaGFlOHJDdUE4Y040UXhVZFlrT1oyeTZrak8yQXJlN0tlczUyelFKY2JMNV9RcHhXdmZVS2hxZm5oTkg2UFBzRXB3VERsamszVHNBY013U2hLb0RMZTVqMjI4QzIyTzkzbVNQclFzN3Q3MXZmQVBXVDJjWmxLN29MeVFTUlV1dw?oc=5",
+        "domain": "morningjournal",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T125942Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Give sustainable recovery a chance",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1haHRJdXQyZjFBcUVDUVVtS1oyQ3loWU9oR3hmbXItZjNNeWRZMUtfUWxDWTY3bElDall5ZjlsTi0xRXhSMXJiNmZPbTJnejJqSHVqbmFvRmlhTU11d0UxbDYwaw?oc=5",
+        "domain": "ceobs.org",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T071525Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Shared Passion and Healthy Conflict: Karen DeVault on Account Management",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzVrZXNBbl8xYVJzQVc4VFk3aEpCNHI4Ny0tTzlpV3k1a2ctZzE0VmhCLUtzUnBsZHBlY0V4SFhtTlN3NjNDai0tbmp0N2xkRnIzcDJzdDg0R0hQOHkyVVlmU2dWbm5hVDVmQktxMHVQQUVHbW12MUVDdlVPZllGY1RnNnZkS3d1UUVMWXNHZmZfMFZKSXZVYkV0TVNXTEk?oc=5",
+        "domain": "littleblackbooklbbonline",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T141154Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Yemen Displacement Tops 85,000 as Conflict Continues, 2,000 Flee to Djibouti",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUU5YnlTTjRCNDJsU0hoaWF2TVM0ZEotc3dYV25pMXg4NVVGYlB5QjV2MFhDSFRnRVJmNG5TUlM0YlpldER5bnZnb0t1bmJRb1BaVjBPR1lWaUxrdFYxVERkOU9SdmJQbUs4SVpadTQ2MmpjQnUwaHNVWVVVZVRNUXp3bTdZWGNuQ3o1dVIzLWhDcFEyUXdB?oc=5",
+        "domain": "internationalorganizationformigration",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260916T091236Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Syrian Military Court Issues Verdicts in Coastal Unrest Case",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDZQeEw3UWYyMm1OUV9nRHNtOHZpaVc0UmVFZUh6SGJ1dTRLdFN1UUM4VmNHeTNtVXo5VE41NWw1SGhiTThSSlJfUHNqSzZYOWxwWjUwTFYydEYzTFhPLWtxaHZfSVhpRXpZdlFfSk1hSDdPYnRHVHl0dnB4SEhxVEp4T2JmSVBnN1dvX1FNZkdqczRjSzBPMWs5c2s5aDY2N05IYXAtRXFQQQ?oc=5",
+        "domain": "thesyrianobserver",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260918T080230Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Advancing conflict research and response through satellite-derived data",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGR1dwSFVHd1hpenhyYUJ6c0lLbjlTTkV0UUNBR0czVWowUFUtYnlaQmkxSVV0TmlHcXpjZGNVUU1JTmNtRFpUWkpPa3lCOWduc2xNWDF6cmI3VDFPcm5n?oc=5",
+        "domain": "nature",
+        "language": "",
+        "tone": 0,
+        "seendate": "20260910T023750Z",
         "source": "GoogleNews"
       },
       {
@@ -334,82 +406,37 @@
       {
         "title": "Outagamie County nonprofit offers conflict resolution for local court disputes",
         "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXlrX1R4ZTB2VjhmSEQxMHQyT3ZVdkRwbGN6Y1BoQUNPWUhFNnFYZ0VUcFMtZEhNcUI5ZEJpZDlRN0t1M1RRY0ZZbEJYd3RTLUR3NHQta0xrTHUwNF94Xy1COVlEMXYzbUozZ2ZBalg5SXR0SXhkM0V6WkZnZ1o1SVlqMzNDb3ZxWHAzWi1wQdIBlAFBVV95cUxQMmFBd1FfbkppelRqbGlJWnFFWE1NTDJnYzJTS1FsWElPZ3NjTnFqZkY2Y21XNTE3NjdNUklXTjZMeDB0UEFITk9FRTZtTy14bDlVWXB0NjFXYkZOWmdKaDBqaGllVVl6anFFQ0pVeHRyV0pGQXlRVjdobHRRcUo2Rzk4aE5NNV9jUjB1ZHFpdllxb2hB?oc=5",
-        "domain": "wearegreenbay.com",
+        "domain": "wfrvlocal5",
         "language": "",
         "tone": 0,
         "seendate": "20260917T212300Z",
         "source": "GoogleNews"
       },
       {
-        "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
-        "domain": "britannica",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T050000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Olmsted, Dodge counties top national average for gas prices amid Iran conflict",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWV3aEhNSjdoY3Byclg4cll3R1FtX0hUTm4zWFBCT0RYTDFIN3lrbTdHNFdHb3ZQQTgzNi1HVm5raHoyRU5xNTc3SFJLQnlOVWV5MmVfcHVUaERtQWFXbWh0a01rUVhNSGk5S2VhVHJ0ajI0QVVYZDZSSHdLSW8zUkxuaTV4cWs4bVNHa1c1VXpXdVlma3dXUExWTkticW4yNmNhdzNEM0piZw?oc=5",
-        "domain": "kaaltv.com",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T060017Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yemen Displacement Tops 85,000 as Conflict Continues, 2,000 Flee to Djibouti",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMUU5YnlTTjRCNDJsU0hoaWF2TVM0ZEotc3dYV25pMXg4NVVGYlB5QjV2MFhDSFRnRVJmNG5TUlM0YlpldER5bnZnb0t1bmJRb1BaVjBPR1lWaUxrdFYxVERkOU9SdmJQbUs4SVpadTQ2MmpjQnUwaHNVWVVVZVRNUXp3bTdZWGNuQ3o1dVIzLWhDcFEyUXdB?oc=5",
-        "domain": "internationalorganizationformigration",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260916T091236Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Ohio drivers feel pain at the pump as gas prices climb above national average amid Iran conflict",
         "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNaWpSTFZPNmhuVzFIaUtuVWZrbjJZenFqU3dHdUQ4c0NSV1JhRmt6dEx6TVFOYXRqcC0tTnNsQUV0SEJBU1kzR2FJaFY2T2ZlNDB6UWlucnY5anlpTVdwaTRpMy1QcTdoZU1iN3BnTl9JSVZLNGpDcUlsbVBqM0xHbXIxVDRpTDVmREREOFYtSGpha0QwNDlUSnhxejdfMWpWekhhYUp2S0pvSnN3X0F6eXFqZnczWVJfMjNHRkJXRlo4d2N6RzlUbjYwVXpOMnNEcG9jM0NRTVM5Sm1adjlmTjBsVmc3TFhlMU9odnN5MnFFNFBFNlVsWlVB?oc=5",
-        "domain": "wkyc.com",
+        "domain": "wkyc",
         "language": "",
         "tone": 0,
         "seendate": "20260918T040800Z",
         "source": "GoogleNews"
       },
       {
-        "title": "TPNPB Expands West Papuan Insurgency to Foreign Targets",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPT0hkdEtWa01ZMHMwZ2xCUUVpeWZFT1IwUVNPc3h6eXE0bVFyYmg3dWlfbjVwbnhfNjdtenI3QU5sNzIxbGRtS3IxbUVGTHdKX0hCQXlQOXlGblpyb0FlMXdvejVfTDl4MWt5V3JrVmJKLVBiQzluOEdMNkc5N2pMd21DMFE?oc=5",
-        "domain": "thejamestownfoundation",
+        "title": "Lee rules out involvement in US-Iran conflict, says Seoul weighing possible moves",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNDhBaTBpblhreXdlMUVlc0M4NllQSEVtYmdrZ0xjRXozU3NDbnE4ak5oVG9za1Noa0IzM1M5MkNULVFRUmVPTHdkcF9oZkdxNU9CTG9Xbw?oc=5",
+        "domain": "thekoreaherald",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T164141Z",
+        "seendate": "20260918T024653Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Kaine, Capito split on war powers vote over Iran conflict",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjVQd2NiZWtyS3YtZVpua0dsYzJIeEtycER0N0VQeENfTmtSMWlrZ3haOUc3UVYzSVd5T0l5TU0wdENTR2Zub0FzNjhZVldjQWVEWHdJSzZkMkdaYWhYWWlnTndOWVZIeERKd0c1b2JibFR2a0VMcjl1N2huenZBamVUbmxfVFlpalNfejAwTdIBowFBVV95cUxQQjZFUlhQU2NvcUlpX200R0FPMWZCX0h6UEVfQ3lEcE1nb3RjbGZ5OV94MkNtZWF2WTJvV09mOExnMmVwbkRHOGVxUHNBT3NadDJoZi15MlIydklFVURmaE5BTllaZDFLQzE4M0d2dG8tRi1JVDNUeXEtaVowX1FMVnpRbmxrRlBTZzBxWjVyVWZDTUI1MTM4amRpV0tVQ3ViZkNr?oc=5",
-        "domain": "wvva",
+        "title": "Pakistan announces austerity measures to conserve fuel as Gulf conflict spirals",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON0Jyc1lIM3FCbG1acWJJU0xWdUdSUTM2TWloWk9tTDRGaDRyRmhvWUFtQ2k4NE02d25Vb29BYUFqYnFoY014eWpMM2hlaDJ1R0RESE5heGszQ3FiTEUzMGVrZTFvYjNGazZIM1RpTjZUNzNMQ3UwQnE3cG9fOE9FM3MybUo0X05ISnNXOWJZV1h3SE9TRUJ3S2lfejF6UWlPZ3NvT3MtMGNsVjlVeGV1Qkpud0QxMm81NVRSVk91TENhSzlCbnFR?oc=5",
+        "domain": "reuters",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T222300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Syrian Military Court Issues Verdicts in Coastal Unrest Case",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDZQeEw3UWYyMm1OUV9nRHNtOHZpaVc0UmVFZUh6SGJ1dTRLdFN1UUM4VmNHeTNtVXo5VE41NWw1SGhiTThSSlJfUHNqSzZYOWxwWjUwTFYydEYzTFhPLWtxaHZfSVhpRXpZdlFfSk1hSDdPYnRHVHl0dnB4SEhxVEp4T2JmSVBnN1dvX1FNZkdqczRjSzBPMWs5c2s5aDY2N05IYXAtRXFQQQ?oc=5",
-        "domain": "thesyrianobserver",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260918T080230Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Europe 'on the brink' of wider military conflict, warns Slovakian premier",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUdlTzJ5TEQ0TmtvUjFRNzFhOFNQTFBYNHJHbHRQV3dTN1Bqb0ZBS2hLUWhDSl9oTzhyZVdPME94dUU0YUVwdFFVYkVlSzZHUWJRQWttVWdYTWhRckotTm9OeFFsQ3BXTGNDeFBKNFNPc0RFMHlGemJrVi1MMm8yenpZa3ZRNnMtaVV6WmdRNV9LQUxYT2QteTNtWktoUUdiUHJzVWxGUENSaEVjaXdZ?oc=5",
-        "domain": "anadoluajans",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T233613Z",
+        "seendate": "20260917T180329Z",
         "source": "GoogleNews"
       },
       {
@@ -422,66 +449,39 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Advancing conflict research and response through satellite-derived data",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGR1dwSFVHd1hpenhyYUJ6c0lLbjlTTkV0UUNBR0czVWowUFUtYnlaQmkxSVV0TmlHcXpjZGNVUU1JTmNtRFpUWkpPa3lCOWduc2xNWDF6cmI3VDFPcm5n?oc=5",
-        "domain": "nature.com",
+        "title": "Duke of Sussex renews commitment to children injured in conflict at Imperial event",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTXhZbjViOUdTVzRoNTk4dmxFRy1kYmtTZEFGRy1PaTVvUDlJV1E4MkJjSmdyTXpnWmxIYjJ5cXRVRTJmVUF4WFNSSF9Oa3ZJVW5EQzJHVFBLUXJoWGM1VkRqdUwzWmI5TWtUdkYtMkx4RDdCSGdFbkN0ekdQTTF2V2VuVHJlUnQtVDlqTWRFUmZSUzRwZTNIS3p2Y25tZU9mRTRwUlZtZDlPbnc3QmhYVFhqYTNqOFFiWHR2TndiNnJmZThiSDhSTA?oc=5",
+        "domain": "imperial.ac.uk",
         "language": "",
         "tone": 0,
-        "seendate": "20260910T023750Z",
+        "seendate": "20260918T150312Z",
         "source": "GoogleNews"
       },
       {
-        "title": "South Korea’s Lee says will not deploy military to get involved in Middle East conflict",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1I2OWU0OEVpbFo0M25xVC1Qa3VoQW5NazNYVVl3eEtILUlHR2pyTF9WaHBjRm5PeWxBZ3VUNW5DU09DVktXUDlkaV9qbElTQlp4ZGNiVExaS1BLbTk3dS1ONGx0TlpINmdaZDBpX29jZ2xIWWJmOWktVFJwdGxfWDZZVkozbW44em1yMWt4M3k2QVhDVGVLbUNWV3JtX1UtQ2xaWFdsY2dOejNicW15U2dKRGtpWjdI?oc=5",
-        "domain": "wtvbam.com",
+        "title": "Houthis and Saudis Trade Claims of Military Attacks as Conflict Escalates",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkRrcjM0Ymp5bU9Xc2d4RnJYcEhNSm83aVJ1SXlveFNRS29wazh5WVp5QTFXX1RFYUlOS3pqUUJ2dngxSUNqZlBQZFBIYTZRVG5ORGFldG51YWo2NWZXdkZna3VQY2xZZXN6TFBvWWlLbXh3TDE4RHFKeDkxYUZZZEZRU0VRZlV2ekpkRm5uY0ZvWVR5WENIMFBRQmJTMUlXRnc?oc=5",
+        "domain": "thenewyorktimes",
         "language": "",
         "tone": 0,
-        "seendate": "20260918T031451Z",
+        "seendate": "20260916T081935Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNalJBNExUU2xEMWRJazJENWJZQ2ZsLU0wV1pPMGoyRWswS3lTMWdGTDFtTE1YVnB5UjVjSlF1ZDVVWE5ycllBUjhpamREQ2tuUV9qd0duc3dFYm04MDlFZkVkRE1EcDVydEV3R1F2U2ptYXpiQVZHSkFqV2FPVHd5aTZfaE45U2l1SFF0TzU4alJ1LWFldF9sa3NxX1lLdU1Ja2diWGlhVU8xdWfSAbABQVVfeXFMTXp2MG81NHowelJhTmNGRUpuYkljcjdBQVpqTG4tV0NBMU42QWtDQ092SVZFdFUxZkpIRlF0cm1vVDJ4bmF2M1ZsMFFJMXcyd3psNzFHaUxZOE5BMndlN19QdjhqZ2wzMHJLTHZZM0xvQXhDNElPVG1KbzJuOHU2WkhaYU92QkN4OWgwUDI0SHJXS0xpWFN1NXp4MFlCVDZQcmZBUTJGWEI0YW5Wb1ppRkc?oc=5",
-        "domain": "aljazeera",
+        "title": "No, the Iran conflict didn’t ‘break’ economics. The media just wants your panic",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObXE3Yk51NEw4MDVjYnNlTWp2djlrTHZLMjB4Wi04ZXNPZEpIeHJvWUdySmplcTktTHA5bTFyM1U1WVJzRkM4YmpGMmcwSlNsaVhsdDVJVXFGSFhpaUkyVkdvS1hKNDRmbzdRYkZldmxKVlJ2RW1fVWx5eDgzaFdRektEbmlZeTRl?oc=5",
+        "domain": "washingtonexaminer",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T220757Z",
+        "seendate": "20260918T120000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "How Yemen’s Houthis went from a small mountain militia to a big regional threat",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMnJTdndsVFJTS3FOMUMtYk94bjJrMWZrbHJRUHhhU091Zjh3WFB3LU9DQnRlZG0zdXZtcWo2THlteFV3dnJ2MXBOc2x3bm1fNkRpRVJFMmx5ekdCaVlrYWZOOGkxRmg3TXlzV0dYaHdwSjB5eThMNlZiVmZ4X1ZTSw?oc=5",
-        "domain": "thejapantimes",
+        "title": "Marine war, PVT rates rise after Saudi Arabia drawn into Iran conflict",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVjhvbGtmcHFLaWt6MmphNU1nWUdBdU5HempXVzVDRnRpdWRCYkswYWZhci1jR0pUTUMtcS1SeHdHUWlEV2pleDIwdy1NY2NiZm5zNHJ5MzVwcGZLWG1tRmtxYVo4dV9oTzY3NE5OQVN5UmtIeWpZaFd6WHFCVm0xWV9rLWhjeDJnTTdVbWlhbmlnT3Q0S3RKd1FldXBSeHJhWXNRTzQwTzNjLUJaNUoyLVBYVVRRdGs?oc=5",
+        "domain": "theinsurer.com",
         "language": "",
         "tone": 0,
-        "seendate": "20260917T223000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Poll finds support for cooperation, conflict prevention top priority",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcHI2RHBOTGdjTGFXTnJTNXh5a0RTTGU5Qkp3UldaS051Yl9PZU5tek9fMnROTXBlUGp6cFppeEFTZWdkZEpCM0hQelltR3h3UHN2eXM0S194cnlvQVcyRWJvbHltWEVmanVkSmdyZHd6Ulg5NXBWNHVhSE1sQTRNbTdjQmlJOTBQckZNRHNMOXBfcWRQWmxsLU1TM0xseG5WajJhNFFkZGxBZjV2VGpmdktBMmg?oc=5",
-        "domain": "democracywithoutborders",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T105008Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Webinar | The view from Mekelle: Inside Tigray’s escalating conflict",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUM2WU9oVmpVU3U5LW81cEktQXd4NnJ2anVONVg1ZkVRbHh4cmVwX3FoMkg4Umx6ZWJXMkRWa2VianJLMW0xSTVOZnp2T09icXpVNV9LLTYzY21DMTlDSVAzUkdIcDBEa1B2TFlyWFpGUmhEYWxDb2paeXdYUWppYnB2c3g0VDRSOFY3NjZn?oc=5",
-        "domain": "acled",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T121641Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Mutual aid conflict between Hinsdale, Dalton reaches Massachusetts’ 911 Department",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdF9QX2tKcUI3Z2ViRklRd2F3RkZ0QU5GbE83eUM2bDhxZ2s4dm40WjhjdVRtRThaYWhMUUM0dFp1dWxZbFc2ZW9tRHNDM002bExXTlVwa202WlJ5N0NTX245UzBYRzNLUUR6RFVkY09ELXlBNXBkM1NxM1hiY19MUHdzRm8tZXFMTllJekxnSkV5RXBLOFBWOVZacTNYekJna3NQLU8zeGJmRjcycktScVQ2LWNMTlI1?oc=5",
-        "domain": "wamc",
-        "language": "",
-        "tone": 0,
-        "seendate": "20260917T175000Z",
+        "seendate": "20260918T065552Z",
         "source": "GoogleNews"
       }
     ],
@@ -571,6 +571,15 @@
   "entities": [],
   "events": [
     {
+      "title": "Distributed production wargame tests Arsenal of Freedom sustainment in future conflict scenarios",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VsWG5NSk84blM2V1ZBRzJaOHUyTnc5ZERhVlYtWm95V2RMLUp3Y0V5M0NCRlI0NmRHZzRTMVgzTVpoZHd0WnV6TkVYRFBIS0xoM3Z4TFcxTmE2SkdyLXNUU0RKRTNsc1hfVDJiOV9YUmltTUVwc3Uwakp0Vlc2X2tVLXQ0bDczSktCTUJ2ajgxcmtSN0RxX3FJdVRuX0I2QTNhYlJ0LW1ieGRMcmR5N2xwYURZOU8yUlRLcTNpR3dHN1UtRFNZaHNiQ3QxTnpyOUYzNHltYXZ3cF9rZEpRYWJtVQ?oc=5",
+      "domain": "dla.mil",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T123947Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Explainer: How Yemen's Houthis went from a small mountain militia to a big regional threat",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcGthY0luQlRSdV83a2g1VktUVlRKMVJCeXVjME5lNEU3MUNocU55OUhIQXhoRThxT0ZiVlUyMkM1ZENVVlowLWNaX0p5bFpjVnpfMDhPTl9EYU01MV94Y19fOE91Ym9oQS1XdENUbGotVjVRcjNsZzFGbnJDQi13Z0tSSEhMYlBiZ2pSallYMkRBb2F0Q24xT0ZpcnRUdzR0OEJLTUo4NEZtazJidEl5N3ItbkhFZmdpWVM5Mw?oc=5",
       "domain": "reuters",
@@ -580,30 +589,21 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Future Conflict Minor prepares cadets to navigate uncertainty",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0xxYzJWTGgwT1NSM2xnbk96NDRRZEd2TjV2MFpJOFNhaGZ0Tko1ZnlUSEdXVGNWMko2MEJqb2FpMUZiSGVkamlqU2NUVEhjYXFXVVRRallVMWNITEpXQktzVjY5X0NmR0pNZ2NxUFRURXJkVjBPdFIyYXZzYldhclI2X2FNMHNCQVZSZA?oc=5",
-      "domain": "usafa.edu",
+      "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+      "domain": "britannica.com",
       "language": "",
       "tone": 0,
-      "seendate": "20260917T172409Z",
+      "seendate": "20260918T050000Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Investing in Better Ways to Resolve Conflict",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXY1SF9vNHB2VHVacVY3NDJwME1GMTQwRVAyNWxreUJ4SmxBTWJsODBCRGtpZlhScVN0VzJBZmtkXzRLVG5jbWFWTFdoWGpVbmxYbzk2ZTdvNmpGekRmcVRScTJDN1dMQzc1aE1VcUloR2VyMEVuNkJhREJOSDQzeU1oZXoyWW16V2c?oc=5",
-      "domain": "thecartercenter",
+      "title": "San Diego gas surges past $6.18 as Middle East conflict drives up pump prices",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODlBY2oxZ2R5UFdTZHNFOUNNeGs2cC1NeUxXOXZzcm11NC1FZWJJanhEZVREdkhTY2x1azZwVHlYSFFhcjdBZGpNZTVkN29hMHlXVlREcHBCWGx2aWMwTW1fTmg0RU9oTmhjM09QRGNOLXRMc3FmLUNlbHRTYVZWdmtIN3BwQUIwODZhREU1TXlpaTVQS1BrbFN6VkkzWFpJMk0wQmVwVHlza2RwWE1VZG5ENlo0M0pyZE9Ba1Nn?oc=5",
+      "domain": "kpbs.org",
       "language": "",
       "tone": 0,
-      "seendate": "20260917T210047Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzRvQ2k0bHUzYi1pbVZ3LTBJMmxDbWZ0aVV6NWJhU2VyaEgtUGNycTEyYXVWWWVEbkxLZW5YY09oT3l2UEFfU2d6MmxtaWJoRUlWSDhSTnBnYUYzcHhMUlVyUnZvWGd1QlNQdHBPdVhLTnRiOUkzcUJqeEtYcUktTlZn?oc=5",
-      "domain": "thenewyorktimes",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260917T193246Z",
+      "seendate": "20260918T145400Z",
       "source": "GoogleNews"
     },
     {
@@ -616,12 +616,57 @@
       "source": "GoogleNews"
     },
     {
+      "title": "France’s 2035 national security plan warns of increased conflict in sea, outer space",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZjBkeVFKZkgwcUtrY2Y0bUdlZFQwYldkam5aYmJWME5lalZXa1FlSnFRU25UM2FqN2NBT0M4M1A0ZEFWWk9jRjQ0QU1RT2JTSnEyWU9MTmRPaGJ6VlNlbmlPR0JBRVlTMHptU0dqaE9OUjFzVzhRcVBCWDBlUUxwNkd3SEwzcEZ4WWVoZUR1a3VjRkdFM0F5bkZNbTJGUFh5U1g4VTdzYUR5VmZWN3BsUWQta2trZDAwWTlJ?oc=5",
+      "domain": "breakingdefense",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T153304Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Investing in Better Ways to Resolve Conflict",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVXY1SF9vNHB2VHVacVY3NDJwME1GMTQwRVAyNWxreUJ4SmxBTWJsODBCRGtpZlhScVN0VzJBZmtkXzRLVG5jbWFWTFdoWGpVbmxYbzk2ZTdvNmpGekRmcVRScTJDN1dMQzc1aE1VcUloR2VyMEVuNkJhREJOSDQzeU1oZXoyWW16V2c?oc=5",
+      "domain": "thecartercenter",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260917T210047Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Future Conflict Minor prepares cadets to navigate uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX0xxYzJWTGgwT1NSM2xnbk96NDRRZEd2TjV2MFpJOFNhaGZ0Tko1ZnlUSEdXVGNWMko2MEJqb2FpMUZiSGVkamlqU2NUVEhjYXFXVVRRallVMWNITEpXQktzVjY5X0NmR0pNZ2NxUFRURXJkVjBPdFIyYXZzYldhclI2X2FNMHNCQVZSZA?oc=5",
+      "domain": "usafa.edu",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260917T172409Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Saudi Arabia, Houthis exchange blows as conflict escalates",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3lIano4UGhNZUFGS0V0ZHphSjJPXzY2bF9jSjNxZVlNRGJrN01kQUM4czdiVEw0VEJqeWNZWWFfOXhoSmgyUVFpN2JHVFlEZG1UOUw3U09SamlPRjdOWjBXY1VOUjIwS3pWVVZVY2pxZUhkN0RIaE1JTS1NRUlFbWJsTE9jLXdLcU4yQzNjVHdQTnZr0gGUAUFVX3lxTE1ZNXVzT1lJazR4NUVyb1ZaQVhLekNLSnpDdjVyNldrRWd5Zk84dVM0cWM1Wl9uRFVmN0NxUzJQajIxUjlBVVg5aWFuMXZPZktsTHMxNWlaQm4xbGNTdkhCWTFJS2RNMHFrMGtFazdUS1B1c2Y0MF9EeVkza19pcVV5aVB1WnhkOUZfemU5bjdLamxWMDM?oc=5",
       "domain": "dw.com",
       "language": "",
       "tone": 0,
       "seendate": "20260918T024252Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Yemen War Intensifies as Houthi Militia Advances on Marib",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzRvQ2k0bHUzYi1pbVZ3LTBJMmxDbWZ0aVV6NWJhU2VyaEgtUGNycTEyYXVWWWVEbkxLZW5YY09oT3l2UEFfU2d6MmxtaWJoRUlWSDhSTnBnYUYzcHhMUlVyUnZvWGd1QlNQdHBPdVhLTnRiOUkzcUJqeEtYcUktTlZn?oc=5",
+      "domain": "thenewyorktimes",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260917T193246Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Yemen Conflict Intensifies, Reverberating Beyond the Region",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTHdtM0VncDJzMW5fSzRmNDFyTXpKd2J3YUNWNVcwYzJ0LTVKQVA3aGZVZjdyZFllY3k5S0pxN05veGtJU05RdUEzbXE0NVhxUEpzdE9WcTZVRENEcmJTVVJGU3BUOERzUEszbzFUa2ZjQ2tHX2hHYkVJTFUyQdIBgAFBVV95cUxOWklvOG9Mc1c3aFhPYXBTQ2FkamJGWnprNWtFa1MyQk1GdUpmTU5sdnk0SThaU01OVDFuNjA3djdnSkJMT3JDcWVYSUJZaENuaV9LMzNQS2l0M3hiTmhiU3B0ZExFRHZTd0N0TjNTNWRhRG1PUWk4RlJMTmZOekN5ZA?oc=5",
+      "domain": "radiofreeeuroperadioliberty",
+      "language": "",
+      "tone": 0,
+      "seendate": "20260918T145507Z",
       "source": "GoogleNews"
     },
     {
@@ -634,75 +679,30 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NYm5nUTFRTml4dDc0NjFTNUYtZU9qNXJjUk9Nai1nV1I3dHhReG9PTGlWeDlNZU1MSW5ZQS04eFpYVWZiaDJISGpWRGJLbzh4OGs3cjV4Tl9WMlJ0OF9zZTZEX01pN0Ixa2ZVeWhiUzY0R3ZWNlJHb3VWMjRsQQ?oc=5",
-      "domain": "miamiherald",
+      "title": "String of daring Russian plots is testing Washington’s restraint",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOVZlTUctTVE1aGJsUGlzX3dwUFJNRUdXWlpsNDRiTTlvMVdNNl9DWWladmpxTWg4MEpUMlc1enFGcEl5QmhRMFR2dmlUbTl2V1VvTGNvbGxDa3l0aVlIM09ENWpJbmtCZWx6QkpqWjJGcmRkeGVXRlkwLUpJbHRtc2Zlc2FpUXR5TXl6bkVWZmdCakdSZGtWUG45UUJYVXQ0N3k4ck5XanBIbXM?oc=5",
+      "domain": "thewashingtonpost",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T101605Z",
+      "seendate": "20260918T153422Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Saudi-Yemen conflict: The notion of an 'American saviour' is dead",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRFdlaFpPSE92N1Y0TS1BcHkxQ0JBYW1KU3RwUmF0YTJJVWtEZTl2VGwwQS1nUnpvYTludmgxNGtuUFU3bkMwWHg5LVJfX1dndkptSWxFbFp4ci03d3N6cmY1dkY5RzVyVlEzUGZ4NGduSURKX01SQlpvUno0bDFoVVRTb0EtMmtSVW5sbjFOaGc?oc=5",
-      "domain": "middleeasteye",
+      "title": "What to know after a week of Houthi attacks that threaten Saudi oil",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRy16WGVpZW1tckVwZ3VFZnZ2dGxHT1BEM0VxdVhfRWQ4QUtPeURzR3JCTWlZeFRxWWFZTFJTbWJvTGdsZ2RyblhocjdIS3YyOF8waEFmQjRXNEs2N2k4dDAwV3pNZVdIYTZNVXEzVXFZZ0QtdFlrenVuLW5XLVhTXy0yX0RTZXUxaUJF?oc=5",
+      "domain": "npr",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T094100Z",
+      "seendate": "20260918T080241Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Opening Remarks by Mr. Issaka Garba Abdou, Head, Governance and Human Rights Division, Department of Political Affairs, Peace and Security, at the Technical Consultation on the AU Conflict Prevention Framework and Continental Prevention Architecture",
-      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPOXQxLUVCUGppckFKc2hld1NkaW1PYWtlUnhpR0JkN09ObG10NkV6VFRMa2xwUW9sNk5FdXY4SWtzSVlneXNzSE4xWlhxVzdQckd1TjFaMmlNYkQ1X2dGSnIyZjUwLVJLa0pIWGlyNzllTTFWbVpjd3dUSjFDRmdDZWw4YkVTN2I4c1ZTUWpSRmVWS3pHV2VFak9MOVMyZ25NZnRMeEdzNHk0QUxtc3JjWlM3dG5TbGZKVUhxellLdzBrNjlJTmp0d0dEZTdkQ2xGdHViY2MzZ3Z6ekE3NE5FYTItSGVYcHAxWHZuNUktaWhjT21MOTlRMXdPeDJOaDNhZmIzNS05QTdtUjJsYU11ZV9MWTlBbm1LVzBPdXFlVEVTaWYweGh2TjVoUF9EX2ZBVVVGSVF6b19rVF91NXBNNXo4SlJZcVFfTU1XOFhWLXNzR2hubS1zSGJiRUw2V2Z3ZGlRLVNxR3FiMXVyNllLRTdoNEQ3cTR2SVNKZE40bHRoOVhNOFNmMUJ1Ukt1OHF2Smp5QnI2d0l6eVZP?oc=5",
-      "domain": "africanunionpeaceandsecuritydepartment",
+      "title": "Escalating conflict drives new displacement in Yemen",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAybU5nUmRCVnlzY1AwUTdKcW9UQUVvTy1hTjJ6TDY2UjNVSGhXOFhMQXRZeWRnQkpYZ3ZYS0ZhcjNDUTVVZHNaUl93T2xlLTNVT2NHSWFqQQ?oc=5",
+      "domain": "unnews",
       "language": "",
       "tone": 0,
-      "seendate": "20260918T080921Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Iran conflict 'hopefully' nearing end, Trump says",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1NpbGFTVEVmaWRuNW8zM0c5VkozQVRxbDdUclZiWGFpSzRPMTBZaGItOWFpTkpOeW0zR1VtbmxNanNOcXpPWG1vblc4NDBfNUdCenJ1T3dhYTR0Z01vR3RSdVV6Q1RJajRmYlpLRVo3OFJRNXA4V2tXTVAyR21jZG5n?oc=5",
-      "domain": "chinadailyglobaledition",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T015157Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Lee rules out involvement in US-Iran conflict, says Seoul weighing possible moves",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SNDhBaTBpblhreXdlMUVlc0M4NllQSEVtYmdrZ0xjRXozU3NDbnE4ak5oVG9za1Noa0IzM1M5MkNULVFRUmVPTHdkcF9oZkdxNU9CTG9Xbw?oc=5",
-      "domain": "thekoreaherald",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T024653Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Yemen conflict displaces 112,000 people inside country, thousands flee to Djibouti, UN migration agency says",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRUExZWpSNWc5WFNGWkZ0Wkt1V3FHN0ZSWmc2eTlnVTJkMjkwTGpKT2ZON3AtNFppRm9EUWtaVGY1MHNOaTJPd2dQSFk5STdTN0pMUU5kWF94ZE1PdWRmOXJ2Z1dfZmF2N3VxekRoTXJkVjMtVXd3N3AzTlNZVkdwdzFvOFRyMldtZkVDRGgyb1ZiWk5LVXNlMUlncXZIT1J5djBEd3VpcG1URlVnaWQxaW40VTRabktxQVhiQmUzRDdFcUNmT1c3RTJtZFVnYkU?oc=5",
-      "domain": "reuters",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T100721Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Syria warns Israel poses ‘the greatest threat’ to Middle East stability",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJwdkIxZGozcDBWSVFjMnZoLXVtVHVBa3BTekp4TndpUHhRd1RlcU1od2YwX0tnbkFhN0J5LU5mRlpzSzd5WFN3aWJqcGZEbGJOMmUtMm9EX2gyVGxQeFpOamd4WnJDSzVWa0FybW5FYjFYR3BTemJBeTN2eUp5bG1ndmZ0djFDLTN2c2RYNEgzTGZSNEs5QWhfYVkxWWRFVHQ0VW1SOHJ4czZNNVBR0gG0AUFVX3lxTE9kbUhNWDJiaGhrVThCcTBWREd5d1EtQkNnSlZzc3RsRzlRQ3E3ZG5zTkIyNnZLZlN0OFdDWDU4NHlJM0FmRU1ZVG9EVE5ZRUl2M0t0Y0tYZ1UyeHBBT0dPLUhDWnZ5NFhRQmZ0bmJVREs5QjlkWVBIdktVNkg5cnJFa0JRN1BQY0RiMzhjbTlzaUNzUm5zN0E1ZjNSei16SXRqVHl4MDdZMExyWm1MM3dfYUZVbw?oc=5",
-      "domain": "aljazeera",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T024948Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "South Korea's Lee says will not deploy military to get involved in Middle East conflict",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHVWWW80X2pnalBXQzRpRlpIQnNiNGt0V1o3Q01OME0tSjg2X0ltaENaUjBXZ2NUWVFnLVRQUTNvRzBHdUh3am9SNExYc3RuQmtxdjkyeGNnMzRvOGdFeUxyTG83bUlEU2NJQ3FCb3ZhR1hjRFEzal84X0pDUW9KWUMtVElRYmI1VWljLTN3ZnNJNkNMLVVyR25DUWI0SmMwQkpqQzRGRUlnMFlSS0RObkRTaTBCRzVwZDN0QjJLUlNDTU96ZDhPb2RSWWtXNEcz?oc=5",
-      "domain": "reuters",
-      "language": "",
-      "tone": 0,
-      "seendate": "20260918T023609Z",
+      "seendate": "20260915T150734Z",
       "source": "GoogleNews"
     }
   ],
