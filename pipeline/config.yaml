@@ -1,15 +1,10 @@
-﻿# Conflict Early Warning System Configuration
+# Published scope: topical news coverage only. No risk or exposure index is calculated.
 project:
   id: conflict-early-warning
-  name: "Conflict Early Warning System"
-  description: "Predictive conflict scoring using climate, economic, and political indicators."
-
-openrouter:
-  model: "nvidia/nemotron-3-super-120b-a12b:free"
-  fallback_model: "z-ai/glm-5.2:free"
+  name: "Conflict News Monitor"
+  description: "Source-linked topical news coverage monitor."
 
 news_query: "(conflict OR unrest OR insurgency OR militia)"
-include_forex: true
 
 sources:
   - name: "Google News RSS"
@@ -17,10 +12,3 @@ sources:
 refresh:
   interval_hours: 6
   retry_attempts: 3
-
-scoring:
-  scale: "1-10"
-  thresholds:
-    high: 7
-    medium: 4
-    low: 0
