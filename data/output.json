@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-10-11T05:47:49.698396+00:00",
+    "generated": "2026-10-11T12:51:15.603766+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -23,19 +23,19 @@
     },
     {
       "label": "Distinct news domains",
-      "value": "39"
+      "value": "42"
     }
   ],
   "live_data": {
     "news_articles": [
       {
-        "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjltVlp6ZVZyMXZjMzU0QUpmZmhhMGU3MzdzeXgxRTVQWlMyWkV4aTNGSVVkb1A5ZGh1eElyNl9WQkR3VWEzU3hIZ01xZURxNlF0V0hpZlR4aUNfNEE4VlQ4NlN4TGRlc0hyZ3lsQ0x2VTUyNF9hcGMyZkdLY1NJeG9HUnROVXg4VkpTNU5jVG5sU2ZRd1ZxWUlwejRwOHNWS3MyRXEyVGVhdWV4OTQzLXpVc1Q2VzlqYWRjSXlB?oc=5",
+        "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261008T074730Z",
+        "seendate": "20261011T112935Z",
         "source": "GoogleNews"
       },
       {
@@ -59,16 +59,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Pope: Greek Melkite Church ‘witness of peace in conflict-scarred lands’",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlR0Yk1pLWpBX2ZZQ2ZCbGZtQi14a013bG5FTTFJLVFaOGRCc2RBZ3NIY2NzaV9jTVJnWjVINU05Y1ZKbTVnYm5BTUkxQ2tfOVY2TXhHZjhxTkJyWV9xTnRYaGc0T2hpek1ILUJQQ2VWYkRDYkhvb3VDN0lSTWlwclk2U09ueWNzNU1SRVpJcl9mOTZ2NWNZS2pqaVVpb21CQXZV?oc=5",
-        "domain": "www.vaticannews.va",
-        "publisher": "Vatican News",
-        "publisher_url": "https://www.vaticannews.va",
-        "language": "",
-        "seendate": "20261010T095436Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
         "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MdndDdGlNdjktS3V4eU0tbndRR0dlNGJiZEU5WV9sZC1mbm1BSWZuTEcxSVVyc3MtaXZ6U09tZXBCd1FWSHRLUkRGVGw3NzJzRjFJbFd6eDlnak0wX21fVlQ5Q0pLb1RYbEM4T1VmQTdENDBqTkpiX01NWnM3T2_SAYQBQVVfeXFMTWJ4SlpGa1JvemxmMlhKSUc4SDlpSFp0dlRxNWZ5M1VPOWpESTBBYnBVQXo0T2dZRUN2ejJJUnNQZENMY0k1ZXZsMTdsLXdCSmFzRmxkbmhzZXRwX1JNQWFFWUFSQ1dQVlR5bUdYbVViX1FtNEI3aDNBakRmRUVCb2oxWjdy?oc=5",
         "domain": "www.cnbc.com",
@@ -76,16 +66,6 @@
         "publisher_url": "https://www.cnbc.com",
         "language": "",
         "seendate": "20261009T011000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Fighting in Ethiopia Is Part of a Far Bigger Conflict",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWJRRE1hSEVqWlM2TkQ4RDd0dVVwUmJjaFZVT3U1TDNSNHY2a1V3VFBEdjZZeGdHbVV6cjA1MkFJa2hoc2tacGZvc0d0WG5WYllpQXdNRDlxUFpLQm0wSFpGM01GM2FwcVNlZG9PeElJLUpnbkMtUGllS0pBX1huc0RVR0NZMEdFalJwOF8yUnEtRkNtRGxKZ0lDdzJzWWtMNENZ?oc=5",
-        "domain": "www.newyorker.com",
-        "publisher": "The New Yorker",
-        "publisher_url": "https://www.newyorker.com",
-        "language": "",
-        "seendate": "20261007T100000Z",
         "source": "GoogleNews"
       },
       {
@@ -99,23 +79,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As Colorado reevaluates when to kill wolves involved in livestock conflict, how do other Western states handle it",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjk3ZlYtTGxvNC0zYUlibTlmdFpGYUZ1UTRkYkNaUWhkRmVHQUdHOFBsTC1WSDJoRHF4d2c3cTJSN0FYdFBpUXFkaGNzRDRUOEhlSWpGdEx1WjJpd25iRWtGY0VFWDgxRVZpQUhadllhcm9vVFJ1Rm9xNzZWcDZWT2l4MHBaVDJQbHZqVGhZOTZPeDRE?oc=5",
-        "domain": "www.summitdaily.com",
-        "publisher": "SummitDaily.com",
-        "publisher_url": "https://www.summitdaily.com",
+        "title": "Pope: Greek Melkite Church ‘witness of peace in conflict-scarred lands’",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlR0Yk1pLWpBX2ZZQ2ZCbGZtQi14a013bG5FTTFJLVFaOGRCc2RBZ3NIY2NzaV9jTVJnWjVINU05Y1ZKbTVnYm5BTUkxQ2tfOVY2TXhHZjhxTkJyWV9xTnRYaGc0T2hpek1ILUJQQ2VWYkRDYkhvb3VDN0lSTWlwclk2U09ueWNzNU1SRVpJcl9mOTZ2NWNZS2pqaVVpb21CQXZV?oc=5",
+        "domain": "www.vaticannews.va",
+        "publisher": "Vatican News",
+        "publisher_url": "https://www.vaticannews.va",
         "language": "",
-        "seendate": "20261010T183500Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Oakland woman publishes book about family conflict, mental health",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFNvYkVqaEd5MDc2QUhyc0pXR0dvMXBCWElXT2IyR3ZlTUN0TnAtajBoREIwTkE3MnZ2VkJRdWYtbXRBRlg2RWRtZzQ3dVJ6VG9PM1BISDBqTllOVE9tS3J6NTluS0FRTVU0ZkNreDRKN1A1NHVVN1ozNE9tRkp1MzVPcmZEZk9qaF9wSVMtNElNemw4UHBtMHBQdlgxZklzWmptMlVMTFNNTV9UcXZR?oc=5",
-        "domain": "kioncentralcoast.com",
-        "publisher": "KION Central Coast",
-        "publisher_url": "https://kioncentralcoast.com",
-        "language": "",
-        "seendate": "20261011T020833Z",
+        "seendate": "20261010T095436Z",
         "source": "GoogleNews"
       },
       {
@@ -129,16 +99,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDNTTmp2VU1sVnhCSnkzeVlDam04Z3lWY0RWLU1MbnBHTy1jWUUyZExUS1hqM19ycWtsUldtN1lIeGNYUU03TjZ3UmJKeE1oZzlvWlVIQmZrUWV3bXVXa3RZRHEwTjVRanJUYUNqYml5a0VmUDBsdHZQUVZjbTc4S0RLeXVMYkRmTFNwdTNjdHZMMm9MaUZxbWRyS3lvNkFHeGRDUnAxeWR5VElS?oc=5",
-        "domain": "fsi.stanford.edu",
-        "publisher": "Freeman Spogli Institute for International Studies",
-        "publisher_url": "https://fsi.stanford.edu",
-        "language": "",
-        "seendate": "20261010T095115Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
         "domain": "www.britannica.com",
@@ -149,23 +109,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Pramila Patten Special Representative Of Secretary General On Sexual Violence In Conflict",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1lTQ3lIRUlNYnVqU1RZT0dNbW9OT3djcnAtT09EZGNTdldBc3V5Y081N0xIbzBNallmWlRLNmhzOGxhaFh6MW5zVGp0LWVsVWZieVdJclp5LUFVMUFOWk5EVHBTbGVtQnRHNXlrRGdXZmNYRzVHSTBuTDc2VU1QYy1IODdBcUk5ZW55dEYtQ0dwQlVZcXpSWFBCOTRWN2RFNkMyV3A4SHhKUEVYYXUtbWVLbS1jbmZBSjhFNXhVWkRVaFNNYzhkdDVGUDhWUQ?oc=5",
-        "domain": "www.un.org",
-        "publisher": "Welcome to the United Nations",
-        "publisher_url": "https://www.un.org",
+        "title": "Myanmar militia accused of desecrating Christian place of worship",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktfUHhuZ1piUDg0Y1kyYkdqX3dNdkZiSnNDYjFiYVBmNW1feWFFM3hvdFNlMFdwYW1qUGlSd3UweHZ3R0JCQndhLXc1bmFoQ3dzWXNicFZGMTNzOHpCTG02T1ZqeXI1NlpGclBiNGFEY3J0Z1hTa3BPSFE5Q2drRURZcVIxR1VEcVVFQk1DSDBPRUJ4cWZhOEdxSlZRU0xfTHl1U1BVTy05X3lyTktlbQ?oc=5",
+        "domain": "premierchristian.news",
+        "publisher": "Premier Christian News",
+        "publisher_url": "https://premierchristian.news",
         "language": "",
-        "seendate": "20261008T144607Z",
+        "seendate": "20261011T103100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ethiopia and Eritrea are on the brink of another conflict",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenZiVFJLRjBHcXp1YWhleHlnOU8xNzl0ams2enNWLWJxR1VvV1poa2lQUXpQNXV1Y3JyU29UNVFjcEQtZml6WnhESkJxbjdES1Z4dVBNM21YSExKU09HNk5UakhRRG5MWFJneENpR1hTakQ1MVdDZDA2bkRDNGlxVWQ0NXRaT1RPdEYyNEg0cTRIVDlLcnZFcnhmeHpwd3o0RFVSZ1g0cGdUZ3dFR0JUUW1Fbk9JTGEy?oc=5",
-        "domain": "www.economist.com",
-        "publisher": "The Economist",
-        "publisher_url": "https://www.economist.com",
+        "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA?oc=5",
+        "domain": "news.un.org",
+        "publisher": "UN News",
+        "publisher_url": "https://news.un.org",
         "language": "",
-        "seendate": "20261008T130151Z",
+        "seendate": "20261006T135749Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "As Colorado reevaluates when to kill wolves involved in livestock conflict, how do other Western states handle it",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjk3ZlYtTGxvNC0zYUlibTlmdFpGYUZ1UTRkYkNaUWhkRmVHQUdHOFBsTC1WSDJoRHF4d2c3cTJSN0FYdFBpUXFkaGNzRDRUOEhlSWpGdEx1WjJpd25iRWtGY0VFWDgxRVZpQUhadllhcm9vVFJ1Rm9xNzZWcDZWT2l4MHBaVDJQbHZqVGhZOTZPeDRE?oc=5",
+        "domain": "www.summitdaily.com",
+        "publisher": "SummitDaily.com",
+        "publisher_url": "https://www.summitdaily.com",
+        "language": "",
+        "seendate": "20261010T183500Z",
         "source": "GoogleNews"
       },
       {
@@ -179,6 +149,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Ethiopia and Eritrea are on the brink of another conflict",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQenZiVFJLRjBHcXp1YWhleHlnOU8xNzl0ams2enNWLWJxR1VvV1poa2lQUXpQNXV1Y3JyU29UNVFjcEQtZml6WnhESkJxbjdES1Z4dVBNM21YSExKU09HNk5UakhRRG5MWFJneENpR1hTakQ1MVdDZDA2bkRDNGlxVWQ0NXRaT1RPdEYyNEg0cTRIVDlLcnZFcnhmeHpwd3o0RFVSZ1g0cGdUZ3dFR0JUUW1Fbk9JTGEy?oc=5",
+        "domain": "www.economist.com",
+        "publisher": "The Economist",
+        "publisher_url": "https://www.economist.com",
+        "language": "",
+        "seendate": "20261008T130151Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oakland woman publishes book about family conflict, mental health",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFNvYkVqaEd5MDc2QUhyc0pXR0dvMXBCWElXT2IyR3ZlTUN0TnAtajBoREIwTkE3MnZ2VkJRdWYtbXRBRlg2RWRtZzQ3dVJ6VG9PM1BISDBqTllOVE9tS3J6NTluS0FRTVU0ZkNreDRKN1A1NHVVN1ozNE9tRkp1MzVPcmZEZk9qaF9wSVMtNElNemw4UHBtMHBQdlgxZklzWmptMlVMTFNNTV9UcXZR?oc=5",
+        "domain": "kioncentralcoast.com",
+        "publisher": "KION Central Coast",
+        "publisher_url": "https://kioncentralcoast.com",
+        "language": "",
+        "seendate": "20261011T020833Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "A Legal Dive into the Iran Conflict",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14RzBHRk9ERlVxUnpyeWdQbEh4T2I4QlF2S0Nwai1ySmJBa3dQbjlaZWlGUlFBZ01pZXZFd0xVbktSN2JUZG9LT1JhRWNVc3VpTlltVDhVbFFIcUU1dEVxaGhmazc4ZmRWV2RFQ19VUmJ0bE9rcjVZT3plaw?oc=5",
         "domain": "lawmagazine.bc.edu",
@@ -189,23 +179,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Eritrea asks UN to intervene in standoff with Ethiopia",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnphMnlRVXBZZlZVeTJadUF2N0hWYVlFdjFFS0lYZENfMFFtc2pRejFvX0xXZFY5LUNPOGc5bWdOU0d6RmhZS3RXVi1KMlBzOHFMX1dvUmpWRDFVdThsTW1majNiSnZXdDM1ekpqYmhNUHpjNnhnOHJ6eGx1aTNyUzJPV2Y5X05saWp0OGwtMGpmX1ZBY0tMcmthdHVCVHVESm9QeWJHX2dIMTdNaWFMdkFjZnUyX0hWZ0FER3VyYmQzMU00?oc=5",
+        "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjltVlp6ZVZyMXZjMzU0QUpmZmhhMGU3MzdzeXgxRTVQWlMyWkV4aTNGSVVkb1A5ZGh1eElyNl9WQkR3VWEzU3hIZ01xZURxNlF0V0hpZlR4aUNfNEE4VlQ4NlN4TGRlc0hyZ3lsQ0x2VTUyNF9hcGMyZkdLY1NJeG9HUnROVXg4VkpTNU5jVG5sU2ZRd1ZxWUlwejRwOHNWS3MyRXEyVGVhdWV4OTQzLXpVc1Q2VzlqYWRjSXlB?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261010T150505Z",
+        "seendate": "20261008T074730Z",
         "source": "GoogleNews"
       },
       {
-        "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA?oc=5",
-        "domain": "news.un.org",
-        "publisher": "UN News",
-        "publisher_url": "https://news.un.org",
+        "title": "Pramila Patten Special Representative Of Secretary General On Sexual Violence In Conflict",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1lTQ3lIRUlNYnVqU1RZT0dNbW9OT3djcnAtT09EZGNTdldBc3V5Y081N0xIbzBNallmWlRLNmhzOGxhaFh6MW5zVGp0LWVsVWZieVdJclp5LUFVMUFOWk5EVHBTbGVtQnRHNXlrRGdXZmNYRzVHSTBuTDc2VU1QYy1IODdBcUk5ZW55dEYtQ0dwQlVZcXpSWFBCOTRWN2RFNkMyV3A4SHhKUEVYYXUtbWVLbS1jbmZBSjhFNXhVWkRVaFNNYzhkdDVGUDhWUQ?oc=5",
+        "domain": "www.un.org",
+        "publisher": "Welcome to the United Nations",
+        "publisher_url": "https://www.un.org",
         "language": "",
-        "seendate": "20261006T135749Z",
+        "seendate": "20261008T144607Z",
         "source": "GoogleNews"
       },
       {
@@ -229,43 +219,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Gaza, Sudan, Ukraine: Tracking Outbreaks Amid Conflict",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNalY3ZXI2WnBwaTBJWjBtU3BPQjJ0elhOYkNxWmJkdUc4VnAxWWtkVEs3NkN6UjZhOW5ucFQyMlFLcUZrM2MyX29pdVB1SHBvekhsV2toS3VVRVAyRnpVanUwUTBlU2d3ZGt0dUNvdld4Y0ZfdG0yMFpaWWROUTluZkxZdk1EenNMN0NNd3RxRFB6ejNjV1d4bg?oc=5",
-        "domain": "www.thinkglobalhealth.org",
-        "publisher": "Think Global Health",
-        "publisher_url": "https://www.thinkglobalhealth.org",
+        "title": "Yemen's Houthi militia threatens further attacks on Saudi Arabia",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnQ1TU9UbS1vNXVHUzI5MWhTNF9tTW5tMjZzdGtyYjREdFAwNlVVa3Q1ZEw0TWRNdlFsZXBSa2xUOHFsTE94aDlTR0pjdmlsNXkxNmhITUl4X3VMWnAwbmt6cW5keks2R3lZV0lzM2VhTm1LaGdrZVJ3YU15VFJxelJKbGUyMVcxdmdaZC00UGh4amR0TTJ5N01CRVg?oc=5",
+        "domain": "www.yahoo.com",
+        "publisher": "Yahoo",
+        "publisher_url": "https://www.yahoo.com",
         "language": "",
-        "seendate": "20261007T114041Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Effects of hybrid conflict on escalation management",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFZTaXhQRjRhV2VSZFQyZXFfUjkzZVQzNEdyeFh3X05QTTQyM1BxZXR3MXR4UXd0RWcyYmExSEh6eC1iOTFLWGw5NS1FSHhLQUs0bEZtQkpGSUYya2treEsxRjZGUVlJeVNfUlYxX0hJLTcwYmh3X3lFOWJPQW9rQmtHbHB3WDR3cjhfdHhR?oc=5",
-        "domain": "www.clingendael.org",
-        "publisher": "Clingendael",
-        "publisher_url": "https://www.clingendael.org",
-        "language": "",
-        "seendate": "20261009T132858Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Global analysis reveals how armed conflict erodes farmland and potential food production",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XazFyQTd4SWh6OWh2X0FNVm54SFpvQS1DZVdxV0JOVVNRU0xBdUxTUFN0Q01Qd3ZCQmx5ei1QTDhTSUxPelFldC12NTJmSlZ0aEw0NnhIWjRydHFQWGxNRmtoQ2l0OHF4ZGtuU3Zna3ExUUdRc19zTnhGQ0tqdw?oc=5",
-        "domain": "phys.org",
-        "publisher": "Phys.org",
-        "publisher_url": "https://phys.org",
-        "language": "",
-        "seendate": "20261009T030001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Political Anthropologist Positions Hospitality as Conflict Resolution Tactic",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXNYRXNuQks5UEhBcUxrZ01tZDQ5TG5iSTk2eEtXVndzVnBJN1ItT29vVWVsb3lNdGpmMEhSOEpUUXQ1Vm9KUVAyQ0ZYNDA0VHFHa2lzZ08zWlpYNWRRVWdBbW5GYjREeXMtZDF1V2Nrb2lBS1Z4eXJnaWdMODNlMGlpcnhmSUNuQ1docHFiZUUxVDNRT0lyOTAwNHBKVklieHRHNw?oc=5",
-        "domain": "thehoya.com",
-        "publisher": "The Hoya",
-        "publisher_url": "https://thehoya.com",
-        "language": "",
-        "seendate": "20261010T102201Z",
+        "seendate": "20261011T113321Z",
         "source": "GoogleNews"
       },
       {
@@ -279,23 +239,43 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Why is the US sanctioning the International Criminal Court?",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "The Guardian view on Ethiopia’s return to conflict: civilian catastrophe and a spiralling regional polycrisis | Editorial",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONy1tMUg5d0dpcWcwcWRVM3pxdzF2WVc1VDJVYjlJOFc1S1FBejhIb2lFcHE1VVlLTEppbmZmSjNHUEVqUEJ2WUVXS3hDV2FmdkRMZnR3NDNZeVAxeGpvaXlzdEhwZWxseWdjV0ZCUUIyRVluTlJKa0hSemRXek5nX3pHT253TC1OY0pVNlhvczMtcERINlJOQmd0QlhmVFU4NEpOcmdWY3UtM3g0emtQZ2FBSHhwLTVKRmZVUXpnV0lpMWIza1QtbjQzRmE3ZHRFZ3c4U2tfbVpsZ28xOXVhWmZRZlBjOC14WURqOWl0a1F1aEU?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261010T154605Z",
+        "seendate": "20261008T180532Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmlJY05Nd1VxcUZwdjhjaDItX0ZQamItSW5YWWlUYnQzZW5rRUw5WGkxejhsWlJEMDZvYnBJYlY1SFc3amp3NEotSW5fUlJ0dVBubWRuc0dTbXZuYnplT1gtZDUwOVpheHJ2Q2U2UGFEekUySDc1UFJCN0hmZl9XZ2FZdTVfN2J5NTBheGpVRmFNZ9IBlwFBVV95cUxQakxUeGVqZG0yaGxHRHp4ODQ4cjVraHdsMXMyU0tHUVAtb3dRMk84N3V5dlhRVTJXdUdhUnlxQlZNMmlwTG1qOF82Q1M4Z00yeHRaYzMzeVh6V2xEV3FHVHFKMVRXTEEzcTJaSFJVQVNMZlYtclRkRGVBc2xXNXB4emtsaDR6cWxVM2M1RGZnVEJVRkM1TFlv?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Egypt and Malaysia discuss political settlement to Middle East conflict",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVE9FYnlqMHQxTU1aZk1tanhzWFBjSkpSbVgzWFJvWEwxX2QtZjNVemdkUnZ2VTlybk9UdXpmX2dMWnBHT2ZycVlRakRpVWg1eUZRejNEb3laMUhQWE5MOGhvQl9DU0xLMHczUEZyajJIOHprN3JKYkM2dXJuTlFyMlEyR1htcDRBUDd6WkdmM0dEQXdsT0tjTVphbFA2bWYxWHpuWV81M0dQSDRYU2JN?oc=5",
+        "domain": "www.africanews.com",
+        "publisher": "Africanews English",
+        "publisher_url": "https://www.africanews.com",
         "language": "",
-        "seendate": "20261010T164528Z",
+        "seendate": "20261010T180636Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AI and nuclear conflict named as threats to human extinction by 2100 — media",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUkFNX3U4MV9lWWxkMHFXbnk2YnRNNlN5UXVRcGsyMFFPSWhGX1c1RTE3UnNRNXdSNFByUFg1OXBZNURoX2d6SlZrREtRMmMzMzN0Y1hleW91ZEh5a09oRU5uSWc4UDE0SXZXM1JNOUZFa3FFOWxaYUtOWExTbHJ2VmQwcE5pVTZxZFc5b2Yzc09jdzg2d3I2bDBrS1VJd9IBnAFBVV95cUxNX1gyeVZ5dG5faWEtRzZFNXZEWHhaZ2hLb2VuSFJLNjZWVzZRSy1ialpDT2NpYTVMMGplZ2k1RXY0aktJMDh3cTFWNTJ3eVQyNjVfOHFKaHZ6TzA4N2JQVGtyQl80U2czQ1p5a3RZWTVrNVBXb3FLVXVFXzB2Qk54dVdTWTZaVnJISHM1OV9DVm1fbU1sTXozVHgtdmM?oc=5",
+        "domain": "unn.ua",
+        "publisher": "Українські Національні Новини (УНН)",
+        "publisher_url": "https://unn.ua",
+        "language": "",
+        "seendate": "20261011T061649Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHlVMzZ6RWR3ck5VSFJrbU5sem5DUWVzVG1vUk1yZmZweXEyenJvR1dLcFN4XzRhdXVMcVhIYlNrSXJPLThYS0RyMmNEdFdDSERSNVdGbV9XQVRBbXFuLXM5bHNuUkI2LWpZVElNV1lUemZiUElxQjVoWkhYV3EyVndfTW80Ukpsb1N3RnAtQkd6OHRqUjdGajVhYS1aV3FWSXZoZE00ZGVRWkVBVUt5R0FOZjY?oc=5",
+        "domain": "aparc.fsi.stanford.edu",
+        "publisher": "Shorenstein Asia-Pacific Research Center",
+        "publisher_url": "https://aparc.fsi.stanford.edu",
+        "language": "",
+        "seendate": "20261010T095309Z",
         "source": "GoogleNews"
       },
       {
@@ -319,13 +299,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "As Boston’s Jewish community mourns Oct. 7, for many, the ensuing conflict remains polarizing",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORDYyRTJaWi1fSU9KUHVqN2dZaXVyT00xS1RLZEdHWC1Ed0RhZW5TLW9VV1V1Z3QyM212eFZLWFg5ZC1MaVZyaGlKczZuNUtNZUxKdmdNbEJsNUdFOUVhX3VjQ052d29xWTJwZXJFcVdOME5qRzIzWE96UEdoWUlVeGJZYVNCamdjLXZYbDF0VUhYYXd4MUhGYmlQa3BlMC1yY09Nb0ZVNnh5V1p5VGEwSWVEMEFFX1VrV3pMMU5ZeERjbHpvTi0tTFUzUTY?oc=5",
-        "domain": "www.wgbh.org",
-        "publisher": "WGBH",
-        "publisher_url": "https://www.wgbh.org",
+        "title": "Pakistan confirms it has troops in Saudi as conflict with Yemen’s Houthi rebels escalates",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmZiNVlWTk15REFxZ0NHQl85X0RaY1dWeC1OZkZOWklTYWQ3OUVGNEZBY2VrdHo0N2g2X2EzM2hQVXpOVG5TZWtxVEtzZE82ZjVnQ2gzUV9heTdKc2NyREVoRzlHQmZxOWliRGhFb3RWbVZqeFRVMklEdVItSktnbUJPcl9hVkJTenc?oc=5",
+        "domain": "www.cnn.com",
+        "publisher": "CNN",
+        "publisher_url": "https://www.cnn.com",
         "language": "",
-        "seendate": "20261007T190413Z",
+        "seendate": "20261007T221135Z",
         "source": "GoogleNews"
       },
       {
@@ -339,73 +319,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "At least 12 killed, 309 injured in Houthi militia attack on Riyadh's King Khalid airport",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SanphdEhLSVIwTk9SRG4wdDhiU2J3SFYzZXV3d1NMSDBKMkctRXpZYk5YTjVQdlFYVFdJeEZxQk1lQVZobVA1aDF1MW1jOHNOTU5Gejhpdng?oc=5",
-        "domain": "www.trtworld.com",
-        "publisher": "TRT World",
-        "publisher_url": "https://www.trtworld.com",
+        "title": "The Houthi-Saudi conflict is directly affecting African countries in the Red Sea region — and beyond",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQnBha3VpVVVrYTg2Wi1WLVJUQjRPNzNyaG1EYklBZFZuQ1A2T0hxRDFTMWJycnZjVm0zc2Q3dXR1OVBHdWh3elVBMHhxLS14RU9fcVJ4WkdqUGVZd05iVHJYU3BpcmRnbTlRdkZkcXpKX2pYZ0hIS00yOG0yMl9LaXBTSjVnaG9LQmhmTGp3dVRfbXFFQ1RtTTQ2NS10b3c5WkdwRmFHcklDdmxOSlNkT3hYS0dRRGZBM0JpWWtB0gG-AUFVX3lxTE9XT2JMLVBaekkxTy1OQ0w4R2d0bnk4SF85RlBwNDMzSE1BN1M5TmZaUVRsSFJsaE1BYjBmTnZ1TVRieUVPbVZIYmRNbHZzbmRsVXJ2cExLUVBxV2p4cnB0a3BJUHctbVc5bWJHRUQ1ZWgyNGFmZ0tCMGs2eUZhbWhwd2FtVWVnV2ZwbDhEcjRTRGlGWDZBMTBwRWtwTFBxNVd4Y3NzdS1pUGdfcE80b0lNb2hKVFFMXzFRVHdpN2c?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261011T002215Z",
+        "seendate": "20261010T135005Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUpoTnpPWGZscEl4OHlBR1JleFJRR1VySkd4cUtGSTdZWURXTGxiT0sxanJLQ3ZZTVBCT0MyWi1zRTlROGVDU3VFQnZ5YWFwSDY5clNUOWtrNDJWaExITjFYV3lGOHkxYWRwSUNyR1JzZkdQX1p2TThDQUNIeDZMS0dVYmljODJUQ09tZ0gzNUJRdGFfRENaZk1TQVFrVHhHSjdiWC1QQ05wWTVkT2fSAbMBQVVfeXFMUGJhbi1PWTJrU2hab1ZmNGl1eDg5ZGhqalMtWlZleXR5TFRGMW5rbDRNdXFJWkRJQ2ZtRzdJU0ZZbEdoZmhUTXNMUnpXRk1SQUZfYXcwQzNEcTB4X285OXhhdm9DMXV0dHRDeG9YcWtRT3FLYTFFMFd0NXN6SE80MmpDQ0ZXMHVZeFRKN0RFRVdPTUFZb3JDeDA5WEpiZmp1YlhBeEtDcVQzNzdoVldubF9TZVU?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "US warns Americans in South Africa to avoid protests as anti-migrant unrest disrupts major cities",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNczVJWGZ2eXFSVnN6UDc1d0NlMlZpWHlIcVc0M1ZYRkRtcFBjRlFON0Q1RUNTSWhueVZQYU0tcVF3Ykg1VUdMRHhHSXF0SVp5eGdGQXNOYXFCNnJha3VEU2w2U3FCWXh4YXJJQXJpUHhOaEdjenJTdFI3aVBOT2NsU3l1cDNzMDE2RDNLMi1sQVpmd29fZXFNNUxSOVhkaXpHSVhhNEc3UE1MOHg2THVZU3QyR05sYU9LRHJYNlBRMEg3eWd2WG5rMlYyWnU4YVRrMEE0dmg0UXo?oc=5",
+        "domain": "africa.businessinsider.com",
+        "publisher": "Business Insider Africa",
+        "publisher_url": "https://africa.businessinsider.com",
         "language": "",
-        "seendate": "20261010T212105Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Pakistan confirms it has troops in Saudi as conflict with Yemen’s Houthi rebels escalates",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmZiNVlWTk15REFxZ0NHQl85X0RaY1dWeC1OZkZOWklTYWQ3OUVGNEZBY2VrdHo0N2g2X2EzM2hQVXpOVG5TZWtxVEtzZE82ZjVnQ2gzUV9heTdKc2NyREVoRzlHQmZxOWliRGhFb3RWbVZqeFRVMklEdVItSktnbUJPcl9hVkJTenc?oc=5",
-        "domain": "www.cnn.com",
-        "publisher": "CNN",
-        "publisher_url": "https://www.cnn.com",
-        "language": "",
-        "seendate": "20261008T022633Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Trump says Iran is ‘failing badly’ as conflict in Yemen widens",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGE2RzJrT1ZnRmJHYklVRGNaTTR6d2JZdGpOVjV4VzNsdFAwdm93RHd0Y1lyazVzVlJJS2RtRUFRMFpyQk15aWR2aHFOTU12ZmVJOHV6dWZmRDd2dVZncEV1RTdWUGZWa2Y1WGFpeXl0eHJEUWNTRFBPR01aVUh0dXpGVkZ2S1hVeFlxV0tUS0tjdE9lRnhPVFdGemI2RkxMcGJBNUhraTZhVWhY?oc=5",
-        "domain": "www.middleeasteye.net",
-        "publisher": "Middle East Eye",
-        "publisher_url": "https://www.middleeasteye.net",
-        "language": "",
-        "seendate": "20261010T144400Z",
+        "seendate": "20261010T163641Z",
         "source": "GoogleNews"
       },
       {
         "title": "School Meals Programmes in Fragile and Conflict-Affected Settings: Evidence and Lessons from Somalia on Contributions to Peace and Social Cohesion",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDdjTnJRVkI0a0kyNTNjbEJ4bVFib1V5akljMDJrUUUzV3kyQ2xlbUNhWlNYeE9aZ29hSnlqWUoxeFcteUdQZFc0LUxUR05KcXFrZXBKU0hYbFhPR2ZJTkxLclQxekFyeUstb2RsRmNacTNsZGd3a0N0RXZyNl9BMWVubGkxdTIxMm1aSE9EeWZYb1RNUmsxa2NEcjdLcGNKaGtfT3FET1dpRDFMQU5sS19HT0VUN0U?oc=5",
         "domain": "www.wfp.org",
-        "publisher": "UN World Food Programme (WFP)",
+        "publisher": "UN World Food Programme",
         "publisher_url": "https://www.wfp.org",
         "language": "",
         "seendate": "20261008T120000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm5zTllaeThpdGxpZWlUVllleFp1NlJmOTVmUE4xT3BXek9uX0dHcWg0VW94OFNuLU04Sk41TjB2dVJYNUlUU2lUWFlaU2pqTDQzaGtGS3N6VE5jaDdFczFUM05md3BMVWpjWDQxNHpJVTF4TENGTkhCZjJxREcySWFIWXJYVTVuby1CWmk4a1RPZ1hibHdRTnVidWhfYlFzWmk0WlpjRdIBrAFBVV95cUxONlpYWXVEZkw4czNpa2RfTGRfYkFtVG5sWFNrS1Y2Uk9Gbm5wbElmd1hsd3gzd3B5QlNKWDVGcVZ6OXdyM0FfYXVaQ0JKZDdkdnVhbWVLcGtWUndXT2ZuRUR3WUY2V1RrU2dtNmtGd1dCN3lGeGo4UDVTM04wVm9TTUFrRGhYU1U0YmZreEFoZ1pJQzNzcFF0LVdSeUdxQUhzcDN4dHljMFBWZHQ4?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "Netherlands Declares Russia an Enemy Amid Threat of Conflict with NATO",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSllHX1BRUU9nWUdFOXotZXFuV1hBNThYM2dpNEd6UmxPVXdUWHpPbVEzSm8wRjY4SnN3LVdKZG13V0h5dnliUExtU3lVZXFlWXo3cVh3Um5ueElWRFJsMFhqZUZPLXZ3YS1VUllfakF0MWtOSnpVb2lNWWc1VFV2WWRfSEZ6MFI0WFVUYm5NRm5ZWW5fYXVjZFJqWXdhN3YtZ2Vveg?oc=5",
+        "domain": "militarnyi.com",
+        "publisher": "Мілітарний",
+        "publisher_url": "https://militarnyi.com",
         "language": "",
-        "seendate": "20261010T114035Z",
+        "seendate": "20261011T084802Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Mozambique Conflict Monitor Update: October 2026",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFVkQzVZeF9HbDdaSnZ2aFRBT0YtcklsUGphbXR6dE4xODdsNldJejJNZEg3eXN5UHpoaDNBSTBSVmt5OTdVbjFYTGhSWTZiY3F0dUlENjBDWTlEVXJwZ2ljVXRkT1ZtWlM3WHpRSnVUZjNIX1BFckxsbGFydUNiRHd3?oc=5",
-        "domain": "acleddata.com",
-        "publisher": "ACLED",
-        "publisher_url": "https://acleddata.com",
+        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261006T175124Z",
+        "seendate": "20261011T010405Z",
         "source": "GoogleNews"
       },
       {
@@ -429,13 +389,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US warns Americans in South Africa to avoid protests as anti-migrant unrest disrupts major cities",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNczVJWGZ2eXFSVnN6UDc1d0NlMlZpWHlIcVc0M1ZYRkRtcFBjRlFON0Q1RUNTSWhueVZQYU0tcVF3Ykg1VUdMRHhHSXF0SVp5eGdGQXNOYXFCNnJha3VEU2w2U3FCWXh4YXJJQXJpUHhOaEdjenJTdFI3aVBOT2NsU3l1cDNzMDE2RDNLMi1sQVpmd29fZXFNNUxSOVhkaXpHSVhhNEc3UE1MOHg2THVZU3QyR05sYU9LRHJYNlBRMEg3eWd2WG5rMlYyWnU4YVRrMEE0dmg0UXo?oc=5",
-        "domain": "africa.businessinsider.com",
-        "publisher": "Business Insider Africa",
-        "publisher_url": "https://africa.businessinsider.com",
+        "title": "Mozambique Conflict Monitor Update: October 2026",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRFVkQzVZeF9HbDdaSnZ2aFRBT0YtcklsUGphbXR6dE4xODdsNldJejJNZEg3eXN5UHpoaDNBSTBSVmt5OTdVbjFYTGhSWTZiY3F0dUlENjBDWTlEVXJwZ2ljVXRkT1ZtWlM3WHpRSnVUZjNIX1BFckxsbGFydUNiRHd3?oc=5",
+        "domain": "acleddata.com",
+        "publisher": "ACLED",
+        "publisher_url": "https://acleddata.com",
         "language": "",
-        "seendate": "20261010T163641Z",
+        "seendate": "20261006T175124Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORmlJY05Nd1VxcUZwdjhjaDItX0ZQamItSW5YWWlUYnQzZW5rRUw5WGkxejhsWlJEMDZvYnBJYlY1SFc3amp3NEotSW5fUlJ0dVBubWRuc0dTbXZuYnplT1gtZDUwOVpheHJ2Q2U2UGFEekUySDc1UFJCN0hmZl9XZ2FZdTVfN2J5NTBheGpVRmFNZ9IBlwFBVV95cUxQakxUeGVqZG0yaGxHRHp4ODQ4cjVraHdsMXMyU0tHUVAtb3dRMk84N3V5dlhRVTJXdUdhUnlxQlZNMmlwTG1qOF82Q1M4Z00yeHRaYzMzeVh6V2xEV3FHVHFKMVRXTEEzcTJaSFJVQVNMZlYtclRkRGVBc2xXNXB4emtsaDR6cWxVM2M1RGZnVEJVRkM1TFlv?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261010T164528Z",
         "source": "GoogleNews"
       },
       {
@@ -449,13 +419,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNanlHRHF6bWpaWFM5UW41VnZYSmJmYzVrUkFzQmZUdldhUUJfdkwwck5OYkxfWmlvRnRkSENQUHp3Rmk3ci1VMDBlak1IeDQtcHJocGRfakhyWUttLVlxbkZNSjZjMUIzNk9wNndNaURjdGNrNUxpZklFNDkyWmo5U3I5RFZTZ0FvdlNhUVZvaDg5NkhudVk4RVhR?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
+        "title": "Why is the US sanctioning the International Criminal Court?",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261010T160344Z",
+        "seendate": "20261010T154605Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Political Anthropologist Positions Hospitality as Conflict Resolution Tactic",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcXNYRXNuQks5UEhBcUxrZ01tZDQ5TG5iSTk2eEtXVndzVnBJN1ItT29vVWVsb3lNdGpmMEhSOEpUUXQ1Vm9KUVAyQ0ZYNDA0VHFHa2lzZ08zWlpYNWRRVWdBbW5GYjREeXMtZDF1V2Nrb2lBS1Z4eXJnaWdMODNlMGlpcnhmSUNuQ1docHFiZUUxVDNRT0lyOTAwNHBKVklieHRHNw?oc=5",
+        "domain": "thehoya.com",
+        "publisher": "The Hoya",
+        "publisher_url": "https://thehoya.com",
+        "language": "",
+        "seendate": "20261010T102201Z",
         "source": "GoogleNews"
       },
       {
@@ -469,43 +449,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Drumcree: Two deals discussed before parade ban, says Bryant",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01RVU0TGFaQTQteEhqRjVyVXR5enhNd3diYTlNcGtaeHdJMlc5dWIwNFhSSWR5QmpER0xNbG1vOVRyVkx1U1FJSEZoMXB1eUplaFhsQXZZVzBMZEU?oc=5",
-        "domain": "www.bbc.com",
-        "publisher": "BBC",
-        "publisher_url": "https://www.bbc.com",
+        "title": "At least 12 killed, 309 injured in Houthi militia attack on Riyadh's King Khalid airport",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SanphdEhLSVIwTk9SRG4wdDhiU2J3SFYzZXV3d1NMSDBKMkctRXpZYk5YTjVQdlFYVFdJeEZxQk1lQVZobVA1aDF1MW1jOHNOTU5Gejhpdng?oc=5",
+        "domain": "www.trtworld.com",
+        "publisher": "TRT World",
+        "publisher_url": "https://www.trtworld.com",
         "language": "",
-        "seendate": "20261010T112128Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Yemen’s government needs tribes to defeat the Houthis. Will they join?",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlZ5WkQ5elpCaXlTeHNVdVRLM25XWExKODVIeWJsYWh3Yk5CTjhFRjB5SjltckpaN0YyT3dVQTBuVlR4TFoyT2ZMLS1lZnl2QWZGckVJS3dpc0FScWxfVHhrbHlNTmI5VGxzb2U1cFF4eV9KSmVjYWdwMTZKVmtMVWZlNWlkcWozdG54cjJmQjhZb0ttZ0ZPN0ZNRFRsVm5QYlFfOU12TlR0UFJY0gGyAUFVX3lxTE9sdHQtZDJiS3VaRjVnWFNnSHNyaVV0QkgtU3RUVFpnYVozbTFaYTJaaHQzQ2VUdzVaTTBiTG1CSmh0dFBNbkRMWHVXRWgzaTFpeTd5LV9JMnpfRlBvSHlnUThWMWNwYlFaYWF1RGhvMlllczNlYVVwZkRHb29NOUJ4elhWNURON0tZR0lHaGN6V3ZXR2M2VllfdHdJcmZYdzVyMkItWkRoU25Pc3p4MHg2Zmc?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261008T075647Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "The Guardian view on Ethiopia’s return to conflict: civilian catastrophe and a spiralling regional polycrisis | Editorial",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONy1tMUg5d0dpcWcwcWRVM3pxdzF2WVc1VDJVYjlJOFc1S1FBejhIb2lFcHE1VVlLTEppbmZmSjNHUEVqUEJ2WUVXS3hDV2FmdkRMZnR3NDNZeVAxeGpvaXlzdEhwZWxseWdjV0ZCUUIyRVluTlJKa0hSemRXek5nX3pHT253TC1OY0pVNlhvczMtcERINlJOQmd0QlhmVFU4NEpOcmdWY3UtM3g0emtQZ2FBSHhwLTVKRmZVUXpnV0lpMWIza1QtbjQzRmE3ZHRFZ3c4U2tfbVpsZ28xOXVhWmZRZlBjOC14WURqOWl0a1F1aEU?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261008T180532Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Putin conveys Iran's ideas on resolving conflict to Trump: Kremlin",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMXN0VGNZUkFZZkZuLTA3SkczSmd1RlBkanczUVMzaFJ1Z05Sdm93R3lPSUZRbzhjZjdPWnMwdm9WQkhNQzc3V1Z2X1VYdDhUNXFCWnp1LXZMTUdIaXltRDN0NGxtelVZMUVxQWR2SjNib2lqajY1dEkxQUF4N0JQaXVOYVZMYkpDX1Z5Tzg5ZWZJa0R5N001VFNYVGRUZVVPdVNoN0VBTl9hVXc2MDZiU1RuRnVQd2c?oc=5",
-        "domain": "www.bastillepost.com",
-        "publisher": "巴士的報",
-        "publisher_url": "https://www.bastillepost.com",
-        "language": "",
-        "seendate": "20261011T031712Z",
+        "seendate": "20261011T002215Z",
         "source": "GoogleNews"
       },
       {
@@ -519,26 +469,76 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Tigray insurgency withers as federal forces enter Shire and resume flights to Mekelle",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDc2VkZYc3ZjWWRMQWdzUVptZzFvOWFBOUZueU5uMzN3SzNtVko1clk1ancybmJNYWZjWXEycmIzVVFrdkdnZGtydUxvaEZIZlM1YXBpdFlFbmdSZ09DekVjNmFCRTI3VVJkaGFfcVByMllPbnpUR256aVBnQzQtWkVJZndkb1JaV1JramNMYk1SMUFqcU9LTWVrVDBEQUZNSWlrQ1hTaHhycmQ1SjU0bnF2TTJIaWFGTHBzUjVEbWpEWlk?oc=5",
-        "domain": "www.theafricareport.com",
-        "publisher": "The Africa Report",
-        "publisher_url": "https://www.theafricareport.com",
+        "title": "Hundreds of doctors demand World Medical Association suspend Israel",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTUpoTnpPWGZscEl4OHlBR1JleFJRR1VySkd4cUtGSTdZWURXTGxiT0sxanJLQ3ZZTVBCT0MyWi1zRTlROGVDU3VFQnZ5YWFwSDY5clNUOWtrNDJWaExITjFYV3lGOHkxYWRwSUNyR1JzZkdQX1p2TThDQUNIeDZMS0dVYmljODJUQ09tZ0gzNUJRdGFfRENaZk1TQVFrVHhHSjdiWC1QQ05wWTVkT2fSAbMBQVVfeXFMUGJhbi1PWTJrU2hab1ZmNGl1eDg5ZGhqalMtWlZleXR5TFRGMW5rbDRNdXFJWkRJQ2ZtRzdJU0ZZbEdoZmhUTXNMUnpXRk1SQUZfYXcwQzNEcTB4X285OXhhdm9DMXV0dHRDeG9YcWtRT3FLYTFFMFd0NXN6SE80MmpDQ0ZXMHVZeFRKN0RFRVdPTUFZb3JDeDA5WEpiZmp1YlhBeEtDcVQzNzdoVldubF9TZVU?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261010T095258Z",
+        "seendate": "20261010T212105Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "China militia boat spotted for first time off Taiwan’s east coast, patrol finds",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1djNkpiR0FjWmE2NHBIWE1acU55Z3U4b1V5eWVqZGRNLUlla01KSjhid1lxdTNKZ2NJWUZ0Smluc2tTY1poVzFRTmk2aVFBeExWWkpfNEJPWk5nTUY5Ym4xeEUwLWdHSVd1eVRVLWJrcEFaNUd2dXMzcGZjNnpTOVc5WGw0d0lkVkJrdVVlbGs1LXFScnp6TUJIT1BoYUVQS2dn?oc=5",
+        "domain": "www.japantimes.co.jp",
+        "publisher": "The Japan Times",
+        "publisher_url": "https://www.japantimes.co.jp",
+        "language": "",
+        "seendate": "20261010T001400Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The Battle of Hormuz Is Won. Now Comes the Insurgency Phase",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QaUhFTzc3Rmczc1BUaVp0X0lTVGI3bl81Z0VVVHNJVE5tWFNMZFZGVms5dzhEc0pNei11SUprN05xRDF2bTVESVk4eWNqZUVYcWEtZEYxM2xKcGE3XzV3RGJsOVJNRk1aSy1JYUgwY21TVWMzQ3k2c0wydW0?oc=5",
+        "domain": "www.newsweek.com",
+        "publisher": "Newsweek",
+        "publisher_url": "https://www.newsweek.com",
+        "language": "",
+        "seendate": "20261009T094000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Over 2,800 illegal firearms and 40,000 pieces of ammunition seized in operation in Europe and Asia",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaC1Ra0h0TV9UbHoyYklEN2pBTk8wZVFJWHhWb0xFVUJtdWpuZEZnQTFZSTBWeW91TDdiNFFhMHU2ckZmYXpBckFFTDZpNlM0bXk3bWNLaHhQRUsxVjZsWmZwRkx0X3ZWZDBVVGhCYXNMRHU1NW1EaF9URlVILTY1M1E2MTZoOWp0MTJrcEJfSU80NDJSeHBMS1JUdEVjRV9YakR3Q1NSSjJwb0lqWkphMHVaWFd5allka19sSmIzSHJjcnI1N1FiNVFDOU1Bbk94bVZJMndxalFDdU5vVlJtRWd5QQ?oc=5",
+        "domain": "www.interpol.int",
+        "publisher": "Interpol",
+        "publisher_url": "https://www.interpol.int",
+        "language": "",
+        "seendate": "20261009T073015Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "The U.S. and UN Will Need More Patience to Resolve Western Sahara Conflict",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOVNVbW85ZW5KMHp5QUo0NXdJU205bGhOMmVlNVpicGN0dXc5TzAwVUg2UUFTMi1LdlI1aVdyTjcyYXZ0ekdRV2RQNVFEQVNLOWlSek81elN6dm50d2NGejJ5dmJpc0dMUXdocGthblVBd3lMWGU5cGVQYmhPUXlfbHRSMV9PWW4yMUFLWjREOGtUbXNNbDhWUm5hdWZxYTAyVmE0dXlDNzRyYmtQQ1o5dkZZcHZhVG5uY1FpMkNxMlhROFpSN21KaVdaZXFuWV84UUtR?oc=5",
+        "domain": "www.crisisgroup.org",
+        "publisher": "International Crisis Group",
+        "publisher_url": "https://www.crisisgroup.org",
+        "language": "",
+        "seendate": "20261009T154543Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ethiopia and Eritrea Near Conflict; Egypt Forms anti-Ethiopia Coalition; Mali Retakes Kidal: Africa File, October 8, 2026",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMWtZaVp2UldSajZBMm9KcGVEbmlLbElZWG1zQ2RFVVJVWWVCbkhsbF9pQkF2cVVGa19MbmlROVdpMTJGNExIbThxTVNJWE8tMF9DRWNaVkttS0FZcHVQZl9NUDY5bktwOGVLTTRIdE5KY3Mta0VCQTlZQzdPOXBzTVNtQjRLdFhxVllEclZudkdVVlY4am9WWkZKblBDcXhCcDVfeENDMXRyMDQ?oc=5",
+        "domain": "www.criticalthreats.org",
+        "publisher": "Critical Threats",
+        "publisher_url": "https://www.criticalthreats.org",
+        "language": "",
+        "seendate": "20261008T232214Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "EXCLUSIVE: China militia boat spotted for first time off Taiwan's east coast, patrol finds",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjltVlp6ZVZyMXZjMzU0QUpmZmhhMGU3MzdzeXgxRTVQWlMyWkV4aTNGSVVkb1A5ZGh1eElyNl9WQkR3VWEzU3hIZ01xZURxNlF0V0hpZlR4aUNfNEE4VlQ4NlN4TGRlc0hyZ3lsQ0x2VTUyNF9hcGMyZkdLY1NJeG9HUnROVXg4VkpTNU5jVG5sU2ZRd1ZxWUlwejRwOHNWS3MyRXEyVGVhdWV4OTQzLXpVc1Q2VzlqYWRjSXlB?oc=5",
+      "title": "From theatre to streets, Gen Z protester Neha Bora a new face of India's youth unrest",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA?oc=5",
       "domain": "www.reuters.com",
       "publisher": "Reuters",
       "publisher_url": "https://www.reuters.com",
       "language": "",
-      "seendate": "20261008T074730Z",
+      "seendate": "20261011T112935Z",
       "source": "GoogleNews"
     },
     {
@@ -562,16 +562,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Pope: Greek Melkite Church ‘witness of peace in conflict-scarred lands’",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlR0Yk1pLWpBX2ZZQ2ZCbGZtQi14a013bG5FTTFJLVFaOGRCc2RBZ3NIY2NzaV9jTVJnWjVINU05Y1ZKbTVnYm5BTUkxQ2tfOVY2TXhHZjhxTkJyWV9xTnRYaGc0T2hpek1ILUJQQ2VWYkRDYkhvb3VDN0lSTWlwclk2U09ueWNzNU1SRVpJcl9mOTZ2NWNZS2pqaVVpb21CQXZV?oc=5",
-      "domain": "www.vaticannews.va",
-      "publisher": "Vatican News",
-      "publisher_url": "https://www.vaticannews.va",
-      "language": "",
-      "seendate": "20261010T095436Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "U.S. East Asian envoy says investors are overpricing Taiwan conflict risk",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MdndDdGlNdjktS3V4eU0tbndRR0dlNGJiZEU5WV9sZC1mbm1BSWZuTEcxSVVyc3MtaXZ6U09tZXBCd1FWSHRLUkRGVGw3NzJzRjFJbFd6eDlnak0wX21fVlQ5Q0pLb1RYbEM4T1VmQTdENDBqTkpiX01NWnM3T2_SAYQBQVVfeXFMTWJ4SlpGa1JvemxmMlhKSUc4SDlpSFp0dlRxNWZ5M1VPOWpESTBBYnBVQXo0T2dZRUN2ejJJUnNQZENMY0k1ZXZsMTdsLXdCSmFzRmxkbmhzZXRwX1JNQWFFWUFSQ1dQVlR5bUdYbVViX1FtNEI3aDNBakRmRUVCb2oxWjdy?oc=5",
       "domain": "www.cnbc.com",
@@ -579,16 +569,6 @@
       "publisher_url": "https://www.cnbc.com",
       "language": "",
       "seendate": "20261009T011000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "The Fighting in Ethiopia Is Part of a Far Bigger Conflict",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONWJRRE1hSEVqWlM2TkQ4RDd0dVVwUmJjaFZVT3U1TDNSNHY2a1V3VFBEdjZZeGdHbVV6cjA1MkFJa2hoc2tacGZvc0d0WG5WYllpQXdNRDlxUFpLQm0wSFpGM01GM2FwcVNlZG9PeElJLUpnbkMtUGllS0pBX1huc0RVR0NZMEdFalJwOF8yUnEtRkNtRGxKZ0lDdzJzWWtMNENZ?oc=5",
-      "domain": "www.newyorker.com",
-      "publisher": "The New Yorker",
-      "publisher_url": "https://www.newyorker.com",
-      "language": "",
-      "seendate": "20261007T100000Z",
       "source": "GoogleNews"
     },
     {
@@ -602,23 +582,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "As Colorado reevaluates when to kill wolves involved in livestock conflict, how do other Western states handle it",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjk3ZlYtTGxvNC0zYUlibTlmdFpGYUZ1UTRkYkNaUWhkRmVHQUdHOFBsTC1WSDJoRHF4d2c3cTJSN0FYdFBpUXFkaGNzRDRUOEhlSWpGdEx1WjJpd25iRWtGY0VFWDgxRVZpQUhadllhcm9vVFJ1Rm9xNzZWcDZWT2l4MHBaVDJQbHZqVGhZOTZPeDRE?oc=5",
-      "domain": "www.summitdaily.com",
-      "publisher": "SummitDaily.com",
-      "publisher_url": "https://www.summitdaily.com",
+      "title": "Pope: Greek Melkite Church ‘witness of peace in conflict-scarred lands’",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYlR0Yk1pLWpBX2ZZQ2ZCbGZtQi14a013bG5FTTFJLVFaOGRCc2RBZ3NIY2NzaV9jTVJnWjVINU05Y1ZKbTVnYm5BTUkxQ2tfOVY2TXhHZjhxTkJyWV9xTnRYaGc0T2hpek1ILUJQQ2VWYkRDYkhvb3VDN0lSTWlwclk2U09ueWNzNU1SRVpJcl9mOTZ2NWNZS2pqaVVpb21CQXZV?oc=5",
+      "domain": "www.vaticannews.va",
+      "publisher": "Vatican News",
+      "publisher_url": "https://www.vaticannews.va",
       "language": "",
-      "seendate": "20261010T183500Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Oakland woman publishes book about family conflict, mental health",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFNvYkVqaEd5MDc2QUhyc0pXR0dvMXBCWElXT2IyR3ZlTUN0TnAtajBoREIwTkE3MnZ2VkJRdWYtbXRBRlg2RWRtZzQ3dVJ6VG9PM1BISDBqTllOVE9tS3J6NTluS0FRTVU0ZkNreDRKN1A1NHVVN1ozNE9tRkp1MzVPcmZEZk9qaF9wSVMtNElNemw4UHBtMHBQdlgxZklzWmptMlVMTFNNTV9UcXZR?oc=5",
-      "domain": "kioncentralcoast.com",
-      "publisher": "KION Central Coast",
-      "publisher_url": "https://kioncentralcoast.com",
-      "language": "",
-      "seendate": "20261011T020833Z",
+      "seendate": "20261010T095436Z",
       "source": "GoogleNews"
     },
     {
@@ -632,16 +602,6 @@
       "source": "GoogleNews"
     },
     {
-      "title": "(CANCELLED) Leadership in Crisis: Lessons from Armed Conflict and Devastating Disasters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTDNTTmp2VU1sVnhCSnkzeVlDam04Z3lWY0RWLU1MbnBHTy1jWUUyZExUS1hqM19ycWtsUldtN1lIeGNYUU03TjZ3UmJKeE1oZzlvWlVIQmZrUWV3bXVXa3RZRHEwTjVRanJUYUNqYml5a0VmUDBsdHZQUVZjbTc4S0RLeXVMYkRmTFNwdTNjdHZMMm9MaUZxbWRyS3lvNkFHeGRDUnAxeWR5VElS?oc=5",
-      "domain": "fsi.stanford.edu",
-      "publisher": "Freeman Spogli Institute for International Studies",
-      "publisher_url": "https://fsi.stanford.edu",
-      "language": "",
-      "seendate": "20261010T095115Z",
-      "source": "GoogleNews"
-    },
-    {
       "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
       "domain": "www.britannica.com",
@@ -652,13 +612,43 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Pramila Patten Special Representative Of Secretary General On Sexual Violence In Conflict",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ1lTQ3lIRUlNYnVqU1RZT0dNbW9OT3djcnAtT09EZGNTdldBc3V5Y081N0xIbzBNallmWlRLNmhzOGxhaFh6MW5zVGp0LWVsVWZieVdJclp5LUFVMUFOWk5EVHBTbGVtQnRHNXlrRGdXZmNYRzVHSTBuTDc2VU1QYy1IODdBcUk5ZW55dEYtQ0dwQlVZcXpSWFBCOTRWN2RFNkMyV3A4SHhKUEVYYXUtbWVLbS1jbmZBSjhFNXhVWkRVaFNNYzhkdDVGUDhWUQ?oc=5",
-      "domain": "www.un.org",
-      "publisher": "Welcome to the United Nations",
-      "publisher_url": "https://www.un.org",
+      "title": "Myanmar militia accused of desecrating Christian place of worship",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMktfUHhuZ1piUDg0Y1kyYkdqX3dNdkZiSnNDYjFiYVBmNW1feWFFM3hvdFNlMFdwYW1qUGlSd3UweHZ3R0JCQndhLXc1bmFoQ3dzWXNicFZGMTNzOHpCTG02T1ZqeXI1NlpGclBiNGFEY3J0Z1hTa3BPSFE5Q2drRURZcVIxR1VEcVVFQk1DSDBPRUJ4cWZhOEdxSlZRU0xfTHl1U1BVTy05X3lyTktlbQ?oc=5",
+      "domain": "premierchristian.news",
+      "publisher": "Premier Christian News",
+      "publisher_url": "https://premierchristian.news",
       "language": "",
-      "seendate": "20261008T144607Z",
+      "seendate": "20261011T103100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LYVBUSm1sdE5oRFZaY3BUS3Vhbk8ySkFRakwzM2JiMHNEcmJ6czcyeWp4VDJnNjNCUVd5cUZVZzc4VVlxNHNOTGpSWF9JU2NvSHUyaTNsOA?oc=5",
+      "domain": "news.un.org",
+      "publisher": "UN News",
+      "publisher_url": "https://news.un.org",
+      "language": "",
+      "seendate": "20261006T135749Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "As Colorado reevaluates when to kill wolves involved in livestock conflict, how do other Western states handle it",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUjk3ZlYtTGxvNC0zYUlibTlmdFpGYUZ1UTRkYkNaUWhkRmVHQUdHOFBsTC1WSDJoRHF4d2c3cTJSN0FYdFBpUXFkaGNzRDRUOEhlSWpGdEx1WjJpd25iRWtGY0VFWDgxRVZpQUhadllhcm9vVFJ1Rm9xNzZWcDZWT2l4MHBaVDJQbHZqVGhZOTZPeDRE?oc=5",
+      "domain": "www.summitdaily.com",
+      "publisher": "SummitDaily.com",
+      "publisher_url": "https://www.summitdaily.com",
+      "language": "",
+      "seendate": "20261010T183500Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Lebanon’s children and caregivers still carry the psychological toll of conflict, whether still displaced or back home",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlZjNWhNd0NFYWRRclljakd4b21UVnh3SnV2RUxSRTdmODNyYS1PYktaTnhKR1Q1eXc0MG0wSk5JRlgxZjQ4S3U5cEQwOVp2MV95THU0UjJFcGFoWXFhdVh4cWxyQUhJczVmTHFHTjVlSHhINkV2YUtyZnRaWHhPSzJXS0J6TGJVV1NMZGN5N1dFQW9Mdk5GQTliTUN3WXNPbjVvTGY1TWRLekZndUduZnZJczYxTkM5?oc=5",
+      "domain": "www.rescue.org",
+      "publisher": "International Rescue Committee",
+      "publisher_url": "https://www.rescue.org",
+      "language": "",
+      "seendate": "20261010T051321Z",
       "source": "GoogleNews"
     },
     {
@@ -672,13 +662,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Lebanon’s children and caregivers still carry the psychological toll of conflict, whether still displaced or back home",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlZjNWhNd0NFYWRRclljakd4b21UVnh3SnV2RUxSRTdmODNyYS1PYktaTnhKR1Q1eXc0MG0wSk5JRlgxZjQ4S3U5cEQwOVp2MV95THU0UjJFcGFoWXFhdVh4cWxyQUhJczVmTHFHTjVlSHhINkV2YUtyZnRaWHhPSzJXS0J6TGJVV1NMZGN5N1dFQW9Mdk5GQTliTUN3WXNPbjVvTGY1TWRLekZndUduZnZJczYxTkM5?oc=5",
-      "domain": "www.rescue.org",
-      "publisher": "International Rescue Committee",
-      "publisher_url": "https://www.rescue.org",
+      "title": "Oakland woman publishes book about family conflict, mental health",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZFNvYkVqaEd5MDc2QUhyc0pXR0dvMXBCWElXT2IyR3ZlTUN0TnAtajBoREIwTkE3MnZ2VkJRdWYtbXRBRlg2RWRtZzQ3dVJ6VG9PM1BISDBqTllOVE9tS3J6NTluS0FRTVU0ZkNreDRKN1A1NHVVN1ozNE9tRkp1MzVPcmZEZk9qaF9wSVMtNElNemw4UHBtMHBQdlgxZklzWmptMlVMTFNNTV9UcXZR?oc=5",
+      "domain": "kioncentralcoast.com",
+      "publisher": "KION Central Coast",
+      "publisher_url": "https://kioncentralcoast.com",
       "language": "",
-      "seendate": "20261010T051321Z",
+      "seendate": "20261011T020833Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "A Legal Dive into the Iran Conflict",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE14RzBHRk9ERlVxUnpyeWdQbEh4T2I4QlF2S0Nwai1ySmJBa3dQbjlaZWlGUlFBZ01pZXZFd0xVbktSN2JUZG9LT1JhRWNVc3VpTlltVDhVbFFIcUU1dEVxaGhmazc4ZmRWV2RFQ19VUmJ0bE9rcjVZT3plaw?oc=5",
+      "domain": "lawmagazine.bc.edu",
+      "publisher": "BC Law Magazine",
+      "publisher_url": "https://lawmagazine.bc.edu",
+      "language": "",
+      "seendate": "20261009T184408Z",
       "source": "GoogleNews"
     }
   ],
