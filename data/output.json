@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-10-25T04:42:18.658521+00:00",
+    "generated": "2026-10-25T11:30:45.644862+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -39,6 +39,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261024T213100Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "128 arrested after night of unrest and looting in Barcelona",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJTOUdtbFZYM0FwZmtLRWpEenBEaElZTlZxUnZhNGdMY0QyUGdJcTE5XzdXTEdseEs1MmZvR0hKbEtlcE5BQWxwcHQ3MVhNYlM1cjY5S211cnE4dlNETFFUS1F6OGRldDdVQjd4MDFIU2dUYlgtSjluT0ZJbFRrd05FM0UtNElnejZOa0I3bVdmdzYyWVBWVlNqbw?oc=5",
+        "domain": "www.euronews.com",
+        "publisher": "Euronews.com",
+        "publisher_url": "https://www.euronews.com",
+        "language": "",
+        "seendate": "20261025T094503Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5",
         "domain": "www.reuters.com",
@@ -59,23 +79,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Le Pen launches presidential campaign amid unrest in France",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlY5ZklUa0hkOG4zWGtmYTJwMXd1cnVXcmdQeEVfRFVuT0Y5emN3OWJ1NVQ4dzFTUlNtYy1OTW5rdzRMV2czWW1hcVBGWHI1UFNsNEdSeHl0NklpZGoxazdyblIxT1g3czFMS3ZHdm5xcjdjN2hLR3lUZTJhQTNrWHkzdHBiMHJjQjl6dHU3eWxtVldhUkVEQ2NfbFk?oc=5",
-        "domain": "www.dw.com",
-        "publisher": "DW.com",
-        "publisher_url": "https://www.dw.com",
+        "title": "Jaylen Brown reveals there is a bit of conflict with former co-star Jayson Tatum",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmR2YlBCa2R4M2ZsbXZMZVY0NmphQkQxU1pvMXFUQnNOZWtKVWJoek1NaENLLWxUWlF5Uy11SnRxdWtsQnljbXk3SXJYUHd1d0prMVdHckFDTGFyNHNqTVJiemZoOWpSeEdCN3VBVWZycWxHd1VESGt0bVY2QS05NWxDT0txb21pR2c?oc=5",
+        "domain": "sports.yahoo.com",
+        "publisher": "Yahoo Sports",
+        "publisher_url": "https://sports.yahoo.com",
         "language": "",
-        "seendate": "20261024T160657Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
-        "language": "",
-        "seendate": "20261023T143100Z",
+        "seendate": "20261025T043100Z",
         "source": "GoogleNews"
       },
       {
@@ -99,33 +109,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Dramatic images show violent unrest sweeping across France",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hGYVlQRnc1aFBYQXlYSFhzZXUyUHFZRFF5VUpPS1M2eG9YTFFlSXZFcmNzb0huYzNBalY2SFE4N2g1bUJHMkhwRXB1R0NMZE5JX0o5NFZkbnlYeXJ0NTJ6YWlsS2VlbDlTckQ0ZHNOVE04WGxGc2t0cXdzdTY3OGt3SURBZXNPYlZZSmtiRC1XRUlnTEVN?oc=5",
-        "domain": "www.nbcnews.com",
-        "publisher": "NBC News",
-        "publisher_url": "https://www.nbcnews.com",
+        "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261019T132357Z",
+        "seendate": "20261023T143100Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Conflict in Iran could result in more American casualties, memo says",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGxsODRnTkpsX2xYeVBlNmpmYmlnUWY1NWVRNXdjUW4xRUczemhxb3gxbVJ2ajhYMFNHVk5uak1IWjNzRWRoUzdYcjJuZEJXeG1DcXYzTTVnVTEzSmYzNmZTQm41dDR2OGM0Q3ZSa3l6RktBNE9NcG54V1M3a203V2VHMWt1eXYxMFAzYWtCaWwyZ3hLaklodFg4TDZUcGxyaGNoV1hDOHVweDVVNnlJN0tOMzRVOWpuNXFfSXMydkZiOEQwQWk3YUV2VDltZXhDaWJsLUIzRkMxLXBJZi03aA?oc=5",
-        "domain": "www.king5.com",
-        "publisher": "KING5.com",
-        "publisher_url": "https://www.king5.com",
+        "title": "Iran-Backed Militia Accuses US of Airspace Violations as Baghdad Probes Suspected Israeli Strikes",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNlBadWVlY1V5TFFpcjUyNUoyTjE2SGpXcC1qLXJiUm9IU3ZMWm5qd0QtMFREWXRxeGE3ZEx6eEZnVTVjWlc0dEdPZF8tMTN3R1RKRXA3RVZCQktfUmFrb2hRdy1fYzE1UDZPLXRZU01fX0MtZTNqTXg1cWdxNW5pN2RhYUJCX2wyLV9VLXVKeE5RZnU2NVhXQUYzVnV1bm11MVVMUjdFY1lhb21QX1k2Uld5azhTMk5hLXYtSGJhbDBjU01janhIQmtuYzFYQQ?oc=5",
+        "domain": "themedialine.org",
+        "publisher": "The Media Line",
+        "publisher_url": "https://themedialine.org",
         "language": "",
-        "seendate": "20261025T043200Z",
+        "seendate": "20261025T094903Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Jaylen Brown reveals there is a bit of conflict with former co-star Jayson Tatum",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmR2YlBCa2R4M2ZsbXZMZVY0NmphQkQxU1pvMXFUQnNOZWtKVWJoek1NaENLLWxUWlF5Uy11SnRxdWtsQnljbXk3SXJYUHd1d0prMVdHckFDTGFyNHNqTVJiemZoOWpSeEdCN3VBVWZycWxHd1VESGt0bVY2QS05NWxDT0txb21pR2c?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
+        "title": "Le Pen launches presidential campaign amid unrest in France",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlY5ZklUa0hkOG4zWGtmYTJwMXd1cnVXcmdQeEVfRFVuT0Y5emN3OWJ1NVQ4dzFTUlNtYy1OTW5rdzRMV2czWW1hcVBGWHI1UFNsNEdSeHl0NklpZGoxazdyblIxT1g3czFMS3ZHdm5xcjdjN2hLR3lUZTJhQTNrWHkzdHBiMHJjQjl6dHU3eWxtVldhUkVEQ2NfbFk?oc=5",
+        "domain": "www.dw.com",
+        "publisher": "DW.com",
+        "publisher_url": "https://www.dw.com",
         "language": "",
-        "seendate": "20261025T043100Z",
+        "seendate": "20261024T160657Z",
         "source": "GoogleNews"
       },
       {
@@ -169,26 +179,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Violence flares in Paris after largely peaceful protests across France",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261024T093600Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What to know about Saints-Steelers NFL Paris game amid unrest, protests in city - The Athletic",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3FhSjB1ZXRVZno2Y0ROUVlxUURTeVNjTWtkR0pHNXV3YlczOEl3TzlvNEpqYVlra0tRLW8ydzJFazZwOFM4TU5sclNQRzFva1piN0R3TVhnaEZyUjJSendoN1huMUNjbmx6TUl5bktpbVZkdkh4VTN6bzdxSE9GSGZvbmNlMjNSaU96OXp0bDQ?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261024T142743Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlE5aWk1UVUtY1NHcFNvQnFKYXYyUTQ5NmlfZGdrTTFRNEQ4ZWN6STFkb0g0SGVGaWZNQkxkdmFUY3VGRGNUM1NLdTN3UnVhb0FsSXpSS0pBckVwa3NXbDlXcVZ0R1ExZklkYTlEZDFVdFJmM29SaWxfbklNZ1RUdkh2cHNZZzBqcHNr?oc=5",
         "domain": "www.nytimes.com",
@@ -209,13 +199,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid'",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVk5czJqc091UDJSd2lQbGNRYXlyQXBBd2RxTUZkQXcyU0M4QzI0TE8tQ3FaU0xaa3NwWWlXNWU2OGg2NjBzZktLTTE0Uy10QnFyRDJvZzFiQ0xiaWdNVEdObEpuU2dvMnRkV2NRLTdHX0lWaE56cDlpRlZxcjdrWUpjbU12ZF9WV0psc2Y3bkVMYkRkNU5WMzBJcGRIaVNGN1pUY21mYS0?oc=5",
+        "title": "Saudi, Egyptian stocks sink as Yemen conflict intensifies",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa3ZBWG5tbkZvcXJFc2xkcEs1SmhEcHAybDM1ZGN0T0ZCN3BIcTFyaF9laXlEYVA2N2ZsUmJjcmgxaS1aVW5jdFZSOFZrc2JnUWFJaFRwR25QS0pob0RTT0lONlJldzVxOFlidThrdm8zTVU4X1l4dFRPVUY5R0ZuX05aX2pibWg2VlNLUmlaVmFaWDg5bDlMQUVFWTh2bnZ3WFJ4MzA1RWVDMEtKOEE?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261022T120902Z",
+        "seendate": "20261025T094405Z",
         "source": "GoogleNews"
       },
       {
@@ -229,13 +219,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "NFL House in Paris closes before Steelers-Saints game amid civil unrest",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGloTFVEa0ZIdXpnV05GRVQ1TTVmR1pSaV9TS2NQZndBWjBLa2dtS2tha3ZSV3ZvR0QwcjE3LTNpVUpkSHZhdDB1SS10MERxdTVuZzhnUVFFY2VhWGpiNE5sUDFhbjl4bUpWTVliNzV3REw2dnhmNkdGOFJuS0wyYlpMVVhCcXc?oc=5",
-        "domain": "sports.yahoo.com",
-        "publisher": "Yahoo Sports",
-        "publisher_url": "https://sports.yahoo.com",
+        "title": "France's Macron vows order, calls foreign criticism of unrest 'stupid'",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdVk5czJqc091UDJSd2lQbGNRYXlyQXBBd2RxTUZkQXcyU0M4QzI0TE8tQ3FaU0xaa3NwWWlXNWU2OGg2NjBzZktLTTE0Uy10QnFyRDJvZzFiQ0xiaWdNVEdObEpuU2dvMnRkV2NRLTdHX0lWaE56cDlpRlZxcjdrWUpjbU12ZF9WV0psc2Y3bkVMYkRkNU5WMzBJcGRIaVNGN1pUY21mYS0?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261024T225920Z",
+        "seendate": "20261022T120902Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What to know about Saints-Steelers NFL Paris game amid unrest, protests in city - The Athletic",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS3FhSjB1ZXRVZno2Y0ROUVlxUURTeVNjTWtkR0pHNXV3YlczOEl3TzlvNEpqYVlra0tRLW8ydzJFazZwOFM4TU5sclNQRzFva1piN0R3TVhnaEZyUjJSendoN1huMUNjbmx6TUl5bktpbVZkdkh4VTN6bzdxSE9GSGZvbmNlMjNSaU96OXp0bDQ?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261024T142743Z",
         "source": "GoogleNews"
       },
       {
@@ -249,23 +249,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France's unrest lays bare 'slow agony' of Macron's twilight months",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2kzMlE3aGZSNzl4ZWVzR1Y5dEI4bzV4VW02b2VsMHJQeHpwV01KU2NXLVlzcjNwNlp6S3UzLURtQ1U1THpLX0xDSGhsOG5idFFnamxGSERTV0QwT0ZyWVM4eE01cm1tRE43RkpoVmJUZ2ZDU2pBblFCUEpXUnh1RmFfNjBJMllLWGZCMFh3MFZqMi13XzZYQ25mZUtXMUNIVGNfNU9ZVnNhMG5I?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "Dramatic images show violent unrest sweeping across France",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hGYVlQRnc1aFBYQXlYSFhzZXUyUHFZRFF5VUpPS1M2eG9YTFFlSXZFcmNzb0huYzNBalY2SFE4N2g1bUJHMkhwRXB1R0NMZE5JX0o5NFZkbnlYeXJ0NTJ6YWlsS2VlbDlTckQ0ZHNOVE04WGxGc2t0cXdzdTY3OGt3SURBZXNPYlZZSmtiRC1XRUlnTEVN?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
         "language": "",
-        "seendate": "20261019T133740Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Understanding diagnostic challenges and identifying priorities to tackle antimicrobial resistance in conflict zones",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZRlh2TXNQb1NTOWJpQW9HSmpXNW1KRVREVTZ2dEc2VHFhZ05XYThISFJ6ZmRTLVNwM3pnbWZiT21DRjhiU2RGWDFPSXNPYWFDTTdjNlRRc3lfRmJYY0tn?oc=5",
-        "domain": "www.nature.com",
-        "publisher": "Nature",
-        "publisher_url": "https://www.nature.com",
-        "language": "",
-        "seendate": "20261024T100949Z",
+        "seendate": "20261019T132357Z",
         "source": "GoogleNews"
       },
       {
@@ -279,23 +269,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Iran urges France, Germany, UK to examine root cause of military conflict",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGNmRS1fZ2EzMjNzQTNLakRTY1lRM1F6UmVTUFhBY1pITlZsc0hIQ1NEYWQ5VFNHTGxicnU0cFRFYUpoVUNOV2lSWU9wbDlFZVFOMnh6NUh6M3BfTVUtaFJaTGdkUndJYXg5VkhwMGo2MzhEeDdRQUdOWFB5QVd6SXVnNnlhcmhmb0VPZFRlMVZLVGZJRHd3T2Znc2tldThoOUJHcVh6UlJiemQwUnlIVUxvaU5vQkFFc1YwSFB6bw?oc=5",
-        "domain": "www.middleeasteye.net",
-        "publisher": "Middle East Eye",
-        "publisher_url": "https://www.middleeasteye.net",
+        "title": "France's unrest lays bare 'slow agony' of Macron's twilight months",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2kzMlE3aGZSNzl4ZWVzR1Y5dEI4bzV4VW02b2VsMHJQeHpwV01KU2NXLVlzcjNwNlp6S3UzLURtQ1U1THpLX0xDSGhsOG5idFFnamxGSERTV0QwT0ZyWVM4eE01cm1tRE43RkpoVmJUZ2ZDU2pBblFCUEpXUnh1RmFfNjBJMllLWGZCMFh3MFZqMi13XzZYQ25mZUtXMUNIVGNfNU9ZVnNhMG5I?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261025T013900Z",
+        "seendate": "20261019T133740Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Steelers' Aaron Rodgers backs NFL on holding Paris game despite recent unrest",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25yOXZXdGgzRjhmR0hUWW5sUHhpY0pHWjJQWlVCZWhpd09wUTVKU1VvOFZxZ3llSDBVeU9VWE1HOGJ3QWxKc0djV2d5SUdQSkJ2NEdsSldIbEtOckVoUG9COVc3b3RkWUoycUI5ZFFnd09RcWUtb0RvRVUzOWo3aXNBQ3R0ZDFRUUcwX2F3dUViLW9MV3QzRm5PNGo?oc=5",
-        "domain": "www.espn.com",
-        "publisher": "ESPN",
-        "publisher_url": "https://www.espn.com",
+        "title": "Violence flares in Paris after largely peaceful protests across France",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261023T103100Z",
+        "seendate": "20261024T093600Z",
         "source": "GoogleNews"
       },
       {
@@ -306,6 +296,26 @@
         "publisher_url": "https://www.reuters.com",
         "language": "",
         "seendate": "20261023T160937Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Elections cannot produce change in Israel",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ0NLRWdxQ2xTRGFqS0xmT056Mm92M1otb1h5eEZZT0tQQ3FMY0RvZ21DQVpoeVBFYWRmYmhXbWRGWmF3NW90SWp1V3hCbjd6V1NrUlNocEhvSHBRMGdIOFZBeTBPc0J3YnNGaEVBNDM5R3RBallnbE80WWQ4VWp4Qm8yX1dsdExqRHNkNmRqSljSAZYBQVVfeXFMT29mQXdrbVhfU0k5R2MwV18ydXN2SkxEUjV4b01lYkI2T0t6STRuMkNmYUZZbDYwMVh0M2JEdVlFY015a3VNaktyY2hHb0ZOa2NzWXJselBVNUdWZE5vUVg4MzJxc1lVUlZhUl9LZTNsTlFCc1dRTU9KRU1ab2d0MmV2Y0pSNXJfWkVsYjdocTByaEdhY2Jn?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
+        "language": "",
+        "seendate": "20261025T071456Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Steelers' Aaron Rodgers backs NFL on holding Paris game despite recent unrest",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa25yOXZXdGgzRjhmR0hUWW5sUHhpY0pHWjJQWlVCZWhpd09wUTVKU1VvOFZxZ3llSDBVeU9VWE1HOGJ3QWxKc0djV2d5SUdQSkJ2NEdsSldIbEtOckVoUG9COVc3b3RkWUoycUI5ZFFnd09RcWUtb0RvRVUzOWo3aXNBQ3R0ZDFRUUcwX2F3dUViLW9MV3QzRm5PNGo?oc=5",
+        "domain": "www.espn.com",
+        "publisher": "ESPN",
+        "publisher_url": "https://www.espn.com",
+        "language": "",
+        "seendate": "20261023T103100Z",
         "source": "GoogleNews"
       },
       {
@@ -329,16 +339,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump weighs quick end to Iran war against letting conflict ‘wither’",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261023T155334Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "France to deploy military as it braces for fresh unrest this weekend",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkJUaVRoMWFpdUZUcExnT1hUNDQxLUpleGpkWHFqQzVHcm5oQWVfWnBSdVhGQXlJRlUxbzB3ZlNCdXRBQXVldHVVUEduaVJsRlRZYmZGekdjZmNsU1p6WlpwZjJzeVBpdVRHb2xuRzBoMzJXQkNkekVxZG00SzN1S2g2SdIBiAFBVV95cUxNWGZkcUx1VXJ0ZnUwbTR0V2lOM0FPWVVMelNqUk9PRU13S0FOU0trZHJlOHl4OXlTeHlodFNJVTFxX3FIWWI4Sm43c08xTW9Lc2Y5RHVISzVWMnZTdi11TmI2NUxKOUFDM2x1YjlRdmM4cXY5eGhNQWJaSDU0LTk0U0JpNG9Fa1Vn?oc=5",
         "domain": "www.cnbc.com",
@@ -346,16 +346,6 @@
         "publisher_url": "https://www.cnbc.com",
         "language": "",
         "seendate": "20261020T083418Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261024T052240Z",
         "source": "GoogleNews"
       },
       {
@@ -369,63 +359,23 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Trump weighs quick end to Iran war against letting conflict ‘wither’",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeGt4QW93RlZCRmRnTV9pMzVTeG55Ty1EbG1wcGU5M0VONm9wM3lEX0lvOEpVcW05OWNSWjJoOTJUSDF5cU1DSFhmZmp2OWdOc1ZPNURIRFF0M3ZzVGxteTRDd2ROZGplLUdWcjJSdUdNUkFoSzYwdDN0dy1yMmttWEdyWGVKeVNmRGE1ODRrcWMzRW9lQTVmMjdsT052QmVFN0Z2cmlRWWM?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261023T155334Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Student protests widen into greater social unrest in France",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN1AxMkR4d2xabXIyWmZteXQ5dzFVNWpWMWwwdERlVm1uN2tEbDU1UWdvajhQaS1DZmdEcFJtamxodkdxaTlpb1ZZWHRUTzRtZGVscWo1cDZjeG9rMk1sUVd5OUwyNmJqZHhMT1BoRmVyNjlPb01VelNlbUU5MzdFZXhkV0txbE54bDVtZWhDYXpxQW1icUhnNDBXUUNxaEJWalN4cUVGWQ?oc=5",
         "domain": "www.npr.org",
         "publisher": "NPR",
         "publisher_url": "https://www.npr.org",
         "language": "",
-        "seendate": "20261017T211852Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "How a Small Student Protest Spread Across France",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZXFRYUJjd2xseURjNElYUDBQNUtwZDVrUnZVbzVFM3FqblVrWTVZWVRaZ3lUTEZkbm9hWGpEUS1vZ1RaRXRVQ2FqZkM0WXB0clBqT3RVbFp1akp5TkFlZ0psZERwakRveF9EcEwzLTl5MmJvb3pkeWhUU1NRbUI4TFN0Zw?oc=5",
-        "domain": "www.nytimes.com",
-        "publisher": "The New York Times",
-        "publisher_url": "https://www.nytimes.com",
-        "language": "",
-        "seendate": "20261024T094650Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Hijri’s ’National Guard’ militia closes Suweida-Damascus highway",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVd2V1NvVE03alIteEhfQTcxTlFfejI3VHNRMDhOcnluVDJ2U2xtNGM3NVlaVEx1dUJxOGptd1NIR0dSSW9SME90UHg4ZVVfRGNndjZRMWxRVk80NllYTElsOERYYXhsTWU2MDUtU1dTQ0N5WGhNT3pKT25xTDhnZVVoRWxuSGF0RE1tdDNrMkwwamlp?oc=5",
-        "domain": "www.newarab.com",
-        "publisher": "The New Arab",
-        "publisher_url": "https://www.newarab.com",
-        "language": "",
-        "seendate": "20261024T150143Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261019T191451Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261024T050001Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Decade of talks with Houthis failed to end conflict: Yemeni foreign minister",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWx4ejUycnBXR3lybGpTdUp3c0h0UHlKakNPbE16dHg1dzNPWFBYQ1VRdFhVQVZFV0p3b0pRNy1McW8weEFJMjU0ZjRkUW5ZMUFkMW91TFRVeXZwa0NTSXNkSldIWjFiS2piS0FEdUp0Tm5LdHZ0VUVJZ3ZMS0dmVXdvZHdOR003N2czbDBHcE1Pbndtbm9DNGJxTDI0MkRXMDZaYnlwRG1YUDA4dVhGa3g0NVhMWEZUUWdTMg?oc=5",
-        "domain": "www.aa.com.tr",
-        "publisher": "Anadolu Ajansı",
-        "publisher_url": "https://www.aa.com.tr",
-        "language": "",
-        "seendate": "20261025T030828Z",
+        "seendate": "20261017T070000Z",
         "source": "GoogleNews"
       },
       {
@@ -439,23 +389,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France Faces Rising Debt, Soaring Borrowing Costs and Economic Unrest",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcmNqU0xGVDB0VjFoWVVHa0NWZV85Vmc2NjNveHdiZFQzTVRBZjUzTEozNEQ5WnpIOWRwR0d1TmxjNWJOcXRRODU4ZTJhN2k5dFJIX19CR0NOY0xmeFVVVFdJbmdWYTlFeVBoVVJfMHktT21LVEhSZzlFVWdicFV4VV9Nc2ZSNG5lTlBJaDcta01xSDg3N0JPUGdaalo2M2IxOGpfc1JnWm1ldWMxVUo4X2NLWTJJd01oWTBUZA?oc=5",
-        "domain": "lavocedinewyork.com",
-        "publisher": "La Voce di New York",
-        "publisher_url": "https://lavocedinewyork.com",
+        "title": "Sarkozy's son warns violent protests in France could worsen amid political unrest",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sWnpEbUlRNmJiVFUyYlo2MlVUTUZhaWtKeUEydUFwYldTTi1mUmFEUGNXYk9CSlhOZC1SZUNsc1hFUE4zMFhUV2lFVHcyS3ctWTJyUmN3?oc=5",
+        "domain": "www.foxnews.com",
+        "publisher": "Fox News",
+        "publisher_url": "https://www.foxnews.com",
         "language": "",
-        "seendate": "20261024T205536Z",
+        "seendate": "20261025T111059Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Students join Albania’s ‘Flamingo Revolution’ as unrest spreads | Daily Sabah",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWEZISXBMMUhib3kzR0JrY2NRSi1La1o1MkNEMC1veWRoZEljOUhHRDF2eEs5aFZhRmttUTN6LW91X0NqTGpwaVlwb2puYVBjdzVITk55Q2tYYU5qZG5EMTVHUTNibkVmV2ZJSEswSmQzRGItN0lCN29QSlRGcG1BckFGWXJKUGlRSW1hLTZ1TjN1MDRVMzNFWkJTODJ2MmptZXfSAacBQVVfeXFMTVZSckFvSDFfUlR4WU13Rjc4YXJYbEZ5cGFXdXNvaTAtVElKdzkwOUVSTW5zc0Z6cjFQam1ueHliNV93X3JGYlZlMnZGdXpQQllvcWpGUkNWWGZvajVWU2FWck5VQ3RDTGNLdEFFTktJNHlWQ0FNSnVBZTBzS1ViLVg3T2xuaWF3WmMtNDNiT0hGLWpTbUxyLTVOLUtEWFdMdFEzb2lSWmM?oc=5",
-        "domain": "www.dailysabah.com",
-        "publisher": "Daily Sabah",
-        "publisher_url": "https://www.dailysabah.com",
+        "title": "Bear killings skyrocket as garbage, bird feeders draw them into conflict",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxObjA0NFBsZ200eU54UU9SMVM2aWlJTGRNSjRCMUJhZi0ybGZEVVZqVndXTzVJRURaQnBTajVLblNMUm1td1M0S1dzU19hbHhralBSSHpUSkp2TTJpLUU3dGhMTzdZVy1oQW9JU1ZZT0drU2Q0Z3RmVzVQYnRZYkV6NExkSE1wWkdveXpJZmdXNVhfd21KYUJDSGxyNXJTcDQ3aXdmRGt3TlhWcF9wU1plbC1Nc2x1SmdYRk9mSjhJbWs2eTdLelFpaXU0VmpYN0lCM1BfVXd0MDlKdlhrc2k4VHRUUXljQzlTXzRwZ3p3?oc=5",
+        "domain": "www.reflector.com",
+        "publisher": "reflector.com",
+        "publisher_url": "http://www.reflector.com",
         "language": "",
-        "seendate": "20261024T112435Z",
+        "seendate": "20261025T081500Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZWNGMGIzTEZwQjVYM1BNU3lmemRQZTk3OGtQTnhXTWM0UXRFNXhqTTg3WFFQYXdQWVZZTUphR3FGZDd3SE5RaGZlTWdWZ1owRklLYnQzSWN5RlotVjY2OEdjMUtsUGpMZ1RxRk5QS1djT3hnbDZwR0lUSmVwZjlYX243eGIyRHpKLV80NkltM3NmZkk2ZEl0WGNGVEpGRHZUei1LRGJYMnRoME0?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261019T191451Z",
         "source": "GoogleNews"
       },
       {
@@ -469,23 +429,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Italy, Spain, Belgium, Portugal: Social unrest spreads across Europe amid soaring energy prices and a housing crisis",
-        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcnphQ2s1d0RnanE2WjJjUzlwVl9PX05EU2ZlenNpZXdMR256aHdwR0lMT1d5dEUwUl9IWGZsTkxmMlpxMGlwWjR6VVVLTHhnZmVfM3NkNjZMejkyN1NYdm1MU2FwMkZVVERXNFg2cHUwQ1pOeGhZdDQ0V1VUZENFWkdVR2dWNUV2dmpyNVhoTVVDdGo0bURzd0FKdi0tU242TnlubkhSaXZPZXpRaVFZcmJtT19NdDdYMV9pR1ZwQ3FCRzFBRmRPRzQ2UjlCRlhVZ1BqcktaeC1xdGxDcGVmSkZpeDRrNXhYcmt2UmN6UTZLal9iYUZURm1lZUc2Vll4Ung4UElfakJ6cmU3N1VRT2xZWXA?oc=5",
-        "domain": "www.lemonde.fr",
-        "publisher": "Le Monde.fr",
-        "publisher_url": "https://www.lemonde.fr",
+        "title": "Lens beat PFC in Ligue 1 matchday impacted by social unrest",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzhIdFkxNk9UUVREcDdsbjExQi1MbzdaNHlEbDBqQzR5ejRfeDFab2w0eDhmQkgzYWRBOUluMTg2UWNPTmhXd0ZxTkZQYlVuWGhlbFlzT2U4TWlDamhnbmx5TmRJRTQ5YkRsdk40c3AtRUpsemlEV2xrZ2hDSVExdW84d09SNlBGZDlKaGE5WHdIQmlNaWlSUnN1THl6ajFWQ1NnaU5aUWVTdw?oc=5",
+        "domain": "www.france24.com",
+        "publisher": "France 24",
+        "publisher_url": "https://www.france24.com",
         "language": "",
-        "seendate": "20261020T041508Z",
+        "seendate": "20261024T205653Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
+        "title": "Iran urges France, Germany, UK to examine root cause of military conflict",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZGNmRS1fZ2EzMjNzQTNLakRTY1lRM1F6UmVTUFhBY1pITlZsc0hIQ1NEYWQ5VFNHTGxicnU0cFRFYUpoVUNOV2lSWU9wbDlFZVFOMnh6NUh6M3BfTVUtaFJaTGdkUndJYXg5VkhwMGo2MzhEeDdRQUdOWFB5QVd6SXVnNnlhcmhmb0VPZFRlMVZLVGZJRHd3T2Znc2tldThoOUJHcVh6UlJiemQwUnlIVUxvaU5vQkFFc1YwSFB6bw?oc=5",
+        "domain": "www.middleeasteye.net",
+        "publisher": "Middle East Eye",
+        "publisher_url": "https://www.middleeasteye.net",
         "language": "",
-        "seendate": "20261021T144400Z",
+        "seendate": "20261025T013900Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG8?oc=5",
+        "domain": "www.cnbc.com",
+        "publisher": "CNBC",
+        "publisher_url": "https://www.cnbc.com",
+        "language": "",
+        "seendate": "20261024T050001Z",
         "source": "GoogleNews"
       },
       {
@@ -499,13 +469,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0bnZRYWwyOWhycjFRaDhGc1E0M0diUFZjeEdHQy1YbXQ5OGdlRUo3NXJfT21PUmdjQW1DRkl6UzVEbkhLSHlESnFQdEF1X0poMlNZcGZlaEZ1eXVnX29UN0xTcVdycjJwVTY1VEJNZnotb1J3ckNRZw?oc=5",
+        "title": "Italy, Spain, Belgium, Portugal: Social unrest spreads across Europe amid soaring energy prices and a housing crisis",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPcnphQ2s1d0RnanE2WjJjUzlwVl9PX05EU2ZlenNpZXdMR256aHdwR0lMT1d5dEUwUl9IWGZsTkxmMlpxMGlwWjR6VVVLTHhnZmVfM3NkNjZMejkyN1NYdm1MU2FwMkZVVERXNFg2cHUwQ1pOeGhZdDQ0V1VUZENFWkdVR2dWNUV2dmpyNVhoTVVDdGo0bURzd0FKdi0tU242TnlubkhSaXZPZXpRaVFZcmJtT19NdDdYMV9pR1ZwQ3FCRzFBRmRPRzQ2UjlCRlhVZ1BqcktaeC1xdGxDcGVmSkZpeDRrNXhYcmt2UmN6UTZLal9iYUZURm1lZUc2Vll4Ung4UElfakJ6cmU3N1VRT2xZWXA?oc=5",
+        "domain": "www.lemonde.fr",
+        "publisher": "Le Monde.fr",
+        "publisher_url": "https://www.lemonde.fr",
+        "language": "",
+        "seendate": "20261020T041508Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Conflict in Iran could result in more American casualties, memo says",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGxsODRnTkpsX2xYeVBlNmpmYmlnUWY1NWVRNXdjUW4xRUczemhxb3gxbVJ2ajhYMFNHVk5uak1IWjNzRWRoUzdYcjJuZEJXeG1DcXYzTTVnVTEzSmYzNmZTQm41dDR2OGM0Q3ZSa3l6RktBNE9NcG54V1M3a203V2VHMWt1eXYxMFAzYWtCaWwyZ3hLaklodFg4TDZUcGxyaGNoV1hDOHVweDVVNnlJN0tOMzRVOWpuNXFfSXMydkZiOEQwQWk3YUV2VDltZXhDaWJsLUIzRkMxLXBJZi03aA?oc=5",
+        "domain": "www.king5.com",
+        "publisher": "KING5.com",
+        "publisher_url": "https://www.king5.com",
+        "language": "",
+        "seendate": "20261025T043200Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Macron accuses Trump and other foreign leaders of ‘stupid comments’ about France unrest",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOd3lQQ19SQU9wS1B0N3NWek1pbS1NWXdONmVVOVJsaHhrc0RXN3ZfZFZseTc2NUJQTjl2RnlaODk1eWlUWmFLM1RVVWNCWjE4Vi13cDF1X0xzQnlQRW1La3o1d2tya0I4NW9SVmdYaHAta2l1TWo5Z0xiN0dyV2pWQXgySjZqeW1fY0tCNkNzdEo2UkQ5djhMcDkzeU9QdlJ5UkQ4Y2pZcw?oc=5",
         "domain": "www.theguardian.com",
         "publisher": "The Guardian",
         "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261019T224800Z",
+        "seendate": "20261021T144400Z",
         "source": "GoogleNews"
       },
       {
@@ -519,13 +509,23 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France hit by worst unrest in years as attempts to rein in government spending meet citizen ire",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVBCR2pxVVBkT0ZtQVUwNS1Yd1JOalVhcHdwLWg0eHFVdEhRZ1FRWk1peHRiRFJWT3R3aDBTbFF0N2NoTTV3T3M0YkpvbU1Sdk9HU3lkQ2RyYzZmOGZtQ2RCSkJRS1U1ekpEdV9SNXk4bE5XWUdUUG1fTV9XcXNhVXJPZmlFSG9CUUHSAY8BQVVfeXFMT0JKRVd4dkdGZjU0bFJhZko5UUI5R3dlU1dyeXdORU9QRlhKbUpqTzNRQ2N6d0E5RUJxXy14WkVJRXYxX3NMeHZfMlhOTm5hOTNLMmdHNzN1Z3NqX1ZwbzBuMTZWaTJPM2NBb2JoZk5lNkgxdE12ZkNkbW1fb29XVm9NaXlJa1hRSXc4U2VxdUU?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
+        "title": "Hundreds of Ethiopians cross into Kenya to flee regional fighting",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUJtOXZ1azFzVE5YcmJrX3p0VmtUYXpoME1wUzRzelg2S29YWldrODNMMDZlRnNRQ1E2RnV3TkdadmNaZHZfUlh5WlFBdUthYWRRbTlrdUhBWUNlMmVQcDRDQ3VNYUtWTmFTTkZTSjB4WlVNTlVOc2pPckV2UVI2TnVXT1lyaUFqMTFkWGxpcmhNM3JPSjNtWjNkSGNsNWRZallyNEg2cXc1WDTSAbABQVVfeXFMTS1IQmRFYnMwVEdxUW5YVDR6QVUzTy1JdTZ5ZkxsTVRMem0xTFZFU0lIZTU5OFZuOENoU1hGRWE1RU1hU1lReDRxbm82MFg1YkpyOVg2VmtlUWszYlA5MFZjbzBvc2N3TFFQTjA1NWFkM3BHakFSWXo3V1VZTW43OV9tN29iY3NURjBpNk5HaTgwWUJKQUt1bklNbTV6aUF0N0RUUkVMWWFFYUZaX3I4NzM?oc=5",
+        "domain": "www.aljazeera.com",
+        "publisher": "Al Jazeera",
+        "publisher_url": "https://www.aljazeera.com",
         "language": "",
-        "seendate": "20261019T020600Z",
+        "seendate": "20261022T225629Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Trump attacks ‘migrants and communists’ as he tries to exploit France unrest",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0bnZRYWwyOWhycjFRaDhGc1E0M0diUFZjeEdHQy1YbXQ5OGdlRUo3NXJfT21PUmdjQW1DRkl6UzVEbkhLSHlESnFQdEF1X0poMlNZcGZlaEZ1eXVnX29UN0xTcVdycjJwVTY1VEJNZnotb1J3ckNRZw?oc=5",
+        "domain": "www.theguardian.com",
+        "publisher": "The Guardian",
+        "publisher_url": "https://www.theguardian.com",
+        "language": "",
+        "seendate": "20261019T224800Z",
         "source": "GoogleNews"
       }
     ]
@@ -539,6 +539,26 @@
       "publisher_url": "https://www.nytimes.com",
       "language": "",
       "seendate": "20261024T212315Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "More than 400,000 protest across France, challenging Macron as Paris clashes erupt",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+      "domain": "apnews.com",
+      "publisher": "AP News",
+      "publisher_url": "https://apnews.com",
+      "language": "",
+      "seendate": "20261024T213100Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "128 arrested after night of unrest and looting in Barcelona",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTJTOUdtbFZYM0FwZmtLRWpEenBEaElZTlZxUnZhNGdMY0QyUGdJcTE5XzdXTEdseEs1MmZvR0hKbEtlcE5BQWxwcHQ3MVhNYlM1cjY5S211cnE4dlNETFFUS1F6OGRldDdVQjd4MDFIU2dUYlgtSjluT0ZJbFRrd05FM0UtNElnejZOa0I3bVdmdzYyWVBWVlNqbw?oc=5",
+      "domain": "www.euronews.com",
+      "publisher": "Euronews.com",
+      "publisher_url": "https://www.euronews.com",
+      "language": "",
+      "seendate": "20261025T094503Z",
       "source": "GoogleNews"
     },
     {
@@ -562,23 +582,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Le Pen launches presidential campaign amid unrest in France",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlY5ZklUa0hkOG4zWGtmYTJwMXd1cnVXcmdQeEVfRFVuT0Y5emN3OWJ1NVQ4dzFTUlNtYy1OTW5rdzRMV2czWW1hcVBGWHI1UFNsNEdSeHl0NklpZGoxazdyblIxT1g3czFMS3ZHdm5xcjdjN2hLR3lUZTJhQTNrWHkzdHBiMHJjQjl6dHU3eWxtVldhUkVEQ2NfbFk?oc=5",
-      "domain": "www.dw.com",
-      "publisher": "DW.com",
-      "publisher_url": "https://www.dw.com",
+      "title": "Jaylen Brown reveals there is a bit of conflict with former co-star Jayson Tatum",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmR2YlBCa2R4M2ZsbXZMZVY0NmphQkQxU1pvMXFUQnNOZWtKVWJoek1NaENLLWxUWlF5Uy11SnRxdWtsQnljbXk3SXJYUHd1d0prMVdHckFDTGFyNHNqTVJiemZoOWpSeEdCN3VBVWZycWxHd1VESGt0bVY2QS05NWxDT0txb21pR2c?oc=5",
+      "domain": "sports.yahoo.com",
+      "publisher": "Yahoo Sports",
+      "publisher_url": "https://sports.yahoo.com",
       "language": "",
-      "seendate": "20261024T160657Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
-      "domain": "www.theguardian.com",
-      "publisher": "The Guardian",
-      "publisher_url": "https://www.theguardian.com",
-      "language": "",
-      "seendate": "20261023T143100Z",
+      "seendate": "20261025T043100Z",
       "source": "GoogleNews"
     },
     {
@@ -602,33 +612,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Dramatic images show violent unrest sweeping across France",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hGYVlQRnc1aFBYQXlYSFhzZXUyUHFZRFF5VUpPS1M2eG9YTFFlSXZFcmNzb0huYzNBalY2SFE4N2g1bUJHMkhwRXB1R0NMZE5JX0o5NFZkbnlYeXJ0NTJ6YWlsS2VlbDlTckQ0ZHNOVE04WGxGc2t0cXdzdTY3OGt3SURBZXNPYlZZSmtiRC1XRUlnTEVN?oc=5",
-      "domain": "www.nbcnews.com",
-      "publisher": "NBC News",
-      "publisher_url": "https://www.nbcnews.com",
+      "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
+      "domain": "www.theguardian.com",
+      "publisher": "The Guardian",
+      "publisher_url": "https://www.theguardian.com",
       "language": "",
-      "seendate": "20261019T132357Z",
+      "seendate": "20261023T143100Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Conflict in Iran could result in more American casualties, memo says",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaGxsODRnTkpsX2xYeVBlNmpmYmlnUWY1NWVRNXdjUW4xRUczemhxb3gxbVJ2ajhYMFNHVk5uak1IWjNzRWRoUzdYcjJuZEJXeG1DcXYzTTVnVTEzSmYzNmZTQm41dDR2OGM0Q3ZSa3l6RktBNE9NcG54V1M3a203V2VHMWt1eXYxMFAzYWtCaWwyZ3hLaklodFg4TDZUcGxyaGNoV1hDOHVweDVVNnlJN0tOMzRVOWpuNXFfSXMydkZiOEQwQWk3YUV2VDltZXhDaWJsLUIzRkMxLXBJZi03aA?oc=5",
-      "domain": "www.king5.com",
-      "publisher": "KING5.com",
-      "publisher_url": "https://www.king5.com",
+      "title": "Iran-Backed Militia Accuses US of Airspace Violations as Baghdad Probes Suspected Israeli Strikes",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNlBadWVlY1V5TFFpcjUyNUoyTjE2SGpXcC1qLXJiUm9IU3ZMWm5qd0QtMFREWXRxeGE3ZEx6eEZnVTVjWlc0dEdPZF8tMTN3R1RKRXA3RVZCQktfUmFrb2hRdy1fYzE1UDZPLXRZU01fX0MtZTNqTXg1cWdxNW5pN2RhYUJCX2wyLV9VLXVKeE5RZnU2NVhXQUYzVnV1bm11MVVMUjdFY1lhb21QX1k2Uld5azhTMk5hLXYtSGJhbDBjU01janhIQmtuYzFYQQ?oc=5",
+      "domain": "themedialine.org",
+      "publisher": "The Media Line",
+      "publisher_url": "https://themedialine.org",
       "language": "",
-      "seendate": "20261025T043200Z",
+      "seendate": "20261025T094903Z",
       "source": "GoogleNews"
     },
     {
-      "title": "Jaylen Brown reveals there is a bit of conflict with former co-star Jayson Tatum",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYmR2YlBCa2R4M2ZsbXZMZVY0NmphQkQxU1pvMXFUQnNOZWtKVWJoek1NaENLLWxUWlF5Uy11SnRxdWtsQnljbXk3SXJYUHd1d0prMVdHckFDTGFyNHNqTVJiemZoOWpSeEdCN3VBVWZycWxHd1VESGt0bVY2QS05NWxDT0txb21pR2c?oc=5",
-      "domain": "sports.yahoo.com",
-      "publisher": "Yahoo Sports",
-      "publisher_url": "https://sports.yahoo.com",
+      "title": "Le Pen launches presidential campaign amid unrest in France",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlY5ZklUa0hkOG4zWGtmYTJwMXd1cnVXcmdQeEVfRFVuT0Y5emN3OWJ1NVQ4dzFTUlNtYy1OTW5rdzRMV2czWW1hcVBGWHI1UFNsNEdSeHl0NklpZGoxazdyblIxT1g3czFMS3ZHdm5xcjdjN2hLR3lUZTJhQTNrWHkzdHBiMHJjQjl6dHU3eWxtVldhUkVEQ2NfbFk?oc=5",
+      "domain": "www.dw.com",
+      "publisher": "DW.com",
+      "publisher_url": "https://www.dw.com",
       "language": "",
-      "seendate": "20261025T043100Z",
+      "seendate": "20261024T160657Z",
       "source": "GoogleNews"
     },
     {
@@ -669,16 +679,6 @@
       "publisher_url": "https://www.theguardian.com",
       "language": "",
       "seendate": "20261023T050000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Violence flares in Paris after largely peaceful protests across France",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMDZFRzVKWWJMOFp4eGNjbVdnZ1pCd3hVNTdMSWdiaU9uSGxZTi1zZW1DR3JvbjBfZTJIMnF3LVBMMXpWQjI0V1BfTWtFYUZkVWtXc0VmZEZyVWRHU3c3aHFwRm9fN0ZFMTRIaC16ZmhOeTFrRXBsdmpwWXVtRVVCd09ONkp3bFB5QWVRWjlBSmJqbHphYnBiLS0yaVZfRWpxdVAxSGRqYUI4YTBEX2pZeA?oc=5",
-      "domain": "www.reuters.com",
-      "publisher": "Reuters",
-      "publisher_url": "https://www.reuters.com",
-      "language": "",
-      "seendate": "20261024T093600Z",
       "source": "GoogleNews"
     }
   ],
