@@ -1,7 +1,7 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-10-28T22:35:48.991622+00:00",
+    "generated": "2026-10-29T05:49:14.523399+00:00",
     "mode": "live",
     "sources": [
       "news_articles"
@@ -29,23 +29,13 @@
   "live_data": {
     "news_articles": [
       {
-        "title": "Paris braces for more unrest as riots reshape the city’s streets",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQS04QU9UdUVOYW9iaHhQUVBKaWFwa3NETWt4RHJub0JBRjRNVlM1NEpEeHliSXpzdllHYmM3cFR4dS01eU5qSDZVQ3l5RThLZXZqaENYOFYyS2piV0QteDlCeXJPT0k4N1RQTGVfR0d5QnRVU29sYmVObFpianhTT182OXk5Y2R6T2YwWGtvTmlpWV84SXljeW1PUk1MTE55SjRNbkxhZ0FxczhZLVdsbERYNA?oc=5",
-        "domain": "www.latimes.com",
-        "publisher": "Los Angeles Times",
-        "publisher_url": "https://www.latimes.com",
-        "language": "",
-        "seendate": "20261028T100000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQ196bElvM1Vacy1rcXo3YTRLUWhUbzlCbjV6d2t0bVY3RVhmNHhkYWthWU4wQ01ObVZldzRneGFpd2lVdFp4X0VaWlhmQjViWlFxTnZVbw?oc=5",
+        "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzbXlwN3g4eHZiTl9iTkVpZVU1akNSOXV0S1ViTjd4aEFvUUV6cFo0Y1hKWHdOOC15bkFPOE5YSE51Qll1LVllV1NIekszR3lkWW5vLVhadw?oc=5",
         "domain": "news.un.org",
         "publisher": "UN News",
         "publisher_url": "https://news.un.org",
         "language": "",
-        "seendate": "20261028T190457Z",
+        "seendate": "20261028T164259Z",
         "source": "GoogleNews"
       },
       {
@@ -59,23 +49,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "AU Special Envoy Launches Learning Beyond Conflict Campaign in Nigeria, Advancing Education and Dignity for Children Affected by Armed Conflict-African Union - Peace and Security Department",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWnZGbWxqYkZ3UEp0ZndhWkpNUWV6dE9wNEhnZE9relIteUtXQVpNM2RJT1FwQS1vV3N5MVFMeHRtMnlfS1VVQmdGMW5xWC1MV3pWenBOSXhoZ0hjUkt1UFZxTDZfbHMxRkZqMDNvVTU0SldfNmxkRXhGUTh1YnJPRHlpektnSDZjVWplMFYwWU51NjU0M1dXdWlQWDZ6LVlUT0tjemtOYjB1cGRWNndDbGlaemNJYXdJMXZtMWRRRVNubDVuaFlFQVM1NGxXQmRxbTJzSlBNTmJxVjJOR1g4VUw3cFhrYkxKaERmNkdNNDFxdmtlcXJKM1VFX3hCUGdwa0kzRWJFR2c?oc=5",
-        "domain": "www.peaceau.org",
-        "publisher": "African Union,Peace and Security Department",
-        "publisher_url": "https://www.peaceau.org",
+        "title": "Paris braces for more unrest as riots reshape the city’s streets",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQS04QU9UdUVOYW9iaHhQUVBKaWFwa3NETWt4RHJub0JBRjRNVlM1NEpEeHliSXpzdllHYmM3cFR4dS01eU5qSDZVQ3l5RThLZXZqaENYOFYyS2piV0QteDlCeXJPT0k4N1RQTGVfR0d5QnRVU29sYmVObFpianhTT182OXk5Y2R6T2YwWGtvTmlpWV84SXljeW1PUk1MTE55SjRNbkxhZ0FxczhZLVdsbERYNA?oc=5",
+        "domain": "www.latimes.com",
+        "publisher": "Los Angeles Times",
+        "publisher_url": "https://www.latimes.com",
         "language": "",
-        "seendate": "20261028T081305Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "War in Ukraine | Global Conflict Tracker",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
-        "domain": "www.cfr.org",
-        "publisher": "Council on Foreign Relations",
-        "publisher_url": "https://www.cfr.org",
-        "language": "",
-        "seendate": "20261027T120000Z",
+        "seendate": "20261028T100000Z",
         "source": "GoogleNews"
       },
       {
@@ -89,13 +69,33 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Visual Studio October Update Adds Bulk Git Conflict Resolution",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxmNjdNbG45dzF5TmVfbTJ3bWRVMGJ1MzhDYWtPanRkOElXeWFtRENsSGdOaTh1TTA1LXRuMzBZcWY2Z0Zydi0wTTFaSGEyOGlRV0VyRXRqMV95NUNZU3VQNGdMMklXbndrNFVVQnV2X1pFVHJHdW11dWNuWlNQeFc0emUteTVkRlRJeGdWeUZsQ3VtS1ZIaFR3MDVwMkxkTW5ESkotTzk1Sk5Yajl1NE9vTGMtVFNDbm94Yw?oc=5",
-        "domain": "visualstudiomagazine.com",
-        "publisher": "Visual Studio Magazine",
-        "publisher_url": "https://visualstudiomagazine.com",
+        "title": "Washington Postures for Potential Escalation in the Conflict with Iran",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByN05wcXZYUXc3NnItekxJRGttenZ2Q0tqUXlpWlBXaFd1X20wV2YyMDJmR3lvTnFhRVhEYWh0MFVQdHYxUjZ2SEg5bHQ0MGU2blBCMS16VmhTVEN6RFR0SEFFaWIwZw?oc=5",
+        "domain": "thesoufancenter.org",
+        "publisher": "The Soufan Center",
+        "publisher_url": "https://thesoufancenter.org",
         "language": "",
-        "seendate": "20261028T212230Z",
+        "seendate": "20261029T040544Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Facts and figures: Women, peace, and security",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdmZHQ1lmVGVRMGxyZ1hLVlA4UFNzRlhmNVhUd0JDMlIzcC0tY0RRNW1XTzluLTRWaXRNbjJsN00xekxvTUladG1FNDNTNExLenVrT1p2Y1NrTDNYekpVRXpVRDVQUkcxSzdUZWZxeFc0d0NKVG1pTmNJVl8yZkJrN0s0d0E4N0NJRVRVYXE1Rmc4VzEzdTluWFczSDA?oc=5",
+        "domain": "www.unwomen.org",
+        "publisher": "UN Women",
+        "publisher_url": "https://www.unwomen.org",
+        "language": "",
+        "seendate": "20261026T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "AU Special Envoy Launches Learning Beyond Conflict Campaign in Nigeria, Advancing Education and Dignity for Children Affected by Armed Conflict-African Union - Peace and Security Department",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWnZGbWxqYkZ3UEp0ZndhWkpNUWV6dE9wNEhnZE9relIteUtXQVpNM2RJT1FwQS1vV3N5MVFMeHRtMnlfS1VVQmdGMW5xWC1MV3pWenBOSXhoZ0hjUkt1UFZxTDZfbHMxRkZqMDNvVTU0SldfNmxkRXhGUTh1YnJPRHlpektnSDZjVWplMFYwWU51NjU0M1dXdWlQWDZ6LVlUT0tjemtOYjB1cGRWNndDbGlaemNJYXdJMXZtMWRRRVNubDVuaFlFQVM1NGxXQmRxbTJzSlBNTmJxVjJOR1g4VUw3cFhrYkxKaERmNkdNNDFxdmtlcXJKM1VFX3hCUGdwa0kzRWJFR2c?oc=5",
+        "domain": "www.peaceau.org",
+        "publisher": "African Union,Peace and Security Department",
+        "publisher_url": "https://www.peaceau.org",
+        "language": "",
+        "seendate": "20261028T081305Z",
         "source": "GoogleNews"
       },
       {
@@ -109,6 +109,26 @@
         "source": "GoogleNews"
       },
       {
+        "title": "Visual Studio October Update Adds Bulk Git Conflict Resolution",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxmNjdNbG45dzF5TmVfbTJ3bWRVMGJ1MzhDYWtPanRkOElXeWFtRENsSGdOaTh1TTA1LXRuMzBZcWY2Z0Zydi0wTTFaSGEyOGlRV0VyRXRqMV95NUNZU3VQNGdMMklXbndrNFVVQnV2X1pFVHJHdW11dWNuWlNQeFc0emUteTVkRlRJeGdWeUZsQ3VtS1ZIaFR3MDVwMkxkTW5ESkotTzk1Sk5Yajl1NE9vTGMtVFNDbm94Yw?oc=5",
+        "domain": "visualstudiomagazine.com",
+        "publisher": "Visual Studio Magazine",
+        "publisher_url": "https://visualstudiomagazine.com",
+        "language": "",
+        "seendate": "20261028T212807Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlZLR1QyUFVZZ0lXeDJNWi03TU1jTVZ1UW9kQWxMa2FPclNxdDBhOGpzajBZOXRzdllfOHA5SEx2MkhlZ2NhRHJlMlB6Y3VqUEFMaDhqTC0xN0F1Sk1kd1VFZ29UclNKdGh3MHFXb2poLTB4SWJmUWc0SVYtY1BUSk1sclQ3RFQxRTgycXlZM2VCeWZW?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261024T212315Z",
+        "source": "GoogleNews"
+      },
+      {
         "title": "Iran’s Inflation Hits 88.7% as Officials Warn of Job Losses, Winter Shortages and Social Unrest",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanlUZ1RLTHZpNU8wMm8tUGpBR0lYV19xdlU1VkVsVEVMVDFRa1lnS3drNno5bW5pNTF3T2dFOWNMaTRDUkRwb3l3bGNiZjlHa0hTWG5rVFRZd3p1ZHNPNzBubzRCVFZ0ZXZMZnlIVlpaTkRUNThPekk5US1wSFpiV0NPNUU0MFZfMHhUZnprTUJtVWxPWHRHa0lDYXBib18wMm50UDFLQXQ0SGFMM1RralhFckdoSU9qbkE3eV90STM2dHU5TjF6WWhSVHdTODQ?oc=5",
         "domain": "www.ncr-iran.org",
@@ -116,56 +136,6 @@
         "publisher_url": "https://www.ncr-iran.org",
         "language": "",
         "seendate": "20261028T201514Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUllIRk5DLVRaTWpBZlVZLVFlOWRscGNJQWtBRDRJTGRHbDFMaV9ReGRnczB2QjJQaXF4bUstdVlKazk4Z0FoZ2pnOWZ0QUVkNmhxczJaYWNaMUswem9RTDNnWjZUbzVFZkRNdTJ2eWdfVS1lVXN6UTZkTzRVa0dkQ0N6YXdGaHNzTkp5WnQtZlZ6bTJfaC1ESGh5NHhCNzE1?oc=5",
-        "domain": "theconversation.com",
-        "publisher": "The Conversation",
-        "publisher_url": "https://theconversation.com",
-        "language": "",
-        "seendate": "20261028T080151Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "As Midterms Approach, Signs of Impending Return to Open Conflict With Iran",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUV5Rm1oX09zbFdldEJ3V1diQmRNVmlCNEI3dzczTWF4Ry03Njg2cDZJQ1doV1F5WEpqMTJXalBxMThVLWFOT1ZadVkxb25qOXFwR1B1WDlUUk80RE5Qa2dhMkoxZ29aMjhmZ2wzTmlCVVAzQjFfODlsckFQR0M3Tzl4SVR2RkNRLUdJNVplNzl3dVFpOXd6U0RKZlVzaWF6cGVfOWpWbUxEdktVS3lkaFNB?oc=5",
-        "domain": "maritime-executive.com",
-        "publisher": "The Maritime Executive",
-        "publisher_url": "https://maritime-executive.com",
-        "language": "",
-        "seendate": "20261028T192157Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran’s Maritime Threat and the Conflict in Yemen",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHVrWktJMUZZaTZYRVBiNnpmNllQWVlfdXFUSjFaNW1ydklTX01ZVUpPQ0FhaUZ0Tl9LbGt0aEpwaUktQllGSTJGaHpWUnFDQm5falZ3ZHA2M0VVOGx5cnVOb2tTVG5VQ3NETlBvRE1UaTBZYzZzMmdzOVNlMWZOeW1aU1p6Z3FDdUdVRXpSUUtfRXEwVU5lREVaalJCSDdS?oc=5",
-        "domain": "www.hudson.org",
-        "publisher": "Hudson Institute",
-        "publisher_url": "https://www.hudson.org",
-        "language": "",
-        "seendate": "20261028T120000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gulf States Prove Resilient in the Face of US-Iran Conflict",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHVGenlhcG12RThkMlZYT0Q1R2hTS0xlU0dPRW1LRzJ1NW03WXlMa1BXNFlWSlVLWldoS3BES2NhcTJITnZGbkZKMFVSMUVmSjF1WC15NXE2MDF2U2lEY0tzRWUtWnpfemt3VFlCV1g1UDA4TkpUdmNYbkl1S05JSlNQajJPbF84S1drajZZWjNlaXRnWWJRNTdRanZndw?oc=5",
-        "domain": "gfmag.com",
-        "publisher": "Global Finance Magazine",
-        "publisher_url": "https://gfmag.com",
-        "language": "",
-        "seendate": "20261028T060000Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Atlanta Dream says it warned the WNBA 2 months ago about scheduling conflict concerns",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFNDYjkyTXY2cXJZWk1zdTdRY0xxcF9sWkVGR0dOdHlnYXM4U0E1V0tPc0xyUnlnaDVkTVJFWGxIRE5ycFNOZzJ1S2N3YnBlcXBwWkw2bGVTMXNFT01qX1NhWWh5OFdmNlVLZGhWTjEwYWpLNV9tdEpPNXlLQVczVG1WbnhOdGhOMFE?oc=5",
-        "domain": "fortune.com",
-        "publisher": "Fortune",
-        "publisher_url": "https://fortune.com",
-        "language": "",
-        "seendate": "20261028T181900Z",
         "source": "GoogleNews"
       },
       {
@@ -179,16 +149,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0trcVBSVDlNenJEM014OWE0UkdUVzJtQzZhdEFBMGQwbndheHc0SVBfbkpaNkFQeENqb0djTzBQbVEzWGxORXFtWFI2THpZa2dVVFcyekoyRnUtN05veTg2YVh6RmtIbjh2dDgwaTF1Rk95NS1XT1BWNnlxdk5nWHlaTDUyQQ?oc=5",
-        "domain": "apnews.com",
-        "publisher": "AP News",
-        "publisher_url": "https://apnews.com",
-        "language": "",
-        "seendate": "20261028T192800Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Four-time Herndon Town Council candidate aims to cut through partisan conflict",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1BWS1ZmUlBKU0ZTYlFSamE2TGI1YkQtUzB2aS1vNVdMQnBDTjdkT09xa3JYdzlIa3Ftc1A3TG9RRmdrTzFCTmNiX2ZEZ3F6dGRaTW1XMVpQc1J3M2J4aHZJenNFdE81OTdobV9EMXhWbXd6TktRRHZQbVp2SDFRVHc0QVZQN0s5Z0VaRmxSRDcwN3hkaU5aMWZkLXZGY3J0UjMwVkZxVVIyMXlBR0FlelpGSQ?oc=5",
         "domain": "www.ffxnow.com",
@@ -199,13 +159,53 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Unseenlabs RF Satellite Data Reveals Hidden Vessel Activity In Strait Of Hormuz Conflict",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2trN21jWVQtaFFlTUw0OTBlLU1qMWVWeTlkR3ZMRF9xaEdMTUdFeUNPX3poZkxtdURseWJBakM4WXQ3b2JySHBVVTJlLVJ1cU1IcElGVWMzZzE4X3Y4M1J0YTFtVk8xdHpRZ2dZOXFvYW9TLTlwa2JYbEJVOEw5WkF3Y0VBN2NUWUh2NmtsVW1ERVVDcXlmWVA2N0pwamlETGUyY3p4Q0ZIOFRoX3Z0ZkU1MkpXTTBySU9aekZSZlp6dw?oc=5",
-        "domain": "oceannews.com",
-        "publisher": "Ocean News & Technology",
-        "publisher_url": "https://oceannews.com",
+        "title": "Iran’s Maritime Threat and the Conflict in Yemen",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHVrWktJMUZZaTZYRVBiNnpmNllQWVlfdXFUSjFaNW1ydklTX01ZVUpPQ0FhaUZ0Tl9LbGt0aEpwaUktQllGSTJGaHpWUnFDQm5falZ3ZHA2M0VVOGx5cnVOb2tTVG5VQ3NETlBvRE1UaTBZYzZzMmdzOVNlMWZOeW1aU1p6Z3FDdUdVRXpSUUtfRXEwVU5lREVaalJCSDdS?oc=5",
+        "domain": "www.hudson.org",
+        "publisher": "Hudson Institute",
+        "publisher_url": "https://www.hudson.org",
         "language": "",
-        "seendate": "20261028T190107Z",
+        "seendate": "20261028T120000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Mideast conflict haunts race for Berlin town hall",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDRTS0QwMWtBS3Q3S2tuMzJmZlhGZkF5RHpOem4wa0ZENTFFaFE2bVBSUXlCX3o0MEQ5M2pJdXVvcVJTNU9HcVF3NU1ZV3ZVVzlGbEJjRHBQRjNDWERSTG5EMUFINVZ5TG53SFhQSFFuUEprOVhVcTVGc0c0UHpETUJyUGROdkp2ZTB1VHdoVHVJdw?oc=5",
+        "domain": "www.arabnews.com",
+        "publisher": "Arab News",
+        "publisher_url": "https://www.arabnews.com",
+        "language": "",
+        "seendate": "20261029T031029Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQ196bElvM1Vacy1rcXo3YTRLUWhUbzlCbjV6d2t0bVY3RVhmNHhkYWthWU4wQ01ObVZldzRneGFpd2lVdFp4X0VaWlhmQjViWlFxTnZVbw?oc=5",
+        "domain": "news.un.org",
+        "publisher": "UN News",
+        "publisher_url": "https://news.un.org",
+        "language": "",
+        "seendate": "20261028T190457Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdy1kTGwzTi1ZWVpiLUFTbF9HS0VGbXFnVWhMVzBfOUhieU95OGhLZnpZLTB3ckdrOEFMZms2UU1qYUMyY01yd3VOQmNhNGU4MmZvNE1uUzdqcXc0OWxLYlRRSk5NaU85cUdZYTd0a1d0QU93S0JfaTNMdlpVa3pMeVBUZnFtd0ZMVXhMWGhHejZOVjQtZlN2ekVsaTdWU2hCVE8xaTlpamEzXzQ?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261029T002800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Syria court sentences Iran-linked militia member to life in prison",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlhOdkxBLUpIck03cnQ4WVNYT0o5WnBlbk9Qb19lMWlUVUJlandwRlBXTmhITlVLeU1UUHRfWnB2MHg4dGU0UTBMYTQ5NHVoV3hEbHg0MFMyTkhnUUZvdlF3V080TDdkSF9vWXVPYTdURU9jUmQyNUM4REQyNzVscUhMTkk1RVJENFkwclN2MUR5YjYwOEE1aE1jajhIUHBTM2xoNnBod3NKZ0h2eFRNaA?oc=5",
+        "domain": "www.arabnews.com",
+        "publisher": "Arab News",
+        "publisher_url": "https://www.arabnews.com",
+        "language": "",
+        "seendate": "20261029T020017Z",
         "source": "GoogleNews"
       },
       {
@@ -219,73 +219,73 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Media Advisory: Sixth Edition of the Commemoration of the AU Post-Conflict Reconstruction and Development (PCRD) Month-African Union - Peace and Security Department",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVlZVWVzbWVHeWV0ZlllN2F1SWwzZ083T2NUMWI0YkZUX3RETERmcTlYcEFoZEkzbHdhUUZ5eUFSSk9xRUNWNzFJZ1Q2TkNkcUhnSEJKOUZWeTlUY1RqMXJZQUZnYTNTdk8tRm1iWHNtb2U5aWd2dGtpTHJ5SkFnMV9SLVB0TXE4REN4NVRpNVpXT0tVNFJIbEl2WnhEUFFCNjZKZFJ3M1lCUUxUVmFEN0FDVlZCV2Y1WHZ6Qm5VSGdqSU1xTFFVemxLZE1hMHNncVJ3ZFYzbThubWN4NVhZSUlsU2g?oc=5",
-        "domain": "www.peaceau.org",
-        "publisher": "African Union,Peace and Security Department",
-        "publisher_url": "https://www.peaceau.org",
-        "language": "",
-        "seendate": "20261028T083310Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Scott Perry warns of potential Iran conflict",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vanJ4c1FMYnZRNURKSFcxZFhpM0x5SDNPVXZEajVZdXlGWFp5YVZ2YVN4STJSRVFqaXBva0ZZLWNycEppbUgyQkh3aGgyYlhjQ2k1dzAyVFVOTnM?oc=5",
-        "domain": "www.foxbusiness.com",
-        "publisher": "Fox Business",
-        "publisher_url": "https://www.foxbusiness.com",
-        "language": "",
-        "seendate": "20261028T134414Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Iran Weighs Qatari 7-Day Proposal to End Conflict With US, Israel",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUl9xNEtXemRXRk1HV3RXWktkTDd1WTZHZUlxX21tMnFxTkZObHV1VnlxM1ljMzBZNEpKU1dPaE0xaWhiUWhRSWhIb045Wl9QWFFtMlI3WGFtZkFpSTkwdkI0VENPcXBfbmotbmxCZngwMlRRcHE2NThpU0EyWjMtUnNpVjM4SkVvckN1UjdsMXd1clZrVlBWRWEtVkpoXzVhaXc?oc=5",
-        "domain": "themedialine.org",
-        "publisher": "The Media Line",
-        "publisher_url": "https://themedialine.org",
-        "language": "",
-        "seendate": "20261028T111044Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Georgia’s gubernatorial candidates conflict on public issues",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ra05mSkVfS1ZwZmFRSDVud1ExUUs2QmM2V3NyX0dnTDZpSVNFMzdxRVJoTy1GTjdMZDVyS0VzSEQ5TmI2WTh1WnlzWDk1aUN6ZGxBMVpoUlJhSDg4MHBISVppbFBlYm05bGtHLVE1SzY5azVrLXljTDJlWnA?oc=5",
-        "domain": "thesoutherneronline.com",
-        "publisher": "the Southerner Online",
-        "publisher_url": "https://thesoutherneronline.com",
-        "language": "",
-        "seendate": "20261028T120517Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Gold smuggling funds Islamic State-linked insurgency in eastern Congo, report says",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnhvbmdWV1pFaFhQNzVCM0JidlBvYTVSd2ppOENPdjVxT2tYcFA2c1ZjR2FIQ0I5VGtVUmo1SHBXWGJtRFhSXzdWd0Q0bjFLU0ZhdUxzb0pGSWRINFZYWUxmWFhERV9GMHA5SXN5WDQ5WVhPTHVVNmVfU2U3RDJJTC1WYVBFRGx3ZHVHMW41SnpsR0hkVGhUYkF0UGdfV0JsSVFBYUpsMDR5ZnNRV29Lb0h6bEthakZXSHpULURjZk1VNllvRWc?oc=5",
+        "title": "Fresh protests in Tirana, despite new measures to curb unrest",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmxpeUR1eDhSRi12WWFqNjJpTWNpWll5NVVqQTFHQ2x1b3hMRE13WGhvTFFDdWJfU3lFVGlkSF9yMjhlMFY1eWFfX05Sa08wQ0NUMnpRQW81aGZ1NktFc21jNThEUU80R3BKZGExZGFlVFNwcWZtU1VSMzUydWtSZ3V2TTJKbEx3TktrVE5STUxGWmRQcXVSVHlhb3o?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261027T135145Z",
+        "seendate": "20261025T160343Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Macron urges calm as France counts cost of worst unrest in years",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
+        "title": "OR: UNREST AT UNIV TURNING POINT USA EVENT",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ2pweFdtNEVsRG1lMUdnSzFycHpYU1NXNk4zX0RpU2VEc0FpYmhseUY1MURwX1ZkSC00R0F4R1FSVl8tOVR4VHRNcXN1SDVhWU5kUmdoYzBGTkc1eDdQSTB2cVBMYnVHUUc4dnJhdWlEZlRhUzJTRGZlM1QyNXpCbkViX09aTlRjb19mUkloV1ZXMmtydDJobS1hQ0Q5cld2bksxdjA1UXNiSDdLaldwbEVlanUtdFltSVlkalFEeWZFN2ozdzVELXVhUnUwYXc?oc=5",
+        "domain": "www.local3news.com",
+        "publisher": "Local 3 News",
+        "publisher_url": "https://www.local3news.com",
         "language": "",
-        "seendate": "20261019T070000Z",
+        "seendate": "20261029T023434Z",
         "source": "GoogleNews"
       },
       {
-        "title": "From France to Albania, how social unrest is fueling protests across Europe",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGhyOTNUVXA3bWpTS0pjUDhFTDBBVGFobXR3Q3E5MzJmbkVuV1VIMUdoSkJxUHJvN3ZYbXA4UHVIT1FrbHVwLXBxbzBfWGhRYkJVVllXSjE3alB0WldLWmx3Ui1tcjFPbEJ3RDFuVF94VkpTYThqYlBPWVllZEJDZ213bWVmRWN4N0F2UmtsYkxDak5MNjQxeEhxZUFzR251dEE1YWtTaGxGRFN5ZEHSAbMBQVVfeXFMUGhpYXN2dnIydDFvS3p3WWFxQkZDeUN1Sk82OXFUMlBEdkJJVmVsYkVES2xqZnk4cC1zU2tCdk8tc3cwT0x3OGtQalRuY3haZU5NR0VTTjdXZWRwMFgyakVJajJma3A3Rll1cTlUc3NMZ0JONzJCcWFYODVQUk1uOVhSZ1k3X044eVhmYzhNYnhuTy05ZWZESFA2MlNYb2syZUo4c1JzVnhoWnVPMXM0OFA0RUk?oc=5",
-        "domain": "www.pbs.org",
-        "publisher": "PBS",
-        "publisher_url": "https://www.pbs.org",
+        "title": "As Midterms Approach, Signs of Impending Return to Open Conflict With Iran",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUV5Rm1oX09zbFdldEJ3V1diQmRNVmlCNEI3dzczTWF4Ry03Njg2cDZJQ1doV1F5WEpqMTJXalBxMThVLWFOT1ZadVkxb25qOXFwR1B1WDlUUk80RE5Qa2dhMkoxZ29aMjhmZ2wzTmlCVVAzQjFfODlsckFQR0M3Tzl4SVR2RkNRLUdJNVplNzl3dVFpOXd6U0RKZlVzaWF6cGVfOWpWbUxEdktVS3lkaFNB?oc=5",
+        "domain": "maritime-executive.com",
+        "publisher": "The Maritime Executive",
+        "publisher_url": "https://maritime-executive.com",
         "language": "",
-        "seendate": "20261019T070000Z",
+        "seendate": "20261028T192157Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "US imposes sanctions on Rwandan defense ministry over involvement in eastern Congo conflict",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNa0trcVBSVDlNenJEM014OWE0UkdUVzJtQzZhdEFBMGQwbndheHc0SVBfbkpaNkFQeENqb0djTzBQbVEzWGxORXFtWFI2THpZa2dVVFcyekoyRnUtN05veTg2YVh6RmtIbjh2dDgwaTF1Rk95NS1XT1BWNnlxdk5nWHlaTDUyQQ?oc=5",
+        "domain": "apnews.com",
+        "publisher": "AP News",
+        "publisher_url": "https://apnews.com",
+        "language": "",
+        "seendate": "20261028T192800Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUllIRk5DLVRaTWpBZlVZLVFlOWRscGNJQWtBRDRJTGRHbDFMaV9ReGRnczB2QjJQaXF4bUstdVlKazk4Z0FoZ2pnOWZ0QUVkNmhxczJaYWNaMUswem9RTDNnWjZUbzVFZkRNdTJ2eWdfVS1lVXN6UTZkTzRVa0dkQ0N6YXdGaHNzTkp5WnQtZlZ6bTJfaC1ESGh5NHhCNzE1?oc=5",
+        "domain": "theconversation.com",
+        "publisher": "The Conversation",
+        "publisher_url": "https://theconversation.com",
+        "language": "",
+        "seendate": "20261028T080151Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5",
+        "domain": "www.britannica.com",
+        "publisher": "Britannica",
+        "publisher_url": "https://www.britannica.com",
+        "language": "",
+        "seendate": "20261028T050000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Atlanta Dream says it warned the WNBA 2 months ago about scheduling conflict concerns",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFNDYjkyTXY2cXJZWk1zdTdRY0xxcF9sWkVGR0dOdHlnYXM4U0E1V0tPc0xyUnlnaDVkTVJFWGxIRE5ycFNOZzJ1S2N3YnBlcXBwWkw2bGVTMXNFT01qX1NhWWh5OFdmNlVLZGhWTjEwYWpLNV9tdEpPNXlLQVczVG1WbnhOdGhOMFE?oc=5",
+        "domain": "fortune.com",
+        "publisher": "Fortune",
+        "publisher_url": "https://fortune.com",
+        "language": "",
+        "seendate": "20261028T181900Z",
         "source": "GoogleNews"
       },
       {
@@ -299,113 +299,153 @@
         "source": "GoogleNews"
       },
       {
-        "title": "Protests spread across Europe as France braces for more unrest",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iOHhKY1N0SU5rOXRkZExBU0I4SGp6RUVjVTdsU0d1SUpudlFPTDJZVjBKWDVheTg4Uzg0UTF2bjQ2TXRKSUxHRDRNUmdnbmg2Q2dvendB?oc=5",
-        "domain": "www.foxnews.com",
-        "publisher": "Fox News",
-        "publisher_url": "https://www.foxnews.com",
+        "title": "Heading to France? Amid Recent Unrest, Here’s What to Know.",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiV1dDNEFYRGU3a0RwcjEtT0tsTlZjZ3ktN3ZhTkt6eEtRYWhsaFpoMDk2d1hRSnpRVzR0eHNzaU80ek1XcnQ4dUtJVzVfTGtlYjdBdXBoTEhpRjZJam1kcHdmQVVuZ29wMFFJTTI1U2VVaDg2?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
         "language": "",
-        "seendate": "20261028T120814Z",
+        "seendate": "20261022T162547Z",
         "source": "GoogleNews"
       },
       {
-        "title": "U.S. conflict with Iran estimated to cost $47 billion, report says",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQm5WODlvZVJhbFh1bTJteDU2ZHRhX2VEcFdyVHVJVDNfNW9JTUpmMHkxa0Z5eTVYUkt5TmJnamRyUkF3U3NjZFRiZ191US13ZFF2dTJIWndNUVItblcyajJJLTk0b0RmZlI0RmN4bU8ycExTS3Q4ZjFycTljMVZQWlN0bVR4bUFlUlhFTl9qbHJJMnVrMlk4dE5Na0ZmTkVMd1c5VzBFM3lCY3FBU2dnYTB5S2FWcHFtVUtxdFREVC01ZVZ3TElUSmNxOTYtOWc4bk13d01iS2c?oc=5",
-        "domain": "www.cbs19.tv",
-        "publisher": "cbs19.tv",
-        "publisher_url": "https://www.cbs19.tv",
-        "language": "",
-        "seendate": "20261028T103200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Former U.S. Amb. to NATO Kurt Volker on Iran war latest, Israel election and France unrest",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNamRfODdTN09KcEtLOFFObnpuTlFPR1BCajVfSFctb3RObS1LQm05SzRUcEZLVFRfVjRZU3RxMEVQYy0tVUkyRGwtLTJyczh0SWtWb0tHNWJZdHpNNGtJZVc4QVM4STFYRUxUNzM0cFU1NktEczk2aHMyX0dDd29WODd5OVl2eTd1N0J5cnRLWHZodlhUUFpQd3ctM3JJY3EtTkVib2ZlSUd2bUE3Z1dwY3VVYlhvS2VBbDIxdVpOSTZTeEZKUWlr?oc=5",
-        "domain": "www.cnbc.com",
-        "publisher": "CNBC",
-        "publisher_url": "https://www.cnbc.com",
-        "language": "",
-        "seendate": "20261028T124200Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Victims of Jordan’s air strikes in Syria",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVBnY3RtV0FaTlZLdV93MDFvb2dBYk1oUmNlTmgtZXdfR1FwT1dEZkdfRXZrQ1RGSTJmRlhYZnZDY21IZzZvcEdCT0ZDMTd2NXhTbEtZUTByYzcyaVF5TFJIdnRPVkt1bXFuTVFNMjFDZnBIOUp0ZVpnLTE4Y1AxdVhCZWhiTzVQeDJyTkZrWllqRTAwY0HSAZsBQVVfeXFMTWJHMkxBOWFvMnFrcU5yQ3VOcG5LbUJBY3l3RkQ2bW02Q2N1azM5OVFUY0tES1laRDVMcnJLUUFNNllBQUFtbWs1YmZjSVpHenBCNDZwT3VWR3VIdDNxNF90YW9zNFFKam0zNTdSX2JfT3M2Q0lGX1BIS2J0cm90Sm8zRUhoX1N5VTlXRndka09YY2tBa0diZGRwaVU?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261028T123537Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French unrest brings Muslim Brotherhood influence back into focus",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQnFLeTdtM3lOSmJ1NFk5b0tUdlNjSWdXTm5nc09UOWtra09CcVBmQ005Q3hCV3BucklteG1KZmNJRGl6QlJSdFZlWkg1V1ZxaFBWZ2FsM3IyR20yV3VJdUNmZEpXMW1tQTN5OHphNnprMDVWSGF6ekU1V05ETWZmaWEzWkkwb0hwbTZCT3N6SQ?oc=5",
-        "domain": "thearabweekly.com",
-        "publisher": "The Arab Weekly",
-        "publisher_url": "https://thearabweekly.com",
-        "language": "",
-        "seendate": "20261028T092510Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Israeli soldier visiting UK faces war crimes complaint",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFY1dkgwNVZueWhZeGNhZi14ZTZZdGVKUGZ1blpZSUR2MENsRlZFcEZSdXB4eE5ySUNXYncxaUNBNVhxaE1jM1QxWmZIblU2c0IycWpIV1dQVFBSNFZiZEpSTHpua1pjTHNRWV9SZXEzTHIybzNET0tqSDlJYUtzZ0hVazRtVXh4bWhQNGFJNlAwazBPQ1JKN051NUnSAaIBQVVfeXFMTUZhTkI1VFdyX3padVNMRTZGcnpHUDMycHYwckpUYlVIeXAwQldlU0wyYy1RY2VVREZmamI1Sldna2MzN3VPbnBnaDdpWmRrcV9XRFNLR0VadG9tMkdBbXpUc05BUVRxd3NQQ3hpdXUzYjZ2YTVxaVdaMzFmMGlXcUkyQTFYQUFYa1pFaGZQanh3MHRTenhNVGp0eVM4LTFyTDF3?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
-        "language": "",
-        "seendate": "20261028T161120Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "More 'reduced conflict intersections' on U.S. 421",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXZLUmFIZGJKRHpiSHIzVXRzY1FNeGJDWjI3dFRkMWprOFFYOWV6OWVCQlNHYS1QNU0tajB1bUFxQlhSMDloMGNrOFJTd2RMM29iMVVlRWg3ZERFUjJkOFVDaU5oWWFzNmFRdHIyNk5lelBBbnU4M19vREJKYWRodXJfZW5oMGZLcGVUWF9BaVpLbjg2cU9FU1h5WURpU2lrME93eC0xb1NYallxWnJSVTFDNGUySTFqQmo0VzE4cXlfSG5tZzVVTW0xd08?oc=5",
-        "domain": "www.journalpatriot.com",
-        "publisher": "Journal-Patriot",
-        "publisher_url": "https://www.journalpatriot.com",
-        "language": "",
-        "seendate": "20261028T180300Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "French students vow more protests despite Macron government's concessions",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ29JWE91SUo5Q1BiMHhCZFdKRHhVWWV0YlV2STRCV3ZTNXZCcUVBTzMya0k1QmxyWkpVTWFWNzBscEZ2NXd3ZElSS3gzUEpNUER4ajlyX1d6cVpyMzJ3ZWpITEJJd0RSVU1hb181SkRfTnJWSWUtZEl6WVVxeXcxNnYteUdzanBEak5xOXA4aDkzdUV6bENXeEdSLUlOM3FPZklLdnV6TF9CR3c?oc=5",
+        "title": "Macron urges calm as France counts cost of worst unrest in years",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd1VSODRfY1ZTZlpfMVBnaXZzSi1KU1ZsUlJWcWZBaWVaQ0Fyal85ZmEtdkR3ZU94c2ZEeGNzRXpIamtSQVdfVlpJWTdhcEY2ZkZaMFZGZzlTVTVCTDRoUDJybE90dGJGYTNmU1NwUTJDNmVZZllXTDFSR3hIVnBTV2lYTk9LM2N1MlREWk9VOEtidHY2?oc=5",
         "domain": "www.reuters.com",
         "publisher": "Reuters",
         "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261026T203519Z",
+        "seendate": "20261019T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "French Senate Passes Bill to Make Protesters Pay for Unrest Damage",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdWNEZE1WcGVlbmFJN1pmVXg4RzJuV1dSS01ESi1ZNmFBd1l4ZVUwalFLLTJDMFlFNnIySFRWeG02QkJVZ2dkcDh0MktyUWV6X2laVWNDXzdYUHpzZkZXWU9ZSlhWVjhXZVVfZEQ1bFlYbFZUamxiN05YYlZqTGdvU3Vob1lid0QtZ2VMd05GR2JSS2ZTSUR0QkJQM3lYcE10ZHc?oc=5",
-        "domain": "english.aawsat.com",
-        "publisher": "ASHARQ AL-AWSAT English",
-        "publisher_url": "https://english.aawsat.com",
+        "title": "Gold smuggling funds Islamic State-linked insurgency in eastern Congo, report says",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnhvbmdWV1pFaFhQNzVCM0JidlBvYTVSd2ppOENPdjVxT2tYcFA2c1ZjR2FIQ0I5VGtVUmo1SHBXWGJtRFhSXzdWd0Q0bjFLU0ZhdUxzb0pGSWRINFZYWUxmWFhERV9GMHA5SXN5WDQ5WVhPTHVVNmVfU2U3RDJJTC1WYVBFRGx3ZHVHMW41SnpsR0hkVGhUYkF0UGdfV0JsSVFBYUpsMDR5ZnNRV29Lb0h6bEthakZXSHpULURjZk1VNllvRWc?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261028T123645Z",
+        "seendate": "20261027T135145Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Jerusalem Daily: What’s next after Israel’s elections?",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOWI5c0NMVVJzZGNGalZ5OUJSaEw4UWl5dXl2TWRqLUFPb3VSRzVnMVFpR25oMDVlMTczYTRPeFFmOVZYc1k1ZGM5Sk9fQUhPUGF1Vl9PMzNUWlhiQWVMa2wzNHk1LVlNZDdnWnF0ejZSMjdlcVVrSWE2c0VaVDlCek1qU3VmRWllNEFITVdFZFE0cFhFeW9rLWVBWVE3SnNiOGpyWdIBqgFBVV95cUxQZ3BQbllsMGdiWTc0WHVZVFQtdjl5NlFZTGN1bFd4RWRuaEVLMW9ZQThscGNXc0U0aklUZjI4Q09Zd29WNDNWaWtlaTRWc25DeTV1WkpiUC12UEg0aGFMeThTQ0hwa0ZJbUtWeGhUR2RabTdocE1jMVZlN1pmWGZuVXZEc2dHZTllVG1JcHZBSWo2SGp1UW5XLThtRlBFRC1jdUZ0SDVnSnNjdw?oc=5",
-        "domain": "www.aljazeera.com",
-        "publisher": "Al Jazeera",
-        "publisher_url": "https://www.aljazeera.com",
+        "title": "US spending on Iran conflict tops $47 billion, Pentagon says",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWXp6WThVMDdzWDVIMnotM1V3dXc1eUwxM2JGRTFlNGphbmRJSWlDbXBIaFFjR0w4TnVhWVZsNmgxbzF4VXAtb3paT2d6ZFBFMksxeXdNX1RuNG9hSXlfMmpKVXNpRks5RUtsbmxUWEZweDRZLUFKRWp5RlFjOHFlbGRiR0V3enczUFNXaE1qbm9NMkswRFNJYUFELXR6NEFNQ2ZvWVhkOGp1aUFMOE1BYURvRQ?oc=5",
+        "domain": "www.cbs19.tv",
+        "publisher": "cbs19.tv",
+        "publisher_url": "https://www.cbs19.tv",
         "language": "",
-        "seendate": "20261028T183149Z",
+        "seendate": "20261028T223600Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Europe seeks to curb online unrest without pulling the plug",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZllrMUFNNjhSVkJsaU43VVVrQ0RxNzM2bXFzb2JSbWtETGJnS2U0bkNfZWNZbHhscmtocFlVXzBHM1FWWUxqLUhEX3pra3pLQkU1X293T1c5SUp1SThiWElHWHZ5R1ZNZHl4VG92bm1rZ1BIYmYtbVhWVEJON3FtVHNjZTFWQ0U?oc=5",
-        "domain": "efe.com",
-        "publisher": "EFE - Agencia de noticias",
-        "publisher_url": "https://efe.com",
+        "title": "Unseenlabs RF Satellite Data Reveals Hidden Vessel Activity In Strait Of Hormuz Conflict",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQS2trN21jWVQtaFFlTUw0OTBlLU1qMWVWeTlkR3ZMRF9xaEdMTUdFeUNPX3poZkxtdURseWJBakM4WXQ3b2JySHBVVTJlLVJ1cU1IcElGVWMzZzE4X3Y4M1J0YTFtVk8xdHpRZ2dZOXFvYW9TLTlwa2JYbEJVOEw5WkF3Y0VBN2NUWUh2NmtsVW1ERVVDcXlmWVA2N0pwamlETGUyY3p4Q0ZIOFRoX3Z0ZkU1MkpXTTBySU9aekZSZlp6dw?oc=5",
+        "domain": "oceannews.com",
+        "publisher": "Ocean News & Technology",
+        "publisher_url": "https://oceannews.com",
         "language": "",
-        "seendate": "20261028T153959Z",
+        "seendate": "20261028T190107Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Iran war’s critics highlight eight-month milestone",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdFSDRxUHlYVGpMR3U5X0s4ZkNyYjVtTks2cGF1YlQtZ3lBZEVvNmJWc0FTUjRlWG5XUEN0QVctTHdvXzFraVRzc3RESnpvN2RzNzNCRExSSG1TMTRIbjdNMXBtVkxTek5LNDdkSHR0YmlIZWZYX0V5MVBtWWlyT3JHOXRpejFxUHc?oc=5",
+        "domain": "rollcall.com",
+        "publisher": "Roll Call",
+        "publisher_url": "https://rollcall.com",
+        "language": "",
+        "seendate": "20261029T002810Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Gulf States Prove Resilient in the Face of US-Iran Conflict",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHVGenlhcG12RThkMlZYT0Q1R2hTS0xlU0dPRW1LRzJ1NW03WXlMa1BXNFlWSlVLWldoS3BES2NhcTJITnZGbkZKMFVSMUVmSjF1WC15NXE2MDF2U2lEY0tzRWUtWnpfemt3VFlCV1g1UDA4TkpUdmNYbkl1S05JSlNQajJPbF84S1drajZZWjNlaXRnWWJRNTdRanZndw?oc=5",
+        "domain": "gfmag.com",
+        "publisher": "Global Finance Magazine",
+        "publisher_url": "https://gfmag.com",
+        "language": "",
+        "seendate": "20261028T060000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "From France to Albania, how social unrest is fueling protests across Europe",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGhyOTNUVXA3bWpTS0pjUDhFTDBBVGFobXR3Q3E5MzJmbkVuV1VIMUdoSkJxUHJvN3ZYbXA4UHVIT1FrbHVwLXBxbzBfWGhRYkJVVllXSjE3alB0WldLWmx3Ui1tcjFPbEJ3RDFuVF94VkpTYThqYlBPWVllZEJDZ213bWVmRWN4N0F2UmtsYkxDak5MNjQxeEhxZUFzR251dEE1YWtTaGxGRFN5ZEHSAbMBQVVfeXFMUGhpYXN2dnIydDFvS3p3WWFxQkZDeUN1Sk82OXFUMlBEdkJJVmVsYkVES2xqZnk4cC1zU2tCdk8tc3cwT0x3OGtQalRuY3haZU5NR0VTTjdXZWRwMFgyakVJajJma3A3Rll1cTlUc3NMZ0JONzJCcWFYODVQUk1uOVhSZ1k3X044eVhmYzhNYnhuTy05ZWZESFA2MlNYb2syZUo4c1JzVnhoWnVPMXM0OFA0RUk?oc=5",
+        "domain": "www.pbs.org",
+        "publisher": "PBS",
+        "publisher_url": "https://www.pbs.org",
+        "language": "",
+        "seendate": "20261019T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Media Advisory: Sixth Edition of the Commemoration of the AU Post-Conflict Reconstruction and Development (PCRD) Month-African Union - Peace and Security Department",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLVlZVWVzbWVHeWV0ZlllN2F1SWwzZ083T2NUMWI0YkZUX3RETERmcTlYcEFoZEkzbHdhUUZ5eUFSSk9xRUNWNzFJZ1Q2TkNkcUhnSEJKOUZWeTlUY1RqMXJZQUZnYTNTdk8tRm1iWHNtb2U5aWd2dGtpTHJ5SkFnMV9SLVB0TXE4REN4NVRpNVpXT0tVNFJIbEl2WnhEUFFCNjZKZFJ3M1lCUUxUVmFEN0FDVlZCV2Y1WHZ6Qm5VSGdqSU1xTFFVemxLZE1hMHNncVJ3ZFYzbThubWN4NVhZSUlsU2g?oc=5",
+        "domain": "www.peaceau.org",
+        "publisher": "African Union,Peace and Security Department",
+        "publisher_url": "https://www.peaceau.org",
+        "language": "",
+        "seendate": "20261028T083310Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "France's Macron tightens curbs on protests, blaming hard left for unrest",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHhBdkpVMVZzcjFPVTR6dkJIR1VJcGR3QXBOeFRHRFJuZFBGM2hWYzczWXdMUFdjVnpsYzI0RE1nZzhIMUNaQzVQMHRKa1VxcnpsaHJzalQzNHJXb2lkbDd3WkJQdXItb1UtZmpQNmQwQzQtV1VfUkJtdHpTR3p4OG95dmM3UkozM3FxWm5WMF9wMl9qQVVJR0l5NmxzV1pzVWtzVy1HXzQwSGRKTVlEZWtB?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
+        "language": "",
+        "seendate": "20261022T112600Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVlE5aWk1UVUtY1NHcFNvQnFKYXYyUTQ5NmlfZGdrTTFRNEQ4ZWN6STFkb0g0SGVGaWZNQkxkdmFUY3VGRGNUM1NLdTN3UnVhb0FsSXpSS0pBckVwa3NXbDlXcVZ0R1ExZklkYTlEZDFVdFJmM29SaWxfbklNZ1RUdkh2cHNZZzBqcHNr?oc=5",
+        "domain": "www.nytimes.com",
+        "publisher": "The New York Times",
+        "publisher_url": "https://www.nytimes.com",
+        "language": "",
+        "seendate": "20261023T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Scott Perry warns of potential Iran conflict",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vanJ4c1FMYnZRNURKSFcxZFhpM0x5SDNPVXZEajVZdXlGWFp5YVZ2YVN4STJSRVFqaXBva0ZZLWNycEppbUgyQkh3aGgyYlhjQ2k1dzAyVFVOTnM?oc=5",
+        "domain": "www.foxbusiness.com",
+        "publisher": "Fox Business",
+        "publisher_url": "https://www.foxbusiness.com",
+        "language": "",
+        "seendate": "20261028T134414Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Dramatic images show violent unrest sweeping across France",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZ0hGYVlQRnc1aFBYQXlYSFhzZXUyUHFZRFF5VUpPS1M2eG9YTFFlSXZFcmNzb0huYzNBalY2SFE4N2g1bUJHMkhwRXB1R0NMZE5JX0o5NFZkbnlYeXJ0NTJ6YWlsS2VlbDlTckQ0ZHNOVE04WGxGc2t0cXdzdTY3OGt3SURBZXNPYlZZSmtiRC1XRUlnTEVN?oc=5",
+        "domain": "www.nbcnews.com",
+        "publisher": "NBC News",
+        "publisher_url": "https://www.nbcnews.com",
+        "language": "",
+        "seendate": "20261019T070000Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Georgia’s gubernatorial candidates conflict on public issues",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ra05mSkVfS1ZwZmFRSDVud1ExUUs2QmM2V3NyX0dnTDZpSVNFMzdxRVJoTy1GTjdMZDVyS0VzSEQ5TmI2WTh1WnlzWDk1aUN6ZGxBMVpoUlJhSDg4MHBISVppbFBlYm05bGtHLVE1SzY5azVrLXljTDJlWnA?oc=5",
+        "domain": "thesoutherneronline.com",
+        "publisher": "the Southerner Online",
+        "publisher_url": "https://thesoutherneronline.com",
+        "language": "",
+        "seendate": "20261028T120517Z",
+        "source": "GoogleNews"
+      },
+      {
+        "title": "Tarrant County ballot board member’s husband is on the ballot, violating eligibility rules",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSTVTeDhzNTRpdnc1M3VvdDBNV2NqN1o2bnU2b1Vlbzk4NFlQam1nemNod0J0bl9QOXVucDY1cTJ2REJCZWFObDYzd2dIeVZBcFZoclVfSHN1N3FKTWZLQUgxVHh6Wm14Mmd5R2ZkUFlVbjlSSEJzVVM2djdSd1R1SGNQUV9YUFhJLVhkbkl3NlhkenF4UTVGMjdtemJqUk0?oc=5",
+        "domain": "www.dallasnews.com",
+        "publisher": "Dallas News",
+        "publisher_url": "https://www.dallasnews.com",
+        "language": "",
+        "seendate": "20261029T005316Z",
         "source": "GoogleNews"
       },
       {
@@ -419,23 +459,13 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
-        "domain": "www.theguardian.com",
-        "publisher": "The Guardian",
-        "publisher_url": "https://www.theguardian.com",
+        "title": "Iran Weighs Qatari 7-Day Proposal to End Conflict With US, Israel",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUl9xNEtXemRXRk1HV3RXWktkTDd1WTZHZUlxX21tMnFxTkZObHV1VnlxM1ljMzBZNEpKU1dPaE0xaWhiUWhRSWhIb045Wl9QWFFtMlI3WGFtZkFpSTkwdkI0VENPcXBfbmotbmxCZngwMlRRcHE2NThpU0EyWjMtUnNpVjM4SkVvckN1UjdsMXd1clZrVlBWRWEtVkpoXzVhaXc?oc=5",
+        "domain": "themedialine.org",
+        "publisher": "The Media Line",
+        "publisher_url": "https://themedialine.org",
         "language": "",
-        "seendate": "20261023T143100Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Europe’s Unrest Has Travel Advisors’ Phones Ringing Off the Hook",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmNwS2FPSy1CckJQMFR1eU9YemJ1Qm1PUVNOQmdfaVp6TGYzUnh4NmJfd09rWVprcndULS03cVRpTEFLR0Y4RDB1ZFp2a2d5RmFoelRVY29UOG1FdjlCZUstM0U2RmFOUk8xMDRjYTg0Qlo4VzJZaTgtNjF3ZTA0dklHMklDN2hyNXY2YkpuN0xlcHN2TkR5ckstZmR5empkcHdmVEY1Z18zYjZCM3Fqd2RUbFJTZE1WM1FpemMzLXhYUQ?oc=5",
-        "domain": "www.travelmarketreport.com",
-        "publisher": "Travel Market Report",
-        "publisher_url": "https://www.travelmarketreport.com",
-        "language": "",
-        "seendate": "20261028T183400Z",
+        "seendate": "20261028T111044Z",
         "source": "GoogleNews"
       },
       {
@@ -449,16 +479,6 @@
         "source": "GoogleNews"
       },
       {
-        "title": "France to deploy troops, admits to failures over weekend unrest",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJ1TFFHTzZnd2dhQWFDZ053eUx6SnN2NmdSSEZrR3FKLTMtMWpNem1TU0E2VUpRMGNuUl9NRXZ6X25haHNrMzlVMmd1MGQ4UFdyZFNyYWZQRjREWHNTdWQ0ZDktZjlqZFU1WWl5NF83OGwwVk01R19XZ3IzQlVXSWkxaVR6cVpfWWpWb01CbDJDbFNHUHNYUGdXcmk0d3pTeFEw?oc=5",
-        "domain": "www.reuters.com",
-        "publisher": "Reuters",
-        "publisher_url": "https://www.reuters.com",
-        "language": "",
-        "seendate": "20261020T070000Z",
-        "source": "GoogleNews"
-      },
-      {
         "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOC11eFk1bzZtbDZJckFTX0dZSUFYZ0RrOWdUOHVFLVhpbm43UVZQX2ZYZ2hnaFVaM1Npa1p1VlFrdHVFZ0gzZDQ0blJib0QyZnowbVRkT3o1bUlRQkxuRTdTS0lfdTcxd1dSc1dQOEd5bnR2U2R6TG9vY2hjdDdDNFFRZlE4aWRtRTQ2N1RQY2VDb3BmdTNLNFNoTVA4S0Nra3dlc0NBMWTSAa4BQVVfeXFMTU5EdEc2VFRjUlpXUTBIb2h6NjlUdmQtYmh0RWpXRGlVLUcxWTB4Mkd6b0ZyRDZaZ1cxQTB0QWtJR3Z0WmoxTGdGMkxOUUV6NFRkQm1Qa1BIRmZpTG1ndGMwd0tNb2o1MHNoUmJXMVo2QkI5Uk9kZk90VGs2UUhtcDFhM2N1eHZNUUhnWl9jbXBra2FaM09wYXRxSXAtS0daaFlrYVc3YjltcUc0TDBn?oc=5",
         "domain": "www.aljazeera.com",
@@ -469,86 +489,56 @@
         "source": "GoogleNews"
       },
       {
-        "title": "SPONSORED: FHSU workshop focuses on employee retention through workplace conflict management",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2SE5wX3ZDdUk2czBrYkJwdDFsRVJCcGZiU0FqZTg3SHRqRkFGZ0hWLWlZUnM3MUE1aXp0QVpCUlFyWlBFS3FNa2Y5R25DajNwUmROT1FvN1Vta1FsRmpHNzZ6Y3h0MkJodEk2YUF1MHI?oc=5",
-        "domain": "hayspost.com",
-        "publisher": "Hays Post",
-        "publisher_url": "https://hayspost.com",
+        "title": "What's Distinctive About the Unrest in France? An Anthropologist Explains.",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSUJUeTZPWmp6U0lXbFJfVl9FWnlQMU9xQXVJQkdoMHNJR19QWXJsQzFxS3lGOFRZQzhsckp4ODBvMnowUkRDZDdPZ0MwWTBPZlJPdEFnNF9FbjhWU3k0RjllS1NPQWFWQ1V2M2pHc184RDJwZDhpTDZKX1AyaW91YWludWxYMVBtNlhfUm0tTmxsaHZ0?oc=5",
+        "domain": "www.gc.cuny.edu",
+        "publisher": "CUNY Graduate Center",
+        "publisher_url": "https://www.gc.cuny.edu",
         "language": "",
-        "seendate": "20261028T083727Z",
+        "seendate": "20261023T120000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Texas voters reflect on local politics, economic pressure and foreign conflict",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11cTROMGI4MV9wS2VjWWhBUWFIWjFkNHpJV3FLaEhzRm9xLXJEZUNMNFNlMW5zVlFzVXJVc2pTZnZZU25tZ1l2OEJDc1FJT0JqTXo2em5R?oc=5",
+        "title": "Protests spread across Europe as France braces for more unrest",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iOHhKY1N0SU5rOXRkZExBU0I4SGp6RUVjVTdsU0d1SUpudlFPTDJZVjBKWDVheTg4Uzg0UTF2bjQ2TXRKSUxHRDRNUmdnbmg2Q2dvendB?oc=5",
         "domain": "www.foxnews.com",
         "publisher": "Fox News",
         "publisher_url": "https://www.foxnews.com",
         "language": "",
-        "seendate": "20261028T185540Z",
+        "seendate": "20261028T120814Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Report: U.S. Prepares Gulf Allies for Short Post-Midterm Conflict With Iran",
-        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPMXpTRWxRNDVpNU5idnh4M201TVFEZDMteG1DQko5THA5Sy1NU0p6UFd6TTNYX216cDFVUS1NeUVGaEQ4REJVZU9rc2diU292V1Q4VUFrc1pLbVJVX18zejlQcUNBUk1iYnhLc3E4NDFoOFZtT3BkOUtldGpyZHVzNlFrT0ZnRmpBLXBHT0RkNjlqR01UYTZoM1BQOEMyMlZjMXUxRXZnY0lKNm1QVmhQLXQ5N254aFRjYXY4eEc2am1jN0Fsd1BRZ0xCdlFlY185aUFhOGQ1alg1Y2owVXZHZHZHZFltSFpiaUlQN2FvdnhoQkh1di1sczl6RUFETFJhby1J?oc=5",
-        "domain": "www.haaretz.com",
-        "publisher": "Haaretz",
-        "publisher_url": "https://www.haaretz.com",
+        "title": "France to deploy troops, admits to failures over weekend unrest",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmJ1TFFHTzZnd2dhQWFDZ053eUx6SnN2NmdSSEZrR3FKLTMtMWpNem1TU0E2VUpRMGNuUl9NRXZ6X25haHNrMzlVMmd1MGQ4UFdyZFNyYWZQRjREWHNTdWQ0ZDktZjlqZFU1WWl5NF83OGwwVk01R19XZ3IzQlVXSWkxaVR6cVpfWWpWb01CbDJDbFNHUHNYUGdXcmk0d3pTeFEw?oc=5",
+        "domain": "www.reuters.com",
+        "publisher": "Reuters",
+        "publisher_url": "https://www.reuters.com",
         "language": "",
-        "seendate": "20261028T110500Z",
+        "seendate": "20261020T070000Z",
         "source": "GoogleNews"
       },
       {
-        "title": "Ukraine war briefing: Kyiv retaking territory, Zelenskyy says, as Nordic leaders urge Putin to end the conflict",
-        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSEo5Rm5rNDMwMXVnR3h3T2NrZE1vd0ljZ2NGZGRNcnpTeFZUa2lyb0FiNVNzNk91NGpMbElVM1hsMTJRTGNxYThlQTZGUlJzbnFOckw1RE9lazlfVVp1cWJwaVdJUHprcW5ZSFpWRUpyNTFJWWRXVlU2TElBNk5FWjhqeFlBYTBQMnpvRTNQcnpBWXVUWXpyV2lpQTRmOGZZOWloY3V3YkEzVmRKSDE2X1puQXZOR1JPbXAzc0ZMSDN6eU5jbDFvQ09aVXM1MEpFWWMyOGtjQlhaNGk3aXNZV0l5LS1vMGVYcXc?oc=5",
+        "title": "France to deploy 70,000 police on Saturday to prevent civil unrest",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX2R5ZGY4ek5pallzN0d2aWRCSFBVQ3Q3STVPM2xOeFNBSmh2ZGtZY2dNbER4S0lCN1lBU0cyYnFfME5lVGRpbWZTdWt2THJvQVN0VXV3UDQ3X2JvMlFDVDJoS1dPVEVOUXdJVTBTcHdyTTByT2c2ejNweE03VHhHci14cTFPSTlvLUJPMFdZTUw?oc=5",
         "domain": "www.theguardian.com",
         "publisher": "The Guardian",
         "publisher_url": "https://www.theguardian.com",
         "language": "",
-        "seendate": "20261028T041900Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "Despite Conflict, Nomad Abu Dhabi Expands With Chalhoub Group Collaboration",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONkhBV25ySjVXMm9NdmNTNGdKTFRMWXhjMVhjSHVmbVNNXzR6Y1pzVlFSd1F5QUJxUkVjS3RMbWU3TUZ0MUs5SmJ1UHJvQzRTTXc2V1ZzTkNKRldIQUtyOVh0dFM4THZsbDYzcjRXT2VSV2VLT3A3YUxsMjZfTEg4MlJRRjdIeDgzUzBtR0lFQjc3QQ?oc=5",
-        "domain": "www.yahoo.com",
-        "publisher": "Yahoo",
-        "publisher_url": "https://www.yahoo.com",
-        "language": "",
-        "seendate": "20261028T164253Z",
-        "source": "GoogleNews"
-      },
-      {
-        "title": "30 years of protecting children affected by armed conflict: From commitment to impact",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXRQRW5JdG9wQzF1clZHZzZ0T0ZlcExodjVHWVpYZ0ZFZlI1V1RYaWdfZVNkWTU5SnJCRTRNb0JnS3RfU0hFMmZPX3ZFNWVsR1hESDZlbS14dlhDQlJSNnVkSjVYTFRYMXAxSVhKU3RsUUZHVGZOZWQwNFBLTjdRdnZadFpsY0d3QjZPaHJpQkxnVTBqcW9zck82Z3Rkd3BJYnNDQmsxMFF3dzlH?oc=5",
-        "domain": "www.unicef.org",
-        "publisher": "UNICEF",
-        "publisher_url": "https://www.unicef.org",
-        "language": "",
-        "seendate": "20261026T165535Z",
+        "seendate": "20261023T143100Z",
         "source": "GoogleNews"
       }
     ]
   },
   "events": [
     {
-      "title": "Paris braces for more unrest as riots reshape the city’s streets",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQS04QU9UdUVOYW9iaHhQUVBKaWFwa3NETWt4RHJub0JBRjRNVlM1NEpEeHliSXpzdllHYmM3cFR4dS01eU5qSDZVQ3l5RThLZXZqaENYOFYyS2piV0QteDlCeXJPT0k4N1RQTGVfR0d5QnRVU29sYmVObFpianhTT182OXk5Y2R6T2YwWGtvTmlpWV84SXljeW1PUk1MTE55SjRNbkxhZ0FxczhZLVdsbERYNA?oc=5",
-      "domain": "www.latimes.com",
-      "publisher": "Los Angeles Times",
-      "publisher_url": "https://www.latimes.com",
-      "language": "",
-      "seendate": "20261028T100000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Ending conflict is ‘number one thing’ to reduce world hunger, new WFP chief says",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQ196bElvM1Vacy1rcXo3YTRLUWhUbzlCbjV6d2t0bVY3RVhmNHhkYWthWU4wQ01ObVZldzRneGFpd2lVdFp4X0VaWlhmQjViWlFxTnZVbw?oc=5",
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzbXlwN3g4eHZiTl9iTkVpZVU1akNSOXV0S1ViTjd4aEFvUUV6cFo0Y1hKWHdOOC15bkFPOE5YSE51Qll1LVllV1NIekszR3lkWW5vLVhadw?oc=5",
       "domain": "news.un.org",
       "publisher": "UN News",
       "publisher_url": "https://news.un.org",
       "language": "",
-      "seendate": "20261028T190457Z",
+      "seendate": "20261028T164259Z",
       "source": "GoogleNews"
     },
     {
@@ -562,23 +552,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "AU Special Envoy Launches Learning Beyond Conflict Campaign in Nigeria, Advancing Education and Dignity for Children Affected by Armed Conflict-African Union - Peace and Security Department",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWnZGbWxqYkZ3UEp0ZndhWkpNUWV6dE9wNEhnZE9relIteUtXQVpNM2RJT1FwQS1vV3N5MVFMeHRtMnlfS1VVQmdGMW5xWC1MV3pWenBOSXhoZ0hjUkt1UFZxTDZfbHMxRkZqMDNvVTU0SldfNmxkRXhGUTh1YnJPRHlpektnSDZjVWplMFYwWU51NjU0M1dXdWlQWDZ6LVlUT0tjemtOYjB1cGRWNndDbGlaemNJYXdJMXZtMWRRRVNubDVuaFlFQVM1NGxXQmRxbTJzSlBNTmJxVjJOR1g4VUw3cFhrYkxKaERmNkdNNDFxdmtlcXJKM1VFX3hCUGdwa0kzRWJFR2c?oc=5",
-      "domain": "www.peaceau.org",
-      "publisher": "African Union,Peace and Security Department",
-      "publisher_url": "https://www.peaceau.org",
+      "title": "Paris braces for more unrest as riots reshape the city’s streets",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQS04QU9UdUVOYW9iaHhQUVBKaWFwa3NETWt4RHJub0JBRjRNVlM1NEpEeHliSXpzdllHYmM3cFR4dS01eU5qSDZVQ3l5RThLZXZqaENYOFYyS2piV0QteDlCeXJPT0k4N1RQTGVfR0d5QnRVU29sYmVObFpianhTT182OXk5Y2R6T2YwWGtvTmlpWV84SXljeW1PUk1MTE55SjRNbkxhZ0FxczhZLVdsbERYNA?oc=5",
+      "domain": "www.latimes.com",
+      "publisher": "Los Angeles Times",
+      "publisher_url": "https://www.latimes.com",
       "language": "",
-      "seendate": "20261028T081305Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "War in Ukraine | Global Conflict Tracker",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
-      "domain": "www.cfr.org",
-      "publisher": "Council on Foreign Relations",
-      "publisher_url": "https://www.cfr.org",
-      "language": "",
-      "seendate": "20261027T120000Z",
+      "seendate": "20261028T100000Z",
       "source": "GoogleNews"
     },
     {
@@ -592,13 +572,33 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Visual Studio October Update Adds Bulk Git Conflict Resolution",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxmNjdNbG45dzF5TmVfbTJ3bWRVMGJ1MzhDYWtPanRkOElXeWFtRENsSGdOaTh1TTA1LXRuMzBZcWY2Z0Zydi0wTTFaSGEyOGlRV0VyRXRqMV95NUNZU3VQNGdMMklXbndrNFVVQnV2X1pFVHJHdW11dWNuWlNQeFc0emUteTVkRlRJeGdWeUZsQ3VtS1ZIaFR3MDVwMkxkTW5ESkotTzk1Sk5Yajl1NE9vTGMtVFNDbm94Yw?oc=5",
-      "domain": "visualstudiomagazine.com",
-      "publisher": "Visual Studio Magazine",
-      "publisher_url": "https://visualstudiomagazine.com",
+      "title": "Washington Postures for Potential Escalation in the Conflict with Iran",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFByN05wcXZYUXc3NnItekxJRGttenZ2Q0tqUXlpWlBXaFd1X20wV2YyMDJmR3lvTnFhRVhEYWh0MFVQdHYxUjZ2SEg5bHQ0MGU2blBCMS16VmhTVEN6RFR0SEFFaWIwZw?oc=5",
+      "domain": "thesoufancenter.org",
+      "publisher": "The Soufan Center",
+      "publisher_url": "https://thesoufancenter.org",
       "language": "",
-      "seendate": "20261028T212230Z",
+      "seendate": "20261029T040544Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Facts and figures: Women, peace, and security",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdmZHQ1lmVGVRMGxyZ1hLVlA4UFNzRlhmNVhUd0JDMlIzcC0tY0RRNW1XTzluLTRWaXRNbjJsN00xekxvTUladG1FNDNTNExLenVrT1p2Y1NrTDNYekpVRXpVRDVQUkcxSzdUZWZxeFc0d0NKVG1pTmNJVl8yZkJrN0s0d0E4N0NJRVRVYXE1Rmc4VzEzdTluWFczSDA?oc=5",
+      "domain": "www.unwomen.org",
+      "publisher": "UN Women",
+      "publisher_url": "https://www.unwomen.org",
+      "language": "",
+      "seendate": "20261026T120000Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "AU Special Envoy Launches Learning Beyond Conflict Campaign in Nigeria, Advancing Education and Dignity for Children Affected by Armed Conflict-African Union - Peace and Security Department",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWnZGbWxqYkZ3UEp0ZndhWkpNUWV6dE9wNEhnZE9relIteUtXQVpNM2RJT1FwQS1vV3N5MVFMeHRtMnlfS1VVQmdGMW5xWC1MV3pWenBOSXhoZ0hjUkt1UFZxTDZfbHMxRkZqMDNvVTU0SldfNmxkRXhGUTh1YnJPRHlpektnSDZjVWplMFYwWU51NjU0M1dXdWlQWDZ6LVlUT0tjemtOYjB1cGRWNndDbGlaemNJYXdJMXZtMWRRRVNubDVuaFlFQVM1NGxXQmRxbTJzSlBNTmJxVjJOR1g4VUw3cFhrYkxKaERmNkdNNDFxdmtlcXJKM1VFX3hCUGdwa0kzRWJFR2c?oc=5",
+      "domain": "www.peaceau.org",
+      "publisher": "African Union,Peace and Security Department",
+      "publisher_url": "https://www.peaceau.org",
+      "language": "",
+      "seendate": "20261028T081305Z",
       "source": "GoogleNews"
     },
     {
@@ -612,6 +612,26 @@
       "source": "GoogleNews"
     },
     {
+      "title": "Visual Studio October Update Adds Bulk Git Conflict Resolution",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWxmNjdNbG45dzF5TmVfbTJ3bWRVMGJ1MzhDYWtPanRkOElXeWFtRENsSGdOaTh1TTA1LXRuMzBZcWY2Z0Zydi0wTTFaSGEyOGlRV0VyRXRqMV95NUNZU3VQNGdMMklXbndrNFVVQnV2X1pFVHJHdW11dWNuWlNQeFc0emUteTVkRlRJeGdWeUZsQ3VtS1ZIaFR3MDVwMkxkTW5ESkotTzk1Sk5Yajl1NE9vTGMtVFNDbm94Yw?oc=5",
+      "domain": "visualstudiomagazine.com",
+      "publisher": "Visual Studio Magazine",
+      "publisher_url": "https://visualstudiomagazine.com",
+      "language": "",
+      "seendate": "20261028T212807Z",
+      "source": "GoogleNews"
+    },
+    {
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVlZLR1QyUFVZZ0lXeDJNWi03TU1jTVZ1UW9kQWxMa2FPclNxdDBhOGpzajBZOXRzdllfOHA5SEx2MkhlZ2NhRHJlMlB6Y3VqUEFMaDhqTC0xN0F1Sk1kd1VFZ29UclNKdGh3MHFXb2poLTB4SWJmUWc0SVYtY1BUSk1sclQ3RFQxRTgycXlZM2VCeWZW?oc=5",
+      "domain": "www.nytimes.com",
+      "publisher": "The New York Times",
+      "publisher_url": "https://www.nytimes.com",
+      "language": "",
+      "seendate": "20261024T212315Z",
+      "source": "GoogleNews"
+    },
+    {
       "title": "Iran’s Inflation Hits 88.7% as Officials Warn of Job Losses, Winter Shortages and Social Unrest",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOanlUZ1RLTHZpNU8wMm8tUGpBR0lYV19xdlU1VkVsVEVMVDFRa1lnS3drNno5bW5pNTF3T2dFOWNMaTRDUkRwb3l3bGNiZjlHa0hTWG5rVFRZd3p1ZHNPNzBubzRCVFZ0ZXZMZnlIVlpaTkRUNThPekk5US1wSFpiV0NPNUU0MFZfMHhUZnprTUJtVWxPWHRHa0lDYXBib18wMm50UDFLQXQ0SGFMM1RralhFckdoSU9qbkE3eV90STM2dHU5TjF6WWhSVHdTODQ?oc=5",
       "domain": "www.ncr-iran.org",
@@ -622,23 +642,23 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUllIRk5DLVRaTWpBZlVZLVFlOWRscGNJQWtBRDRJTGRHbDFMaV9ReGRnczB2QjJQaXF4bUstdVlKazk4Z0FoZ2pnOWZ0QUVkNmhxczJaYWNaMUswem9RTDNnWjZUbzVFZkRNdTJ2eWdfVS1lVXN6UTZkTzRVa0dkQ0N6YXdGaHNzTkp5WnQtZlZ6bTJfaC1ESGh5NHhCNzE1?oc=5",
-      "domain": "theconversation.com",
-      "publisher": "The Conversation",
-      "publisher_url": "https://theconversation.com",
+      "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
+      "domain": "www.wsj.com",
+      "publisher": "WSJ",
+      "publisher_url": "https://www.wsj.com",
       "language": "",
-      "seendate": "20261028T080151Z",
+      "seendate": "20261028T192200Z",
       "source": "GoogleNews"
     },
     {
-      "title": "As Midterms Approach, Signs of Impending Return to Open Conflict With Iran",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUV5Rm1oX09zbFdldEJ3V1diQmRNVmlCNEI3dzczTWF4Ry03Njg2cDZJQ1doV1F5WEpqMTJXalBxMThVLWFOT1ZadVkxb25qOXFwR1B1WDlUUk80RE5Qa2dhMkoxZ29aMjhmZ2wzTmlCVVAzQjFfODlsckFQR0M3Tzl4SVR2RkNRLUdJNVplNzl3dVFpOXd6U0RKZlVzaWF6cGVfOWpWbUxEdktVS3lkaFNB?oc=5",
-      "domain": "maritime-executive.com",
-      "publisher": "The Maritime Executive",
-      "publisher_url": "https://maritime-executive.com",
+      "title": "Four-time Herndon Town Council candidate aims to cut through partisan conflict",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ1BWS1ZmUlBKU0ZTYlFSamE2TGI1YkQtUzB2aS1vNVdMQnBDTjdkT09xa3JYdzlIa3Ftc1A3TG9RRmdrTzFCTmNiX2ZEZ3F6dGRaTW1XMVpQc1J3M2J4aHZJenNFdE81OTdobV9EMXhWbXd6TktRRHZQbVp2SDFRVHc0QVZQN0s5Z0VaRmxSRDcwN3hkaU5aMWZkLXZGY3J0UjMwVkZxVVIyMXlBR0FlelpGSQ?oc=5",
+      "domain": "www.ffxnow.com",
+      "publisher": "FFXnow",
+      "publisher_url": "https://www.ffxnow.com",
       "language": "",
-      "seendate": "20261028T192157Z",
+      "seendate": "20261028T184513Z",
       "source": "GoogleNews"
     },
     {
@@ -652,33 +672,13 @@
       "source": "GoogleNews"
     },
     {
-      "title": "Gulf States Prove Resilient in the Face of US-Iran Conflict",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHVGenlhcG12RThkMlZYT0Q1R2hTS0xlU0dPRW1LRzJ1NW03WXlMa1BXNFlWSlVLWldoS3BES2NhcTJITnZGbkZKMFVSMUVmSjF1WC15NXE2MDF2U2lEY0tzRWUtWnpfemt3VFlCV1g1UDA4TkpUdmNYbkl1S05JSlNQajJPbF84S1drajZZWjNlaXRnWWJRNTdRanZndw?oc=5",
-      "domain": "gfmag.com",
-      "publisher": "Global Finance Magazine",
-      "publisher_url": "https://gfmag.com",
+      "title": "Mideast conflict haunts race for Berlin town hall",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDRTS0QwMWtBS3Q3S2tuMzJmZlhGZkF5RHpOem4wa0ZENTFFaFE2bVBSUXlCX3o0MEQ5M2pJdXVvcVJTNU9HcVF3NU1ZV3ZVVzlGbEJjRHBQRjNDWERSTG5EMUFINVZ5TG53SFhQSFFuUEprOVhVcTVGc0c0UHpETUJyUGROdkp2ZTB1VHdoVHVJdw?oc=5",
+      "domain": "www.arabnews.com",
+      "publisher": "Arab News",
+      "publisher_url": "https://www.arabnews.com",
       "language": "",
-      "seendate": "20261028T060000Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Atlanta Dream says it warned the WNBA 2 months ago about scheduling conflict concerns",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNFNDYjkyTXY2cXJZWk1zdTdRY0xxcF9sWkVGR0dOdHlnYXM4U0E1V0tPc0xyUnlnaDVkTVJFWGxIRE5ycFNOZzJ1S2N3YnBlcXBwWkw2bGVTMXNFT01qX1NhWWh5OFdmNlVLZGhWTjEwYWpLNV9tdEpPNXlLQVczVG1WbnhOdGhOMFE?oc=5",
-      "domain": "fortune.com",
-      "publisher": "Fortune",
-      "publisher_url": "https://fortune.com",
-      "language": "",
-      "seendate": "20261028T181900Z",
-      "source": "GoogleNews"
-    },
-    {
-      "title": "Oil Prices Rise on Worries of Middle East Conflict Escalation",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSlpYejlRTmd1MFprTGxzTHhIQi1taDhJVkMtTThYN1Y5UktONWZxcVM5TEJ2Sy1Jd25QZXFCem5uNDkzOGU3Z0NONzE1V0ZPT2E2QlJTdjZreDg0eXA5Z21MandpYmI3azQ5Q0h4azVTdHpYQnVQVGdYR3pEajBid0QtT0taZl9OVktOSUhIWjl6eGdqYlJ5RFZOd3p1LVRkVjVCVg?oc=5",
-      "domain": "www.wsj.com",
-      "publisher": "WSJ",
-      "publisher_url": "https://www.wsj.com",
-      "language": "",
-      "seendate": "20261028T192200Z",
+      "seendate": "20261029T031029Z",
       "source": "GoogleNews"
     }
   ],
