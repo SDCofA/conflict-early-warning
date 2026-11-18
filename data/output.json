@@ -1,12 +1,14 @@
 {
   "meta": {
     "project": "conflict-early-warning",
-    "generated": "2026-11-17T20:56:01.755498+00:00",
-    "mode": "live",
+    "generated": "2026-11-18T07:29:49.483498+00:00",
+    "mode": "partial",
     "sources": [
       "news_articles"
     ],
-    "source_notes": [],
+    "source_notes": [
+      "News fetch failed; showing a retained sample less than 24 hours old."
+    ],
     "version": "2.0.0",
     "methodology": {
       "scope": "topical news sample",
